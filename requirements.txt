@@ -1,5 +1,5 @@
-openai 
-google-genai 
+openai
+google-genai
 python-dotenv
 pytest
 crewai

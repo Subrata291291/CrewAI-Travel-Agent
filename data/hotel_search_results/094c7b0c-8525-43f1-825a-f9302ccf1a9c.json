@@ -2,9 +2,9 @@
   "trip_id": "094c7b0c-8525-43f1-825a-f9302ccf1a9c",
   "destination": "Kashmir",
   "search_location": {
-    "place_id": "ChIJ_dw6eXsqGzkRXgM3DlD1ZV4",
-    "name": "Kashmir",
-    "formatted_address": "Himachal Pradesh, India"
+    "place_id": "ChIJTVT-EySnjzARsG91DXmFKJ0",
+    "name": "Pahalgaon RV",
+    "formatted_address": "Andaman and Nicobar Islands, India"
   },
   "checkin": "2027-02-25",
   "checkout": "2027-03-05",
@@ -19,7 +19,7 @@
   "budget_per_night_all_rooms": 2500.0,
   "total_stay_budget": 20000.0,
   "nights": 8,
-  "searched_at": "2026-10-24T19:55:00.166970+05:30",
+  "searched_at": "2026-10-24T20:12:53.329453+05:30",
   "offers": [],
   "search_diagnostics": {
     "provider_hotels_returned": 0,
