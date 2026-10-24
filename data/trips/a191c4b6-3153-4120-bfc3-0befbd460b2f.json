@@ -1,0 +1,22 @@
+{
+  "trip_id": "a191c4b6-3153-4120-bfc3-0befbd460b2f",
+  "travel_request": {
+    "origin": "Delhi",
+    "destination": "Goa",
+    "departure_date": "2026-12-10",
+    "return_date": "2026-12-15",
+    "journey_type": "round_trip",
+    "nights": 5,
+    "adults": 2,
+    "children": 0,
+    "rooms": 1,
+    "hotel_budget_per_night": null,
+    "currency": "INR",
+    "hotel_required": true,
+    "flight_required": true,
+    "hotel_preferences": [],
+    "flight_preferences": [],
+    "transport_preferences": [],
+    "status": "ready_to_search"
+  }
+}

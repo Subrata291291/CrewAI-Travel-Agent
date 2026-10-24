@@ -1,0 +1,94 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "hotel_name": "Tripli Hotels Stone House Cottage",
+  "hotel_id": "lp655b9274",
+  "offer_id": "AwJ2MQAAAABq3ZiAtBooXYqfV-tRtj6pw4wSAMooqVaXmXTv1IPojrbJo6ysuxkI7QqOpQAWauYBOoqjtmBQpuo1TTpjuc7AoIGmywF3l2pioA9aKTgzeoooNBVhb2092nV0Kn-c4crhFf-NVcDPMWgD_WjlW6fdJjlH3kmhuLxYHuMM50PYjlAz_ap2kmBkZPZDovCULby3tM00maTSCKOt6N9M_vJIuLPBvf7bpy3xIcXwDfmW5Cm5azDl4v1uQ_HonTDMpWs5Eqtl7oEuphDh2LA4_vpseVhaCfy2IAsUfuI7RCynGgVBm0zca4EQj_mu2qiYnIn0Y0F6Om2fQjAhy7CJ2WH6e1AwDx8okvA9sP_cAZraxEEADHW3K1_UQSBD5BR3MDogzvziCtlwSFzWmmc2OlZGQL9Fzb9-v0Ayau3zleoY8Il6o9g63xbcsdSltbk_l2t_tFA1Ucuv7jpxOc-A0__o8N17N4WpbQHY-NhKj2V_lliBAdzy8h38PJP4ZXj8c7kyvHXa8T9l3sg-0yzl9Cly0Q_mvijWS0Z_hfY4DlctrxD5G8yJEJG_kpmGu7i7UHTDLE67Z3A6XMEPMLgeLe_Gz6NiGxzFY6__FLverNQMqNgffl-04wgwyo9lnqDH4Ai8zsSmwn-cBStKngkV8s-KyRBl9Uj9Dz-M5geZdqieEWKfCEq2DlXp1W33utP9Mxfvv4oUaYW6DgjbSpHzDw3t4sEebABt1XXUObdD5nUx84G_yHQOSMAhDGNTaJ44m6JH9C3s4uFvwN8LVyk3k9id0Os5SOZZzd1RvggW5kf8fyNsA7Wj1vOUCYfiLLL8gRpWGsMjsKl2YDIsJEAF8fhp9faVlLDB5lgdGo0A0Va6e1DuhgB8XclyBbvEmvsYaZSxILWg2M-jWWLf1HEmMFAhO87b5StkMxBNPcTwXGduOSmw9OHEbXDK3P-rUHdCxzG5ApetxfdzWEQKfaJzbHaKtnKlEzRYr6yFnQq6r5OSa73cttE9cjZFICyhZ2ZpX8ZcRGTQ8jgtDXMGrrHjKbWCm-8N3sLwr7ZoA5cx-MitjTB38dyh4iqGNjOluo_q1zQsYZg0sEqBnXOHvVGwupzKYWqdsAOexQKtcCsIvWZbIvdwifqfn-PJ984KKIGBRl5a2onHltpM0Rv46vs24BPmdyF0d8L3YkUePAVkOg27UX69OZpSIvnEBvubOTENn_Epw-05KCEFsZ0v_ynJpXw0qZfUkEH0CeaueE4N0JCVV6uSfwN7SyIKlcbPW9tH_P52RSffkdhiRGgm6C392YHKie9H_A==",
+  "searched_total": 6002.69,
+  "searched_currency": "INR",
+  "prebook_id": "rEYCNFquF",
+  "prebooked_at": "2026-10-24T05:50:08.787056+00:00",
+  "prebook_response": {
+    "prebookId": "rEYCNFquF",
+    "price": 6002.69,
+    "currency": "INR",
+    "roomTypes": [
+      {
+        "rates": [
+          {
+            "rateId": "I42FUVCPJZFFOSCFGNKESTSSKZDUSWKEJ5GVEV2NLEZUOTKOKRCUOSKZIRHU4WSXJBCTGVCJJZJFSR22KRCE6TSKLBDVCWSEIFHFUV2HLE2FITKOJJMEONJWIRBUSWSTI5AVURCNJVFFGR2FLFEFSTKSKFDUSM2EINGVEUSHKY3EOSZTKM3UWVSKLBMVGS2PKBJEKVJUKVKDIR2KIFKECUJTGRDVCMSUIVHUYNCOIZEUOT2WJNEVAUKZKRHU6SSTJBAVURCBJ5FFUR2FLFKE6TSEJ5FE4VCHJVEVUUSHGRMUIQKOJJIUOQKZIRIU4QSEI5CTERCJJ5FE4R2FGNKECTKCKZDUCWKEIFHUEVKQKJFEKTKUKQ2EOSKZIRCU4USSI5EVSRCRJVFFCR2BLFEFSTKMGRFUSWKUINHEUUKQKEZUIQKNIJJUOWJUKNDVKU2QIVHEURKNKRJEIR2JLFCEKTSSJZDUKWSDGJGUEWKFIFMVIQKPKJIUOQKSKF6DMMBQGIXDMOL4GIYDENRNGEZC2MBZEAYTAORQGA5DAMD4KJHXYMRVGMYDQMBXPR6HYU3VNF2GKICSN5XW2IDXNF2GQ33VOQQFM2LFO56DALRQGB6DALRQGB6FG5LJORSXYMBOGAYHYMBOGAYA",
+            "occupancyNumber": 1,
+            "name": "Suite Room without View",
+            "maxOccupancy": 2,
+            "adultCount": 2,
+            "childCount": 0,
+            "childrenAges": [],
+            "boardType": "RO",
+            "boardName": "Room Only",
+            "remarks": "<br/><br/><br/>",
+            "priceType": "commission",
+            "commission": [
+              {
+                "amount": 0,
+                "currency": "INR"
+              }
+            ],
+            "retailRate": {
+              "total": [
+                {
+                  "amount": 6002.69,
+                  "currency": "INR"
+                }
+              ],
+              "suggestedSellingPrice": [
+                {
+                  "amount": 6903.1,
+                  "currency": "INR",
+                  "source": ""
+                }
+              ],
+              "initialPrice": null,
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 321.23,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-12-08 10:00:00",
+                  "amount": 6002.69,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                },
+                {
+                  "cancelTime": "2026-12-09 10:00:00",
+                  "amount": 6002.69,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "mappedRoomId": 2530807,
+            "paymentTypes": [
+              "NUITEE_PAY"
+            ],
+            "providerCommission": {
+              "amount": 0,
+              "currency": ""
+            },
+            "perks": [],
+            "promotions": null
+          }
+        ]
+      }
+    ]
+  }
+}

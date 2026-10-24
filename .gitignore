@@ -1,0 +1,45 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+frontend/node_modules/
+frontend/dist/
+data/flight_prebooks/
+data/flight_booking_attempts/
+data/flight_bookings/
+data/auth.sqlite3
+data/auth.sqlite3-shm
+data/auth.sqlite3-wal
+data/*_provider_diagnostics.jsonl
+data/planning_drafts/
+data/hotel_servicing_attempts/
+data/hotel_service_previews/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and generated reports
+*.log
+logs/
+reports/
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

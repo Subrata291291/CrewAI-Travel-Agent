@@ -1,0 +1,93 @@
+{
+  "trip_id": "df50f9a4-aaa5-48e8-a74d-e84711999dfe",
+  "hotel_name": "Barsha Resorts Pvt Ltd",
+  "hotel_id": "lp656c2fe3",
+  "offer_id": "AwJ2MQAAAABq3cPHTZVA3zcQ-gEd4KbybLzvDerdg_EBetrfxG5RjTOgB3rm90QbSwJ6eGVRwFCS_hqWDvt7-ZyFkUU2QIP-_P85wtD8d--vb5xTKSjum5V9OD_6Uc7cx8l9ocXogF8RWjuW8vQJfwKfE9Yu_f9eixtRVIysHrt0Vl56leoelWO8JfHKEUXv_xkGfeeRyhDV2b2Hjjff6StFPbsBBRwMcKtIgahFauVAHyMNqvK5gQUS6EJQUXT6EZ-CTVe4TpyZAYE_oGfBlu0oxDLkzfaKpfG3y5RCKdr68Gw-P5VuDbGG8rXMxlokQ3HVfxCwZBK5TrWtD43-hgvFmDRPY9cUQ2SwuEpTehrBDSF4AtkGP1MXm_D7MwQjXmQ5Y7OXyZ4UsnvlhUFaYybMGTtXF_1iqgdDgKvV6fxdw6ZU1VLOoda-TaXA6__SvwuWh4ujyjPdKgPn3imsvTdvh5REl3IEGdfqUV615PPWv_xlDkQd0GERx3mtBfN0H4-mGzxMmzsdXvYa6edmIq0N5oJTM7o1uoonK-rnTAzXnFH2kA5X-dG5GS3-EPeGtF-UzssKNGjnON6LchZVPvYmYnvUcMV2p0tdNOmIcThg_D7PAaJKNunNUxcH0epYasaCnJe8F0OJnqijcjC7uubhDbW8EmRt6piChCHvl1rNSKisCh4j6_xn6N_knj_ibeI-AGa9EouJMIDzTOcRvragJWYzc5gOJVSE5AP0j7JvVV5ifKvG88XxgQi24UEuYSkNhXpIy5-dIlyOHgmDDuEoHM8xG0jPe63gkyQ63z-w5Y4TdhNKUnLEtVl7khc9Q9kQ05lK5UJ1EhP13o0sKYM3LrKwRHrt4lT7scAA6tcghgzNRQ-HU9uYvKwv_5EKgnAj8-wTi2ZAHld0VDK5pYya5EIZ2ll9Ui5X0g6_wJb-r98B9VgzRsM-LQO3647345zHhaB5EbE9ScTsRIlLnbnjra8hMc2wd60D-4du8t-0vpMZYJ3fYrwhNVllcg_lfOsOV3jxs6Ac9gmqAc2anoowuFeSDllQxRCsDZu1smi5rAOntNGGv7P4OE06ebuoQSddK4OrpRBJjpDUwGVqIbKSuMXGlE4o8oMxD8urQp5OA2ciOTMWyKjXKkaFUFOr2s4IpZACZ8IPM5j1croxyyOBfj6ALWUOHXZ9J1O4OU4HFYbcfmxF6DTO7KPLLRfWkn662Up8uX1WizTGBr4w9GrWyaUG6QcTLAyPuWua1g6fNZw1ZfLADWKsnp4w9z8ElNo2TTRilTvB7l9iKJ9OeLnxubppynymC6V2fZjSeVn57GB4D53NB_m1Cv3MFfKP8QfleNyF4ZYU-VZyyEwD",
+  "searched_total": 5472.41,
+  "searched_currency": "INR",
+  "prebook_id": "IcTZtOdCs",
+  "prebooked_at": "2026-10-24T08:55:10.993283+00:00",
+  "prebook_response": {
+    "prebookId": "IcTZtOdCs",
+    "price": 5472.41,
+    "currency": "INR",
+    "roomTypes": [
+      {
+        "rates": [
+          {
+            "rateId": "I42FUVCPJZBFOR2FGNDUWTSSKVDVSWKUJ5GVEV2HKFNEIQKOKJKUOWSUIRHU4SSXI5ETGR2HJZJFMR2JLFCE6TKSK5GVSM2HJVHFIRKHJFMUIRK2IJJUOQJTKRDU4VCFI5NFIRCNLFJFOSCFGNDUWTSSLBIFCWKTI5GVEUKHJEZUIQ2NKJJEOQRWIRCU2QSTI5MVSVCFJVFFMUCSKNLTIWBSKZFU4NSFKNKFINCKIZEEMRJXIJJUSRKZIVDTOQSVI5KVURCTG5CEUS2CKRLEWU2EGRDUKM2UKNGVEWKHJVNEIQKOKJNEQRKZKRATKU2JKBBDKQ2HJVFFQR2BLFKEWT2CLFEEKM2EI5EVUU2HJUZVIQ2MJJJEONCZIRBU4SSZJBATIVCNJUZTIS2KIRCTIN2CKNDUCWSEJVGUUU2HIFNEIQKOIJKEOQRWIRBTOQ2TI5CVSVCLJVCDIR2VGJCE6TKSKVDUKUSWIVKFURCLJJCEKNCJLJJUOQK2IRGUYSSSI5EVOVCBJVJECR2BGJCFKTK2KFCU27BVGQ3TELRUGF6DEMBSGYWTCMRNGAZCAMBUHIZTAORQGB6FET34GMZDSOBYGI3XY7D4KN2GC3TEMFZGIICEN52WE3DFEBJG633NEAWSAU3NN5VWS3THPQYC4MBQPQYC4MBQPRJXIYLOMRQXEZBAIRXXKYTMMUQFE33PNV6DALRQGB6DALRQGA",
+            "occupancyNumber": 1,
+            "name": "Standard Double Room - Smoking",
+            "maxOccupancy": 2,
+            "adultCount": 2,
+            "childCount": 0,
+            "childrenAges": [],
+            "boardType": "RO",
+            "boardName": "Room Only",
+            "remarks": "",
+            "priceType": "commission",
+            "commission": [
+              {
+                "amount": 0,
+                "currency": "INR"
+              }
+            ],
+            "retailRate": {
+              "total": [
+                {
+                  "amount": 5472.41,
+                  "currency": "INR"
+                }
+              ],
+              "suggestedSellingPrice": [
+                {
+                  "amount": 6293.27,
+                  "currency": "INR",
+                  "source": ""
+                }
+              ],
+              "initialPrice": null,
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Service charge (taxable)",
+                  "amount": 10.64,
+                  "currency": "INR"
+                },
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 60,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-12-02 04:30:00",
+                  "amount": 5472.41,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "mappedRoomId": 3298827,
+            "paymentTypes": [
+              "NUITEE_PAY"
+            ],
+            "providerCommission": {
+              "amount": 0,
+              "currency": ""
+            },
+            "perks": [],
+            "promotions": null
+          }
+        ]
+      }
+    ]
+  }
+}

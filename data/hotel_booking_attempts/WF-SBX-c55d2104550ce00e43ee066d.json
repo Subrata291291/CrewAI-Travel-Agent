@@ -1,0 +1,17 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "provider": "LiteAPI Hotels",
+  "provider_mode": "SANDBOX",
+  "prebook_id": "rEYCNFquF",
+  "client_reference": "WF-SBX-c55d2104550ce00e43ee066d",
+  "status": "CONFIRMED_SANDBOX",
+  "created_at": "2026-10-24T05:50:24.517998+00:00",
+  "payment_method": "ACC_CREDIT_CARD",
+  "booking_id": "c59dfd09-40f6-4688-af75-329dc1fa21ee",
+  "provider_booking_id": "hd60-hQtk",
+  "hotel_confirmation_code": "test",
+  "provider_status": "CONFIRMED",
+  "verified_at": "2026-10-24T05:50:31.553733+00:00",
+  "currency": "INR",
+  "price": "6002.69"
+}

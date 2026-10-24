@@ -1,0 +1,311 @@
+{
+  "trip_id": "4869fc04-f021-4d2c-a562-09a9f21ba8b9",
+  "hotel_name": "Baga Beachway, GuestHouse",
+  "prebook_id": "Wv-K3ACaP",
+  "client_reference": "TA-SBX-7c1bc971451acc858bb99912",
+  "status": "CONFIRMED_SANDBOX",
+  "submitted_at": "2026-10-23T13:20:10.225444+05:30",
+  "payment_method": "ACC_CREDIT_CARD",
+  "http_status": 200,
+  "response": {
+    "data": {
+      "bookingId": "vG-RO_wV0",
+      "clientReference": "TA-SBX-7c1bc971451acc858bb99912",
+      "supplierBookingId": "vG-RO_wV0",
+      "supplierBookingName": "nuitee",
+      "supplier": "nuitee",
+      "supplierId": 2,
+      "status": "CONFIRMED",
+      "hotelConfirmationCode": "test",
+      "checkin": "2026-11-20",
+      "checkout": "2026-11-23",
+      "hotel": {
+        "hotelId": "lp657bb9cc",
+        "name": "Baga Beachway, GuestHouse",
+        "phone": "",
+        "email": ""
+      },
+      "bookedRooms": [
+        {
+          "roomType": {
+            "roomTypeId": "",
+            "name": "Test rate 1"
+          },
+          "boardType": "RO",
+          "boardName": "Room Only",
+          "adults": 1,
+          "children": 0,
+          "rate": {
+            "rateId": "I5MVURCPJZFFOR2RGNCE6TSSKZDTIMSEIVGUEV2HKEZUOTKOLJLEOWK2IRGVSWSXI5KVURCBJZNFGR22KRCE2WSSK5GVENSEIVEVUU2HIFNEITKNJJJEOSKZJBMU2USRI5ETGRCDJVFFGR2OGZDUWM2TG5FVMSSYLFJUWT2QKJCVKNCVKQ2EORSBKRAVCWSQI5DECVCBKEZTIR2RGJKEKT2MGRHEMSKHJ5LEWSKQKFMVIT2PJJJUONBSIRAU4QSYI5ATEVCLJ5BVKSKKGREEKSK2KJDTIWKEIVHFEUKHGRNFIQKPIJCEOWJTIRJUYSSSI42FSRCFJZJFCRZULJKECT2EGRFUURCFGQ3UEU2HIFNEITKNJJJEORJUIRBU2QSRI5BDMRCDG5BVGR2FLFKEWTKEGRDVKNCUINHFUWKIIVJFMRKULJCEWSSEIU2ESWSTI5AVURCNJRFFER2FK5KEGT2CIFDUKWKEKVGUEUKFJV6DEOJVHAXDSNL4GIYDENRNGEYS2MJZEAYTAORQGA5DAMD4KJHXYNBVHA3TCMRTPR6HYQTVMRTWK5BAIRXXKYTMMUQFE33PNV6DALRQGB6DALRQGB6EE5LEM5SXIICEN52WE3DFEBJG633NPQYC4MBQPQYC4MBQ",
+            "retailRate": {
+              "total": {
+                "amount": 2958.95,
+                "currency": "INR"
+              },
+              "suggestedSellingPrice": {
+                "source": ""
+              },
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 78.47,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-11-20 23:59:59",
+                  "amount": 739.73,
+                  "type": "amount",
+                  "timezone": "GMT",
+                  "currency": "INR"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "maxOccupancy": 1,
+            "boardType": "Room Only",
+            "boardName": "RO",
+            "remarks": "",
+            "perks": []
+          },
+          "firstName": "DemoGuest1",
+          "lastName": "Example",
+          "mappedRoomId": 4587123,
+          "childrenAges": null,
+          "board": "Room Only",
+          "boardCode": "RO",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-18 10:00:00",
+                "amount": 5917.9,
+                "type": "amount",
+                "timezone": "GMT",
+                "currency": "INR"
+              },
+              {
+                "cancelTime": "2026-11-19 10:00:00",
+                "amount": 5917.9,
+                "type": "amount",
+                "timezone": "GMT",
+                "currency": "INR"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          },
+          "room_id": "I5MVURCPJZFFOR2RGNCE6TSSKZDTIMSEIVGUEV2HKEZUOTKOLJLEOWK2IRGVSWSXI5KVURCBJZNFGR22KRCE2WSSK5GVENSEIVEVUU2HIFNEITKNJJJEOSKZJBMU2USRI5ETGRCDJVFFGR2OGZDUWM2TG5FVMSSYLFJUWT2QKJCVKNCVKQ2EORSBKRAVCWSQI5DECVCBKEZTIR2RGJKEKT2MGRHEMSKHJ5LEWSKQKFMVIT2PJJJUONBSIRAU4QSYI5ATEVCLJ5BVKSKKGREEKSK2KJDTIWKEIVHFEUKHGRNFIQKPIJCEOWJTIRJUYSSSI42FSRCFJZJFCRZULJKECT2EGRFUURCFGQ3UEU2HIFNEITKNJJJEORJUIRBU2QSRI5BDMRCDG5BVGR2FLFKEWTKEGRDVKNCUINHFUWKIIVJFMRKULJCEWSSEIU2ESWSTI5AVURCNJRFFER2FK5KEGT2CIFDUKWKEKVGUEUKFJV6DEOJVHAXDSNL4GIYDENRNGEYS2MJZEAYTAORQGA5DAMD4KJHXYNBVHA3TCMRTPR6HYQTVMRTWK5BAIRXXKYTMMUQFE33PNV6DALRQGB6DALRQGB6EE5LEM5SXIICEN52WE3DFEBJG633NPQYC4MBQPQYC4MBQ",
+          "occupancy_number": 1,
+          "amount": 2958.95,
+          "currency": "INR",
+          "children_count": 0,
+          "remarks": "",
+          "guests": [
+            {
+              "firstName": "DemoGuest1",
+              "lastName": "Example",
+              "email": "guest1@example.com",
+              "phone": "",
+              "remarks": "",
+              "occupancyNumber": 1
+            }
+          ]
+        },
+        {
+          "roomType": {
+            "roomTypeId": "",
+            "name": "Test rate 2"
+          },
+          "boardType": "RO",
+          "boardName": "Room Only",
+          "adults": 1,
+          "children": 0,
+          "rate": {
+            "rateId": "I5MVURCPJZFFOR2RGNCE6TSSKZDTIMSEIVGUEV2HKEZUOTKOLJLEOWK2IRGVSWSXI5KVURCBJZNFGR22KRCE2WSSK5GVENSEINEVUU2HIFNEITKNJJJEOSKZJBMU2USRI5ETGRCDJVFFGR2OGZDUWM2TG5FVMSSYLFJUWT2QKJCVKNCVKQ2EORSBKRAVCWSQI5DECVCBKEZTIR2RGJKEKT2MGRHEMSKHJ5LEWSKQKFMVIT2PJJJUONBSIRAU4QSYI5ATEVCLJ5BVKSKKGREEKSK2KJDTIWKEIVHFEUKHGRNFIQKPIJCEOWJTIRJUYSSSI42FSRCFJZJFCRZULJKECT2EGRFUURCFGQ3UEU2HIFNEITKNJJJEORJUIRBU2QSRI5BDMRCDG5BVGR2FLFKEWTKEGRDVKNCUINHFUWKIIVJFMRKULJCEWSSEIU2ESWSTI5AVURCNJRFFER2FK5KEGT2CIFDUKWKEKVGUEUKFJV6DEOJVHAXDSNL4GIYDENRNGEYS2MJZEAYTAORQGA5DAMD4KJHXYNBVHA3TCMRTPR6HYQTVMRTWK5BAIRXXKYTMMUQFE33PNV6DALRQGB6DALRQGB6EE5LEM5SXIICEN52WE3DFEBJG633NPQYC4MBQPQYC4MBQ",
+            "retailRate": {
+              "total": {
+                "amount": 2958.95,
+                "currency": "INR"
+              },
+              "suggestedSellingPrice": {
+                "source": ""
+              },
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 78.47,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-11-20 23:59:59",
+                  "amount": 739.73,
+                  "type": "amount",
+                  "timezone": "GMT",
+                  "currency": "INR"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "maxOccupancy": 1,
+            "boardType": "Room Only",
+            "boardName": "RO",
+            "remarks": "",
+            "perks": []
+          },
+          "firstName": "DemoGuest2",
+          "lastName": "Example",
+          "mappedRoomId": 4587123,
+          "childrenAges": null,
+          "board": "Room Only",
+          "boardCode": "RO",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-18 10:00:00",
+                "amount": 5917.9,
+                "type": "amount",
+                "timezone": "GMT",
+                "currency": "INR"
+              },
+              {
+                "cancelTime": "2026-11-19 10:00:00",
+                "amount": 5917.9,
+                "type": "amount",
+                "timezone": "GMT",
+                "currency": "INR"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          },
+          "room_id": "I5MVURCPJZFFOR2RGNCE6TSSKZDTIMSEIVGUEV2HKEZUOTKOLJLEOWK2IRGVSWSXI5KVURCBJZNFGR22KRCE2WSSK5GVENSEIVEVUU2HIFNEITKNJJJEOSKZJBMU2USRI5ETGRCDJVFFGR2OGZDUWM2TG5FVMSSYLFJUWT2QKJCVKNCVKQ2EORSBKRAVCWSQI5DECVCBKEZTIR2RGJKEKT2MGRHEMSKHJ5LEWSKQKFMVIT2PJJJUONBSIRAU4QSYI5ATEVCLJ5BVKSKKGREEKSK2KJDTIWKEIVHFEUKHGRNFIQKPIJCEOWJTIRJUYSSSI42FSRCFJZJFCRZULJKECT2EGRFUURCFGQ3UEU2HIFNEITKNJJJEORJUIRBU2QSRI5BDMRCDG5BVGR2FLFKEWTKEGRDVKNCUINHFUWKIIVJFMRKULJCEWSSEIU2ESWSTI5AVURCNJRFFER2FK5KEGT2CIFDUKWKEKVGUEUKFJV6DEOJVHAXDSNL4GIYDENRNGEYS2MJZEAYTAORQGA5DAMD4KJHXYNBVHA3TCMRTPR6HYQTVMRTWK5BAIRXXKYTMMUQFE33PNV6DALRQGB6DALRQGB6EE5LEM5SXIICEN52WE3DFEBJG633NPQYC4MBQPQYC4MBQ",
+          "occupancy_number": 1,
+          "amount": 2958.95,
+          "currency": "INR",
+          "children_count": 0,
+          "remarks": "",
+          "guests": [
+            {
+              "firstName": "DemoGuest1",
+              "lastName": "Example",
+              "email": "guest1@example.com",
+              "phone": "",
+              "remarks": "",
+              "occupancyNumber": 1
+            }
+          ]
+        }
+      ],
+      "holder": {
+        "firstName": "DemoHolder",
+        "lastName": "Example",
+        "email": "holder@example.com",
+        "phone": ""
+      },
+      "createdAt": "2026-10-23T07:50:11",
+      "updatedAt": "",
+      "cancellationPolicies": {
+        "cancelPolicyInfos": [
+          {
+            "cancelTime": "2026-11-18 10:00:00",
+            "amount": 5917.9,
+            "type": "amount",
+            "timezone": "GMT",
+            "currency": "INR"
+          },
+          {
+            "cancelTime": "2026-11-19 10:00:00",
+            "amount": 5917.9,
+            "type": "amount",
+            "timezone": "GMT",
+            "currency": "INR"
+          }
+        ],
+        "hotelRemarks": [],
+        "refundableTag": "RFN"
+      },
+      "specialRemarks": "Example special remarks",
+      "optionalFees": "Optional fees",
+      "mandatoryFees": "Mandatory fees",
+      "knowBeforeYouGo": "Know before you go",
+      "price": 5917.9,
+      "sellingPriceToUser": 5917.9,
+      "commission": 0,
+      "addonsTotalAmount": 0,
+      "currency": "INR",
+      "remarks": ", ",
+      "voucherCode": "",
+      "voucherTotalAmount": 0,
+      "addons": null,
+      "guestId": 0,
+      "distributorCommission": 0,
+      "distributorPrice": 0,
+      "trackingId": "",
+      "firstName": "DemoHolder",
+      "lastName": "Example",
+      "adults": 2,
+      "children": "",
+      "childrenCount": 0,
+      "prebookId": "Wv-K3ACaP",
+      "paymentStatus": "succeeded",
+      "paymentTransactionId": "tr_cts_NMkpeh0E88Ou3wQANZzYO",
+      "sellingPrice": "5917.9",
+      "exchangeRate": 0.009426714411676864,
+      "exchangeRateUsd": 0.010587991969017089,
+      "email": "holder@example.com",
+      "tag": "RFN",
+      "lastFreeCancellationDate": "2026-11-18T10:00:00Z",
+      "userId": 387337,
+      "nationality": "IN",
+      "holderTitle": "",
+      "hotelId": "lp657bb9cc",
+      "hotelName": "Baga Beachway, GuestHouse",
+      "cancelledAt": null,
+      "refundedAt": null,
+      "loyaltyGuestId": null,
+      "sandbox": 1,
+      "clientCommission": 0,
+      "voucherId": null,
+      "voucherTransationId": null,
+      "processingFee": 0.62,
+      "amountRefunded": 0,
+      "refundType": "",
+      "addonsRedemptions": null,
+      "rebookFrom": "",
+      "agentId": null,
+      "cancelledBy": null,
+      "feed": "liteapionboarding",
+      "goodwillPayment": null,
+      "newCharges": 0,
+      "compensationAmount": 0,
+      "hotelRemarks": "<br/><br/><br/>",
+      "payLaterDeadline": null
+    },
+    "guestLevel": 0,
+    "sandbox": true
+  },
+  "booking_id": "vG-RO_wV0",
+  "hotel_confirmation_code": "test",
+  "remote_verification": {
+    "checked_at": "2026-10-23T14:02:21.067894+05:30",
+    "http_status": 200,
+    "booking_status": "CONFIRMED",
+    "sandbox": 1,
+    "checkin": "2026-11-20",
+    "checkout": "2026-11-23",
+    "hotel_name": "Baga Beachway, GuestHouse",
+    "selling_price": "5917.9",
+    "currency": "INR"
+  }
+}

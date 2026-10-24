@@ -1,0 +1,448 @@
+{
+  "trip_id": "55ade0f4-a769-45a2-91ab-446ce8c754cf",
+  "offer_id": "AwJ2MQAAAABq3cRjI4hXlpRxsVTBsJuy2JI3QyXP5rlfRaRpKHnrC4V6fdiAQcKfNZDZIGtPAdmoEYJD1NOqd2Y0KD4az9S893BKlBEBUTORIpurZ6DVOeHuDvIvEqPI7FJmCXNbthy9DK66AvehuzEEBINodJ3UDoMUSy_rb3HjO5mfTl6IuTGneVeBqc6F5ObIu89HvWsH80JpfciAUEnMljM4V9tVk5K9aMng8gFtxQOvlPzL7NCwWOUkwTUGFtp_PXsURvinlUkh6l2RKydW9TfEqa2aaHVBcjc4",
+  "verification_id": "8e1ef2b8-e498-470f-8485-322e0e1bd9e3",
+  "verified_at": "2026-10-24T08:57:21.257256+00:00",
+  "price": null,
+  "currency": null,
+  "expiration": null,
+  "response": {
+    "data": [
+      {
+        "journey": {
+          "expiration": "2026-10-24T09:12:20.982Z",
+          "timestamp": "2026-10-24T08:57:20.970Z",
+          "pricing": {
+            "display": {
+              "total": 13648.55,
+              "currency": "INR",
+              "base": 13426.29,
+              "fees": 193.27,
+              "taxes": 28.99,
+              "perPassenger": {
+                "adult": {
+                  "base": 6713.15,
+                  "currency": "INR",
+                  "fees": 96.63,
+                  "taxes": 14.5,
+                  "total": 6824.28
+                },
+                "child": {
+                  "base": 6713.15,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 14.5,
+                  "total": 6727.65
+                },
+                "infant": {
+                  "base": 4984.37,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 0,
+                  "total": 4984.37
+                }
+              }
+            },
+            "converted": true
+          },
+          "baggage": {
+            "hasCarryOnBag": true,
+            "hasCheckedBag": true,
+            "included": [
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 0,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "size": "L+W+H<=158cm",
+                "unit": "kg",
+                "weightKg": 15
+              },
+              {
+                "bagType": "cabin",
+                "description": "Carry-on bag",
+                "passengerType": "ADT",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 0,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "size": "55*35*25cm",
+                "unit": "kg",
+                "weightKg": 7
+              }
+            ],
+            "paid": [
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 2201.32,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 5
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 13815.73,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 30
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 1545.17,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 3
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 23552.54,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 40
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 10143.64,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 15
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 11132.21,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 20
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 13786.74,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 25
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 6128.51,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 10
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 2405.21,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 5
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 15487.49,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 30
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 1661.13,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 3
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 27775.44,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 40
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 6316.95,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 15
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 8182.95,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 20
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 12591.38,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 25
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag",
+                "passengerType": "ADT",
+                "pieces": 0,
+                "pricing": {
+                  "display": {
+                    "amount": 4709.93,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "unit": "kg",
+                "weightKg": 10
+              }
+            ]
+          },
+          "fare": {
+            "family": "SME",
+            "mixedCabin": false,
+            "mixedFareFamily": false,
+            "seatsRemaining": 9
+          },
+          "journeyKey": "eeacdbef63c17874",
+          "passengers": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0
+          },
+          "seats": {
+            "seatReservation": {
+              "description": "Seat selection available for purchase",
+              "status": "chargeable"
+            }
+          },
+          "segmentFares": [
+            {
+              "bookingCode": "P",
+              "cabin": "Economy",
+              "fareBasisCode": "",
+              "fareFamily": "SME",
+              "seatsRemaining": 9,
+              "segmentKey": "08655c95"
+            },
+            {
+              "bookingCode": "P",
+              "cabin": "Economy",
+              "fareBasisCode": "",
+              "fareFamily": "SME",
+              "seatsRemaining": 9,
+              "segmentKey": "c6f93cba"
+            }
+          ],
+          "segments": [
+            {
+              "arrivalTime": "2026-12-10T08:15:00",
+              "carrier": {
+                "marketingCode": "6E",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/6E.png",
+                "marketingName": "IndiGo",
+                "operatingCode": "6E",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/6E.png",
+                "operatingName": "IndiGo"
+              },
+              "departureTime": "2026-12-10T06:55:00",
+              "originCode": "CCU",
+              "destinationCode": "IXR",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT1H20M",
+                "minutes": 80
+              },
+              "flight": {
+                "marketingNumber": "7461",
+                "operatingNumber": "7461"
+              },
+              "segmentKey": "08655c95",
+              "originName": "Netaji Subhash Chandra Bose International Airport",
+              "destinationName": "Birsa Munda Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-12-15T13:15:00",
+              "carrier": {
+                "marketingCode": "6E",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/6E.png",
+                "marketingName": "IndiGo",
+                "operatingCode": "6E",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/6E.png",
+                "operatingName": "IndiGo"
+              },
+              "departureTime": "2026-12-15T12:05:00",
+              "originCode": "IXR",
+              "destinationCode": "CCU",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT1H10M",
+                "minutes": 70
+              },
+              "flight": {
+                "marketingNumber": "7464",
+                "operatingNumber": "7464"
+              },
+              "segmentKey": "c6f93cba",
+              "originName": "Birsa Munda Airport",
+              "destinationName": "Netaji Subhash Chandra Bose International Airport",
+              "stopCount": 0
+            }
+          ],
+          "terms": {
+            "changeable": true,
+            "refundable": true,
+            "summary": [
+              {
+                "level": "warning",
+                "message": "Refundable with penalty"
+              },
+              {
+                "level": "warning",
+                "message": "Refund fee: from 34.66 USD"
+              },
+              {
+                "level": "warning",
+                "message": "Changes allowed with penalty"
+              },
+              {
+                "level": "warning",
+                "message": "Change fee: from 34.81 USD"
+              }
+            ],
+            "hasChangeFee": true,
+            "hasRefundFee": true
+          }
+        }
+      }
+    ]
+  }
+}

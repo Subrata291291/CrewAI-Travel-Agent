@@ -1,0 +1,607 @@
+{
+  "trip_id": "df50f9a4-aaa5-48e8-a74d-e84711999dfe",
+  "destination": "Digha",
+  "checkin": "2026-12-10",
+  "checkout": "2026-12-15",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 2,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 2000.0,
+  "total_stay_budget": 10000.0,
+  "nights": 5,
+  "searched_at": "2026-10-24T14:24:31.640511+05:30",
+  "offers": [
+    {
+      "hotel_id": "lp656c2fe3",
+      "name": "Barsha Resorts Pvt Ltd",
+      "city": "Digha",
+      "address": "Forest Bungalow Road Old Digha, West Bengal 721428 India",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHTZVA3zcQ-gEd4KbybLzvDerdg_EBetrfxG5RjTOgB3rm90QbSwJ6eGVRwFCS_hqWDvt7-ZyFkUU2QIP-_P85wtD8d--vb5xTKSjum5V9OD_6Uc7cx8l9ocXogF8RWjuW8vQJfwKfE9Yu_f9eixtRVIysHrt0Vl56leoelWO8JfHKEUXv_xkGfeeRyhDV2b2Hjjff6StFPbsBBRwMcKtIgahFauVAHyMNqvK5gQUS6EJQUXT6EZ-CTVe4TpyZAYE_oGfBlu0oxDLkzfaKpfG3y5RCKdr68Gw-P5VuDbGG8rXMxlokQ3HVfxCwZBK5TrWtD43-hgvFmDRPY9cUQ2SwuEpTehrBDSF4AtkGP1MXm_D7MwQjXmQ5Y7OXyZ4UsnvlhUFaYybMGTtXF_1iqgdDgKvV6fxdw6ZU1VLOoda-TaXA6__SvwuWh4ujyjPdKgPn3imsvTdvh5REl3IEGdfqUV615PPWv_xlDkQd0GERx3mtBfN0H4-mGzxMmzsdXvYa6edmIq0N5oJTM7o1uoonK-rnTAzXnFH2kA5X-dG5GS3-EPeGtF-UzssKNGjnON6LchZVPvYmYnvUcMV2p0tdNOmIcThg_D7PAaJKNunNUxcH0epYasaCnJe8F0OJnqijcjC7uubhDbW8EmRt6piChCHvl1rNSKisCh4j6_xn6N_knj_ibeI-AGa9EouJMIDzTOcRvragJWYzc5gOJVSE5AP0j7JvVV5ifKvG88XxgQi24UEuYSkNhXpIy5-dIlyOHgmDDuEoHM8xG0jPe63gkyQ63z-w5Y4TdhNKUnLEtVl7khc9Q9kQ05lK5UJ1EhP13o0sKYM3LrKwRHrt4lT7scAA6tcghgzNRQ-HU9uYvKwv_5EKgnAj8-wTi2ZAHld0VDK5pYya5EIZ2ll9Ui5X0g6_wJb-r98B9VgzRsM-LQO3647345zHhaB5EbE9ScTsRIlLnbnjra8hMc2wd60D-4du8t-0vpMZYJ3fYrwhNVllcg_lfOsOV3jxs6Ac9gmqAc2anoowuFeSDllQxRCsDZu1smi5rAOntNGGv7P4OE06ebuoQSddK4OrpRBJjpDUwGVqIbKSuMXGlE4o8oMxD8urQp5OA2ciOTMWyKjXKkaFUFOr2s4IpZACZ8IPM5j1croxyyOBfj6ALWUOHXZ9J1O4OU4HFYbcfmxF6DTO7KPLLRfWkn662Up8uX1WizTGBr4w9GrWyaUG6QcTLAyPuWua1g6fNZw1ZfLADWKsnp4w9z8ElNo2TTRilTvB7l9iKJ9OeLnxubppynymC6V2fZjSeVn57GB4D53NB_m1Cv3MFfKP8QfleNyF4ZYU-VZyyEwD",
+      "total_stay_price": 5472.41,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard Double Room - Smoking",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 04:30:00",
+                "amount": 5472.41,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6588091b",
+      "name": "DIGHA HOTEL GANGA",
+      "city": "Digha",
+      "address": "Digha Rd, Digha, WB, 721428",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHx_GDhcMY8ewDmQCLQhWpTpEM8KMrDqjs5kpPFXLlA6bnET2kP-segS8uVg_625z9jfgEPSBGwFmAe6j9WYA0ywbKGNkztPCE9ZUtrYOZLztNXuxqI6eixBtMWclA2Hd81NQfJKJpj5EXyv9WRkVbd5_R7E0NuM-N535YO8xetW1ZF8dfoUXML0GSrisDLLK8J5l1_XLwvFypRUBrp4bwtyOGDxthVc_N5R1fRh_pI0BJ99w6rnHR3ITaE_0VkLOQ6QiB3G3LiPw6XDEWvD9bGUKMLSL6dP2kUxAn4P60oQwA-l2t1gtM1qemglvWNvGd1b19GlW9K6GltuRFP8WdZ84l4Uc80dkfPSib0d-h6A8tPXM7-OZOeVgCk4KiDxdE2iha6J9c-5w7MBrY0p1OMCPkl5Td75y5-sy-jdXXSr6-jFabvTCFDUL4Qc27UeIQKWsc6uKc9KrOI30doXjWY2BxNV0tzMucIk9eUzmiJWnWXOfW6t_XWmvqzL2jpvVWOg4j8X4iXICOYA8S52SNZcUbCv_uGO4C4649MmZOfX2mGZ0ztAuXL76MLk-IyUTav_CBsHnomJjAsVKer4MKP_KYwvs1UWDTZ3oaxZOMMgow3Q_HhngjPOLGXuAv9hrO_El3yL2CaMmmxdcL_EO4pxO0Tjs7rRKlvFLE5ljCKm_wgmZqa7mZq6BcSoAo-BKy_LT7ttV4KFsZVs8v2gXNfKdFE8A-3tozjZswu6F2YhnxYEy9VkTZPqe82BFSw4soUXjjmZ2c-DG4YktwsnLEF1vIIIwBY5WQYJrJyO5Ct9DHKKmS3vbiuNGYT-8vA56g9_3uqVLL9sSIqj0fpc8UjlkOmsbRuZhIzXgPxdhkAsXpnVJbBmilvpC-nktpPMqX72WA92JGU9PkN9iKqUBsZRDv-ih7R7puYNZT0OW3vTatF3Qa6N7q7unWb8v_qNFyHk9SMvIwDdHh_vWV5a0LsVA7T7fg91Y6HfPHA-8puL9nrKWDM4GNXve55AbuO7tQWnvVQSEqHainsjogwuLg5-bha72BDmYBpdO5fKlhmhbxfkEcURlXEXKLfdAcpbtDqZSjYD7inum2oUYhn226PsOdrpgvRCDndWXAlM71A4M2L_tct2_msFmdlqqWClkQTm4AdYFXqfMdBTf6ceZPCOfQWIk_7qC8ve6ci0TjxcklpAIfTY_XXU2l4QrS8rEc7gW0cIn_feUk362ddTXFE993k1TNWiUz1tsfhTLUb4K7x_2q35u-r0GuRVKgVjPVp2nqwhcQ",
+      "total_stay_price": 8085.73,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 1617.15,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 8085.73,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655a872c",
+      "name": "Hotel Royal Sunview",
+      "city": "Digha",
+      "address": "Old Digha, Barrister Colony. Dist East Medinipur Gobindabasan",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHTKXVVAw8-lNzcutXLvivZX18wEya5nZldClditcrhhyaQgm9_mGPss9PLOuPc2-tc2mk090Vb9u8PXUwZUEAwS7GrM_Htli3WeURPNlzWSRLgZRIeRiYn5-UAIAd72_5oRBfTv-pqpGPTuVCncyAoSmwDZFD7964Xl9rrg716uJbJfEdTpk_WtCPRTxl65V_8l-1_hx7_mHouYMNsxri_GvKqgQWihHOjphHRbeF9Pj1Lh6x-kYVWSwLGjfEitOjYlH239zQvmSbmx-2fAx4GBPScssPWOIQgTPCuF_alB8lub4c5fJB9ukmRz9v0E3jpyezdcuQTXmAlcQe7KXpXV_WtCv4BkWOssk6bON1upMuDn6aKEpgVcWflCMls1rbNu0Csm-RNO02vndydXZVeQW7ImboKMSmVuPvGQ5fvPVuLE5HoILtOQrhqt41AKwZXjX_oRyO8lm0iHPx62SoueSey6N50GW-GPCbqctCZzY1H_h6JaWFbV5ylEGoV8ih5p9GUXl7fO4TGvOItwrWRI8HDqEwd_O2Fp7r3shaqYrcvQGBY6SB5x-pBLhtOVsM7l0WFm7YTduPJj3CX8HNTRGCLyFFt95cj1snFlkCIAflP-Pm6qn5OPbUlY4gH7KV1nFLcIt6YV-dH-ipS8GIrXHb5yn5Wm_vKDdlQUJAEceMXOxv0RqEvG9fArHR7QIjJv8kQi1uMAjevoD6yzyon_B1ZkfdewcjzJylG4Gt8zCSpp7iOOCuckS5_hEZ4F4BAIR842oyqh0hkNOlhJLm0GXvQovOlCV6yQRx6IOX2OQMWjpeORG-6wdlyyiaqzWgedZAmPRBr_pmXswMw7bu_XC2jGNwV0BIEiccXmkHbxTrzjBv-wW00rgSZj-ADwbfSvkep9L8IczQw2DEOwwWm1H0rgz5EWny6s8mzd6woIPyUa3zVpC3-AGyko-Kag2vURGt26hmMtEq1Q2H1OdXTOkQfkaCpmZayOscvWGDlNIJaY7MLIpMA_uymPCN40TEp2hYs173lUXvBQH_Iyxgnbk-rfjq0T3LE70X2n8=",
+      "total_stay_price": 9930.98,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655a8738",
+      "name": "ICONIC Hotel Digha",
+      "city": "Digha",
+      "address": "Digha Bypass Road Plot No - 252, Near Helipad, N2 Sector, New Digha, West Bengal",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHgixhp_8pNNmrtfIM6tFxYMt3XMqg5ExedcDyz6h55yVz-V9RzZO-10Gyt2TPPMNG9wzaw01D-H-Hu5vRUcOlpc_fKcd94gL_swvEk1KQpzcmFUR5Pc6d0Toa4ztYMlALQH1_Uiel6rC4gv6eEiVLmBqSlL2-Clu9rHkM213KrDB218IOIWOZu4sr7OnoXsLm2crurwL6uuL4QBhWoV5G6OL9pqZpS2TOpP6zUqRbpzGkqpCtW_mbOBtqEFN37qQTMlgM_8UFOcTxAdk8EGflAxRn17veeamjk5rFsqF5WBOA5dlQF2jrAVmKKHiQIVhATpq4Vw8PmHE74ruaGzE-P4pTwcEt2LqQN0HksHVsgmoflYmMCW4Xte9WXEpQlWJ49kkQtIqDpar__uI7emdl6n8KqLPekcThxqeORKMjGNYExOX1nlRF5EZv_SDxN4XNXYKOlZlmxbjw1XECwWaT8QSp2gMXZUbMj9JYqolDa-UYhTv1XHDCh05M3-2t1NenY0_vhZ9Mhigs058l4yLmPGbbyBh06LGQT0Ek3yjDQX2McA1Ek6KQ_3DRt0-X5Ve1TLJUdww6dCQhq7S5K8kgzVMjvEgvCuM1i2zRYqeCGXCdJ57z9zdFynbvs60IypbPE7YwzqtjXlo_ezOgoyH53fHXe5YWPSnQXZeI1lCPwA6-xQN2t3JMfnEATL4WVkfgow4othkCn4LvZO2OJ-pVznHOhsEoNCu6GK-hXxR0bx0ihPuLpNDjTy9Y_jiQoWQeZl2298PCpLEAHU44wRopDw1T_fWunZsztdxatDbWHivGAG2gxtPMzFsTVaKR5WznTEXDWtBgZcjlO8Po9sbBvGJ4Uc7xsBLhvjFtgMEtbaaIyEznZy_ecr-rgPMWFw2ZptUFiuZs9wRDEh79DUO3bTN0COv5mbMfzhWv9VZMKIyZX8MUEiI6VoteBX7-SGndIfhAl7HIgMpmJdhXEToUnUVhkHqz9-oitJtsHqxS3F2b_o2HUkwIH7krB1gi52MeXC7xljGDCu67i4TbbdXa8YUZNH0B1DjgDa1fui_qGu1l02U34DEqJNXh4NyUf2-dXA==",
+      "total_stay_price": 9930.98,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Ground Floor Non AC Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6588e837",
+      "name": "Four Square Lite Heaven Sea",
+      "city": "Digha",
+      "address": "Holiday Home Sector",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHXWvICqMhZuHZCbDDWO3IKvSCvAeskUy-Kntg-Jez-C6Sa7AEsAJzWAW4PROLGR7o_0ZnTZu5kMHWIpvU4RU8ocH1OMd5FjvXk5YNKtsy88tV-t7OUeANUVlCyZRTAmCpS_iiJv2YUGR6lsVHtRPufeoj9O6rther6Sw6-8l2ZXQRJWSAYvgP-fXOPkjdVT9xTfIyIiYnoVvDXfxObYzoI5UhPfFku8dRwZsiQAmTwkC9Q0qustrd-yfGQT4DV9rOQBYT5rRzuvHtFF6cAF4gb4vVd3VbYOuASHNEBrQ001xhcSY6xMoCZ9sB1_sdjYLpkUPJjJRtBY3s-w4Rt0PiJT5SJoQNd1jm_Ehb-OCo8Y56aFtyNUmXRlXUn8omTRQtt3-TtzUO1VEQpbbrn8BOAuAlO9i_132xad6z5B2G6tlu5rev_sf8j6eqbTcXoULWEB9tL6V4_TVskOndZ2NkaSeCy0YADjmEim00kXSA-CCfmeFs5Muve8j-dQWvMp6yoh0GR2XdGmZBPuuJIs-CnFXwBVKGrfxf8_uLqvigiMi0Q4knoIy7EbJPCER2yFLO6XySRNT3waISHe5OvNltj_fDQkmcOD4LzfQHMaSk_OSI-BPjPEzPojippkaGGtZWYEzbouwKkhqbLGmc5yuVHVjvRTvliM8meFB7J8zF_Cpie4KXEN5FsgeBYNeCt6xyTecFrfss_AHyrBFdj1ll2tvFyr6rk3u60a6aZQ7sORxpIpC4EVThv8Un2d5vxBQ6u204jjOXmHmbDDYbu21naJZ6qLniLnVAZkKUl9I40Uv0eKTXvPCbfLRy_G5xx8vNzoMl9hh9F7UVVsLTxedwN0PCzuHKUlZhCbEF1n32hokwfpoSglLd6eujX87YzxxKBvWJtZaO-Yj-2DLRu6SHYWaVU1J8201YCwj-By2ayoxwxWVgudgSPla9BOhHOdulo5idSYwXt5Wz-WOXH9EUm1UiXAZMfGCIQwez6GTg8FFq9dpQtGY9RKbSWEl404zabgkV_vfjwhipzJ9aqdkZkTW1LyYXRLvkOn6ZZ-vf_iqyagG1a8MZ5pgRUasNLy3fEF_c-PWuMMZ2jqQqk6Q1hRbm5mdqRfPVnPUbK6bnxo4YFIc3LcED9EAQ3LUJXClItKkVlHB20Rg-Go5viFHLcGNU7hvnwvkts06IFhyq_yC_0H5HcO0e_3GVLucw8qfXPm0sCHwKslesVPlNoYIWoZ45C7oILQaz0T156nQQ4bNgewbpb67BSBzvym7Sz6fWfhKPcDT4uvoHEkyPvqxtG7CFxPSDM3tZ0zlOS-0-tEDTfZtGpDiiCFstb-CqFd0=",
+      "total_stay_price": 10074.95,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Standard Double Bed AC Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 10:00:00",
+                "amount": 10074.95,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 10074.95,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6588c467",
+      "name": "Hotel Crown of Digha",
+      "city": "Digha",
+      "address": "117 Soumya Rd",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHi5FfmQqrwFTD9fwHPkA-jfbtPuTdWna8wLg5wGOqeThmBjCTC-YogcMW8BoL4RwA-V5HMMhBeYtAkag16JPq1sF1wJeahkCiWyNCp98rRj-vz22wXxO2f8GRDhNdBD2uiS1J_KyIodl9CrQWISZUcO1IPfCVwlmGTR1hR9wvlQ9trwRRiITE9LE4w8GCIGA4CapKzqpDaEjGzxfK1eBo1Mh6esS6-p2KTvU5Ikyav-EdqdUqcPPRrDp6max7cXk5c4RHaPDliBve2oFWRgXnv734CvBDiyRPyt7svUjQJPbGv7BpecQLRrFxJkaaRscRA6JkggY031Jln87cK-TOc4tF3LuDbpKKC8vxPgsXHFYByklAXnZXf9PUF_lnS4YnlHmRaw1GgMQeKw_TjI0lED4fvXHM-gxKIUNSaI2ChZJoedS1GWb8klWP_89-aJICbCQzDmWu509ZPre0_9kYbIYyBOVzkuRP2j28yeCCMCAqk1MtIZvcfB4gChjzZBxmBYWllXDbPMZbJDP67b5W_XC4-5brM71_gOd7JyLaeetzml2_1-22BkEY2pd3MxicbCz7X7_IrCaGI_rPd_An1ysnme1Kv5uNqTvRRTaa6-1RugPJQFirPKBAwS_WW5MiCxfgXRI2I4k_1PHMJCXrbWHaW7uRORK8bAl_IgF_uSCJP08-lF3l7jtGt49xBsjk5E8N1joTBZTYP_CsA1CLApiZ-BMP6GdVwdd_mBIOR2VDgAanrjToEjefNFtFyI5CcxevAx8Bz6UI-M4iGMn8ffZZ-ZmHnNg_a-9xZfz3GFla9C4DQ4F22C_I9z5AMMssmU4YvftLEgH5EKAyG1Amdq68y2kUxybv7WRYo65lvR8ZZTtKF2Y6ng-5hf81ks4qTTeOR6GpT2Jw88ogP_mf16-yUEsz68CFvfeVYIwC4o4-ObO8kmlkktW05f-uGWTFQl_MUR8_I9q2m8cx0-5A0kOPTim6aIXm7ntudtpG_6k0579t1rROKt7MqzBXaHHodFbIt1Ju1jA5WEdWHjuStV1DYAPyHwVq5MieSDyYYRFVmorq6MJV9a8R5g5FTYLORZD8uO91Im4oYV1xFWv7IezLHHjqLWJ603x20-kpwXLlyJ1Lo_QctG9AWDkWfhseCLogiRxTsqDUeqxKPJIfXu56EksU-nEAqAKbXtVWvWYRS3GwtzAzvs4GljV3BpSeriA4oS-AGqyP4UyR_v_VvzFqj0haGHHZgUlQuypvF4ITOwSvhWI01Ve10caIdvcF9PbJJjWtgIpZsMqChEPttjO4LPKoDrp3szPjNQ==",
+      "total_stay_price": 10859.2,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Super Deluxe AC",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 10859.2,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 10859.2,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655b5a6a",
+      "name": "Hotel Ridley International",
+      "city": "Digha",
+      "address": "Sea Beach Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHFF__VSAG8rYiwZzVmPhuyOYnOUcMIXHyQkwHGzttNS7d6IASY-gXsmLguCjBukn9GoAfOqhMHvor6ysIjqoVCZh_0wUfGPOPu_BdI53RMWlm6RvsM4nZSObC_8LnMuF2xGIxxMCixZQQAuNP3icdM_oisD8IDxlkSNPa5TJFTR1IlqE9HnV7f1xXTVcIkKM0HY7YaK7t1mUwsGXT09jcmvD6EEZpBj2-NQUlqUuPIxIcwdir8rQL407LWn_bUyaGO_Xd17xbvRoZnmkf-fGZ9iubXO-iQOhyog6rAtEMms_on-avNGp7rzPYRXb_Uxc-jzQGl2dBx0Hzi3mELzKaUuFfyLK_KNN77p_i3B_f-SPV2OzFGsEjzHg4TRN25t1zzRZOkWTPH14EJiS8y7PfN2POWq_LyXIvhhkw38Egr6FuaEfpO28ka1JBUopZOQOLdyT3VN3AJBfFr_KshsQ6mfqocHZcbE6yYuRUWSDThErGEeSv5lf5Ac3S319XAviMj1pflOFfhvcAgKlyd8IVAow9h4fvNoZNLuFrXuiqzlm9H1wpcMedw0UuyKdngjzVS0sSRMh1ai0DRJBbMvBf7T3hylv_LHWHcn4neS_hLFsQhhRBhfxQPGmZudtNpQaw2zPhNKFXJmOkWF-l0PaYEcqVnV5t5UJ8_JQbqddnjFaGrRSrFnLcww_1mzxA4Nk0U3rRLLD-LwRGiXGW_YNvGOJKtC4u-bcyll-7VW3PAkgHnXQmCt_CBFFMW_LtC8FGq3rppRLSpoCzrvtYBhtufLCdi9vpyGAtBG3v4kjDi8jgWu21SY0RfgHGKKizQsDAEbq4hB538KFwYxnGR4vAm6Qd8Q_REAnp-vXdCqkSGak9bYniX_-NNuv37mscMOmucKM1SKH1NkzWpQPLax5JWjEmX-yT7fgpwZk5taCLnWZRm94_X6Gz31r7KjBZbs-DNuM0B1ePpGpof5IGrIX4S8Kmu87jQhadKILRpIgQEUEEzJs4zPk6V1OlGTL--A-zeb-fuWWUO6vVoBuiLjGm5d64d81ve5CX1w450PymG-ddueuuZK9hsobJiG8UG7ShZFJ-VXr0lI685g6bKDlV_-7z3n0HcqkWInTMoB26jIzlW9E8TyAEqBWzzRbQi7GD3e3uohn4nhhrJKKKb740JQBI-Cl3sE-BDOktBymiT-xQjYGqevZfE6Z8xq9BWnd8YXcWumcVyuCDNo6YW7owojnA3MP7RTjSmnKazSNcfp12JxznqOFvWru49bbxPhPQitWXY8in-_l1OiotrrA7DpauBxZG3KFZNPm5lzoyRcaCobXow9gV1NV7HFB98m45FB1i",
+      "total_stay_price": 11211.25,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Double Economy with Balcony ",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 11211.25,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 11211.25,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656e6265",
+      "name": "Hotel JP - 100 meters from the beach",
+      "city": "Digha",
+      "address": "near, Plot No – 4 Mini Holiday Home Sector Picnic Spot, Sea Beach, Digha, West Bengal",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHeHNYnT7DgrmHESiDU-vHQzGN5Cx5kvN2_YiFskA9OhMYCIDLqQXC4ujJDtz4OQ2WaNa8FPrDtfXtUzdhKDuCM0QKEyOEAUUzHOLDwzUlA2zPzEhPbVdJ1ed1v3K1RmnsnWV0xTkw4r43hc1zksKFD0d3z_Naq-2Qjt3iCUbpaNguBxHH331KXVVp-vs72xBfItRz252eifPNCko-tnC5U6n3xKwA_Ozkkd2tGZzgniEqtxVM9uMmEiJ5MfOohw2mnfMlTnl1GmnGm1W1g5QJ9O48Xo0llddJh9-lPSkavJPiJFMa9zl16SFH3pUHpp2-R-4WmX09dSoiKzBtL0swOW7NMWMlOO6tuSn38cO6BiuQWLG-QCqvLh3wrN5jprNovQZn5rKuhS1Q3pWmPwuDbpQVKWMKLuSe-nIFviD-JkD_3psiK2z-Y1UhDXTC7Zd0hjDgptb-FgEGIwU-LsfsqLrwbpwzaYIaLgQailRZQImdoWOImIIkknSCaHmXmIargntBVKZS0may67k-5J3kJj3kd41VGjjqAcZnZX986bUxBkHFrelVSV9F7ZIzk56tSJbPNz35YQqdDa6PMR81d2BsgGj49tzvbcl_H2px1dvG1Y_DjQWXKzvw13EYDMS4VL6nlToitoyljhudVaGTLYDVLFqBLe-2rK6EwmA_jZ9wZhjWjqGTRtnXqv4396NOzjQJ5ugifmejeGcLYXSOC6ujFgyM9aGzkcBW18J2el1dpNXUDw5bTstvV4ZGJYdC_SqWfBmZGecgjkIepaoat_zY1yJ4x0qgeoClrQDjTAi4xTdHAJHnljpQKrqY7gZAq45mKH2gVSPx0gpWlN1G9E337ExYKLgh9_Eu1t_GZM7Jkv98gUbAJt_pOL3nLYG0Iky1vpL7dXuJQbTJIKCxDspGgTDsBOB71J4Wwhppd0HDqrYzYjsZNhHHh6nh6fKrHyndmJW-F13jGI3-GZxeWNQfnWlbu3fMsACXz4g4wUmNq1vsIB0gVzePlP5VDRzStTgbkP6hCzk-l1Uak7QAMx2xvfhW2FALi2u0GEg9h0BPuE35Her3OlmdoqfZL-Y_0QuDCyvYDrg-gW9hOXbE_UVfgl5QgQnMOIgIaoKoOx7o7ydAdoJHeJGxCy-csuuwUHgBMj8cqe4YClTkAA9Hb1cP1cp3zotXI0nzLcULHfBUISBJ3pDZU4uJd9z4wZx1It82G5KpFxRutdU-eVqrDVl_cVQ8wA1jeV8Ii9W3OFv_-F3t",
+      "total_stay_price": 11511.55,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Double Deluxe",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 11511.55,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 11511.55,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6570c1a0",
+      "name": "The Piku's Inn",
+      "city": "Digha",
+      "address": "Digha Picnic Spot New Digha, Digha, West Bengal 721463",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPH9ofXU_67Q6ZfNtlR3NfN0sjVOyx73szRPkgtGP6prouvk-DBXTnWK940cXJNbkMM7XYkn9TOS3Tj81rKUWscuyjfJsvgIsRDypLtb2qVToYXTjVGNskJEHYOm74qu4O4dZcTIK7-AmPLIO8rA0cJDcAC7-R8n9RqUqyqF8-q2cF2bE8OtK7QeJnzVbMwyBuJBjuIMqWEVdm-OSa467d1Fq_ue1ulxYU4bu1fFlijRoN0h4HtaueoYJRjviGVwaA-dcKqMat7J-Xj-C5iSxNOHojoivp036VDmN1a1jCTzzS_tZTJlnGZyXgWhigtxj6nifxJo7sTFcwICiMDF3lUC_-SHL3RZu53_hpM6uGUchzyuxzNCCg0lHtRUwQnoIzKp72a7It0hmtaoJnZgoMMOqXcz1S0xYv-pKry3iMP9krDL1_H-odNjf3XM5zNzdurNebuybY3pV12T_UZ9qINFPvF17uACOkWEBzB2RvB93e5xuLERAF-f_SkunlT57lYrpCfGbjNLcuiocbHSClx005gZ21bV0jCQzhFJbM3F1To5r0VjtsalPOzyotWh5TOymF9Xq-Yt-sF0TQxNUyg12X5Q7BKfcyVcaALDP0glF4neYmINDtZSpX3NySv32ch0BDv-HisulvPpnxc6xL1k5C0Ua-R63SL341qWL0cutn1toHnix8zuC4PH52f35Msqch_VTtmb64YGB_voUeOdvRztAWQSPDPiSTCjyEb2oVkApqjPLUNR6tL6q-ypMTRLhDyFFGdMOTjfpCSPRKB_zdbhE4lACJjZJmzKeDlcg8sLnz7GZHuzwuy-YUBwqQzimKrvSMCYEV_ZLFL-80vlWtdaV9zAXznlCGSbc5bFLOPSB_1KIdptArYrkfhjuFu30n3Ufh771p8QmScEOqK602qW8FY3_AyESsrQ29y3t5cRUs7piMcClvJej8gdlHlkpDNc6zm24xp9pg4DV21zjFS1ujYKHUrqExUVOHXyXGTazaMHb6ZaJaGc3D7RbHaJZF0HFUUytWs5it_sAA3p5gmJJAwM-9nSc80_izzpfly2BDm8AA-ZzwzkOWGA1VoxH3tCEbM3lip1tRPQQk-VkoBuJ1bwugsAmBqEY4zduW57oH0c-7imAKGXFdJw8HDEfnj0e20ZkeSzRMe0q7OavN0mMRKoNAau-KZHpsvid4YeZkdYRcbPDz0qmgKqWxZ",
+      "total_stay_price": 11917.35,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Standard Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 11917.35,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657789e4",
+      "name": "Hotel Silver Land New Digha with Rooftop Pool",
+      "city": "Digha",
+      "address": "New Digha Sea Beach Road Near Hotel Park Point , New Digha",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHqXd2kKvffWh1T2yM5V6yLZmPtO-4Y6cmfoj-F7wrDUIexH53kIIY-JetLZ36cHbEOTmJKhjWdmJbhvb1F-5XAEZHVy1h_CdOf39eIJC4Pc4oQvYVzg9fZQ-p2YZe_S92cJ9018ckqOPXQb8zIG8vyDXxiNu431nX40s9tuCekpNQ2X4-1vEZeg_2RuqumaQWlzsame3QA6Y_RkGDq80ophUNJtu7XzY-eAvnmxSNvX4vQexGceJte6LQ6Qx0SK9pVtwO687QtqdXRxBQiTr-N3_U5c34RlZTdlldVsmGlPU0PusLVSN7y-27ynT8vEevFebOYtq09vA672P4y5aMRULpOXZF5uOhhx3ti3aJUQ8N8NeEzrks0yjW5ALFltT9SJ3ZfigDp57_iYDNrmPsO2vVjasa8bMTn5bqwvvWuCBHxpKTbk6TzX7A48bLporcXHypQ1-GqCr438FZBnWZ3RBzxvXExfu-jQeSKiC7ruxlnh46oF56w92HaEk0jGNV8MGj8flLAwzfVUrGtQPIzUOvovDG6o08qKOEJpP67XNFcbj35_Go2jRirxkb59qtYuvEecMrTVppKflaVYhkNDJytbfIDNcjf7x-MLkzwML19uiAdR2lyyj61zg1s6A7Alcm4Pkkwdp0TQgQ3U8BI0Xz4dCZBUYTA5vNUceTr3UrqmPUlehnTLe1Vk0C-gi7AXKSnF8MGdRY5SD2r26_0x9ApMHUQ1leryW18GlBsKK1rrTMOYhwhb2-IXX4KqdLZ7vZ4kaEZ7pJeToGG0D9ZSYp4pWCc6sRU8irnNgJc1JGCJ2oGSJ01UhBXfwSZShNLfJLX_SP_8Zduic0KWOq4wCsQd8tZ8FEow4AuiBMBdA2IxMLV8RbcU6odFSxep1ksgMtVMf0AuwgGH30SiHgyw0e9C2ytEvFmpHLS5w7TcnVlHiGXFwDGK7n3tl5p4L6wNLFf_DzOde51EXgVPMaNnc_-t8OlPV9hO_RLIfBUdvyxPqPpNoFSmCCvqdZ5yo-PSly1cD4ztT5_OZ99pGJNXcNvuFRz5AJ84bAGEFaMpcC_IhsMszraknB0YkD-J6fvAU-KSUFqKj8fJsGomhnO-c-KjOonJzdT8xeFvFqG6NeFzXfusFbo0jtKbCCndod3mnFXek3E9BNpmQcdHXf_gJFAIvsf0apRnQ4nl-O7kHGanbEsQ==",
+      "total_stay_price": 12331.33,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 12331.33,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6582cfaa",
+      "name": "HOTEL ALLISHAN",
+      "city": "Digha",
+      "address": "Sector-B, Plot-20",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHq6KhPuag55amGBuK2h1yskLT3_HgE5XLs3xNgDawJ0recFThJdemGS1-NcfwuOfixPKOxfIKv2OFPFm1jw5uP6ibMRD37UboFy5LnMtsb3LvZVgTehKVqssMtCZqahRw6ZUPfjWBqeenLGbrz59QmPv1OtwOeHd9zmZj8-8d68EjJWATtdKsrk_m99pgPR0DVmwC4Vd3e6JWTj6oR_uL1-yk9noQ8JgsUp625vIBgA7riqybyvweK0YTxglHZYMkyQN8buhrUl-h5Y5Zr8dUzuSV9ec8gzGouACgaMgzN4EtpAmaloSYOuYyZW4yCLJsclEEutrHYxm4TpURuAyi0cmBjigldsT2X2EHTUuZglw-jmCHqx89CAgkQ2oy0oIYlD-nDX2N7MUycht6mHeTpDecrQiDUixQyf2WMz9IXrxvIfkdssG1kN02xt5kvw6u0By2VjqOwB3LZi3e5iwgco7ie-clzV3R5hR7Z3lYJyx-JdtMRY9b-2FWM6PbquFI0xB6xDtaplVpeBpyLyjU6LXtIjUGXIu_itwtzufBcY5L4SHbmIUUB97eHhUhazPzH8z5QVjJR7B939wGvjqiUMtuTQNgH0pH-7KhkFmPEE7DYacb5vG4jCyvtmNDVZwQNhsS0n-Z-SAOS21VgzPNYyobM0wH6RpWfj49awET6hlHL18RoREMa_MrsxYTdiqM4owdvU3cuhqpRP2b9zImmgDYpp-4ngsTZOeJwJjo0G5o7eyKiVedIOXok3mXRfGaoU1c09MFL_iwapfwOFU7MiPFiURXZcs9vQxOsLipPKM2H3C1ECwDuXIKbFmLhv5usWcogUd-KaV1zUB8veUvm06KlCnCtuOU1J4YwJnvoXntZCLpLlNbF3QbUCKUthk6mmlb8vhlfXxx1H02AQIfwgjktIP1DrVbUD13ar7aFlnKK8_jLm0PyMB6MIXTWCkJM80Q8XbZ44tSHIpWN8LsZOezkHyShwMEB6_ey56yZIS8BnxJXVnh5HnPE-o78a8kpyLmDyDoFpbus039jwuHhHZUgNo1RvDLd4AP2rETWpWKL-R3LEIyJ-uEBsNvGzIoj1_navx-xeSYggITmKP-PxglekF1U0-inQklsxObQb7ANszvmZ5-q-oRGr4dI8hxJVFXIckMGgIzxwhpVzKVnc5OCBZibmTodJB7oBLmTqKQ7j8bw5_GjktpEiqMO0DR",
+      "total_stay_price": 12374.56,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 12374.56,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 12374.56,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656c29c0",
+      "name": "Pride Biznotel Canopus, Digha",
+      "city": "Digha",
+      "address": "Plot No- 12, Block - F,  Sector B1 New Digha (Near Nursing Home )",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHfN1Ei4OUipJihSIsCyebsfJDp7ozAPiJePOC3s9DUUlek1sTvFnjFZjzKmyN5z-gCpzaHqEzhjmC-4_zcYV3Ya4BKZtIRE5BvR8UFcw-65ToRSR9z6mVX4FiMNRCQoDbHj6W4GKaRjZQxuuiwuNkGLYOybMGAfDUbp2lF1SmFBIM8OoHgCIygl-TJVyyx2wVAwTVHmqAZtiVUK-BlOWK5hREfzlgInwBCs3sIGbyo09jdoMOgkAh0e1uAXqD5XtYfJQH2bgcISU0Pdr0gAXw7cFGdySZwkVN7i9nwSrYMffBFrjaaDt-n6MEN11GUl7q-0M286JR1J1XKj3qQUjdctCLVudJNmcssCbOsyw5ujejFulSCphOEHnHIEtKvF-TRBBv8A1k2S3IfmW8OdvJdL5KUNx4EWidBYnpDrykanwxHXh_w95I3TDsrMNwuefNiuX6a1eFjNpf_fLHpFCjnK-kiOWXg4W7LyEm3FL2hSj0x5nPvgUOq9gDfC4YD0gVd-rxMNPGukDGAjZZRwboLJTT0fnzHdzEB5dR4MfUe9KiCzQlfR-nsS6nV99_nq6BcDr7nkKCKrv4X6ZNiF_svVpOr6GY9hxxdwLExJ7CjZzY7J132Af5g1KydYvm_50b4aCZhSyM_M-2KPoKfCuKAXHlgs9o5tYdvfvwdtqcb45bVJjRXuPYTB7kJRLKa62BwzDYlzwXRN31EXUcyGWJhdjyGUnj3r5QKaok28CaPsN2wGltxH5N1SsSzNEUH9PMpZ3TcXhBRWHY-epGyty_Fx2b0cWVxhagPwuQR2EKDvfhhoelYE9P7brjuXTPTOkn6mmUQbbblkepUGsO0DETu1ff0m-kWaae2JoxAFC3TRiWqQOyICP_6bP-RJK6PHPzx96Vkpe4gUHD15SAQcM5Kuu5E6Gwdgchnl8upp4dKDsUjDoKuBDAIVU0IEKLIZ1v8gOs3U9LRDrk4NAhyV8fxbditsx9O1Yqxl0IBsfYJ-PHZ9UEc6tjBPeOlbPnmy3lRqspZY-Ikd4WBCUV6y8k61iSkY_24uqPiCuZ_FceAt98GALpcMEMI_Qh7xGW_ycOXS6fCjz-5s4I06ZO2aopXbg1kwKUU2HLryTYW4fh8UxpN3QKsUlVnE90r14UFTDyJIKJk_uJtEZn9q4LDVeqlhK_syv3lU-kPaRs1aoQAACoBJO4WL7qhFiXgNKEBEtS04EANqALr5MFTjwgBX43f-nG60ftYAQ=",
+      "total_stay_price": 12588.93,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Queen",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 12588.93,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 12588.93,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6571bd63",
+      "name": "The Piku's",
+      "city": "Digha",
+      "address": "Plot No 3, Mini Holiday Home Sector, New Digha,",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPH6FGt3ZCIAjE9ZDj6kG7-psM2HADxlyTRCHO51gpNsz27HwUy_ST4uLIsNvlCGpzsxV2tVP4KT5DOU_4kHafLXBH1_dwdvNupGRb6dIcXhzbOWWLE5wtjHD0ZNHJ1pDrn_1JAkLQZTS424kCsklVYHrhVdnLFrMkUmop_wySldLh8yWsvuVsU9ac_DRejDLH9kOBFSCvAvujZaJGEehkqqA0CqhBIgRK2tmMf7QM_yf8f2wM5KlJQPmKp3cv_-kywr6eSKMgqDTVOCEOzN5HzRsancmdcAMv1wptdHskstXiF8nRqmdTU0otsQrSwe_I03I0WvorHHMKDXpk-XWHFugbhQh_7ZtsCNEnDamZ6HiFJMw9V7VT9s62Z8lgwDJb9hx5cQ3U6fN7LkoK5va3pzqi_Oi9S0zTQ0HTdCAHxc1Dw-lJovpfB4N9rekLSDMQ28eet5n_hDIa2VNwY_iZScVFSrgN_gz4Eqp-sQZpbqVyumZkFBOMOGjjqOd8Z8I09zlq1_8teeVqrD3XweAS8e88la0WYqaqLt5c41hlAudWNWbAw5dhYJy5hF3l9B5UuuS7CLX5mgXj0d2Sz7aN8Z1pD45sL0Z3HQboVKkATXzuF8ZxHdqsoYowdNyCdkJCLOkdQOJqCM6AwgTuH8WFBL7G33UZbHhLwkZMKmCkJLNlpSJGf1EmaoNrQ_hzDagbQFJgFQDZAG7O4VbAaBh1St2hVaKVzlAAWciIQqE4kLaS2-PyclEUlLtX520nZyxAZTkdnd-lhei8rAxBU-pZ6VUd0zGf5x0yW0dZUEtKWB-rKGy2IO8yqTFWwZil6yYD9MsHa4llpZnfBd1u_0LBWOUvRGBBTOGXAulO7hyVoL5bzuxx-ptyn0knoh-KtYXVpFDf2C8SN4CzVj3i8-YylggDX31augdcUvKxd6gl6MB1GT-1E9CgJuGmsPQ_FqaXUTVHyXDuEZci5wkPxDWhwJ3pjQ37E7mvM4oUKYYjIq1AmNYr8TWdsuy-ftzR_6lGr3PAT7smUBAnPS2IvZRi83w1DxHi4kjQ3qeBtZ7rP3vzvp9EdNoqXItmn6Hif76qA7nf0qkTaH-giuCvINWDiBLh-hnwcXyy_Sz-9lJwOMdjYdU8WDtJuyo4HIgzv3Z0taO7SrTV5uL1gOFHWAL4QmIUpY-our5MGc7WpqTyns7U=",
+      "total_stay_price": 13407.13,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Small Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 04:29:00",
+                "amount": 13407.13,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655b5687",
+      "name": "Abhyagama Hotel",
+      "city": "Digha",
+      "address": "Plot No. A-9, Sector B-1 Dheu Sagar Beach, behind Science Museum",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHQbgPWfgAu7wuUu3C4MjXVzRLj4R3H4duFhEglqTF8eDISNA7XSq22xWpTPWQnT5YipL1V_yrXE8JW_dF1rvVMj2RygHF6-WtA8w-5HskXUKneZJb1RX8zoAVpXMDhBmsYh3gUQsUXka37yDtu7v5b2sFwPX2LEJ-eMpnHh6-bTV96pGH4sVuqVOaVc5H2Vt10mX4xF8J9jUiquTBE9cB3ppvg_-SXrz3RhmLzitL5rLYgIjdBXxojFS3Q-_sAZrfL9oj_vrzItI9ulCFQcdaUJOzezJH1RrO1ibdvQVGMF7nESrr-4ddRKTlca8k3iGnTh5iMPP6z7u5HbFN9oK2XPqEKwFkTBybC44GLTy-rFrxYfbjWylbpBstYIRykCW2pWBBnC6waq-5gA6_xt7iF_MmCHed-hdD66w-aQYjvA96rQy8k6hV6XpDpw_GC6tcJuhdQr8maIi6ZkohgZmeMAOQvxsZaKSODJcVNHQ-Q5rdfQTIMwjF0EF9eXFpHtakzzdi1jZ0vGXlhILhqPH7NTiweWTMaD5QsowV075whfCcdOm-WRa_8VAAeeZT9zss-thyvhFWX2u5ymsgZuSd5dgj1ZIUBzQgLCzh66HYLveu4wqAPmOm2D2rW9rWn02kE0xF0_2tept6ybWM5Ao8nd3eBPT9WdON5LlPwyNfmly8AaXuR6C8ohB-ctTdHym4v0GS7b6ZS_0CNrXhFRNlVn7HOrw52fpElVVs0to4sRnwfjYbkSoGF2Wzql8-7DcDJWWu-IWPuIZgOFDrKlm6fTxIeolICwPV2d6Z0uEnrRj28mkSq3hwsb8IqTP2PDyxXAKGbsRUAwnh9Wuj57WB8Ixys_r2nbTuijCyvKsN7O_yQjWd_guUzCkGXX3qu2xxtjjjzLMyfMkM1nfeYRRmjaQltwoPcQuRSDgMNaAb8re3Ho0VsSGeq_IiIHhRZ31eWbeukj-Y_ajfGQhdKnPV-eL6iBoHiSxw9MBy4j_1TeRWZqGF31f95xUqM4LM4OfcvJI6zglKtXE3uTdc2AQjU_rv1-HOYZqXoluTPCkD4Ct0_n0vXgIC0XHHaTraNyHkRtGghHqbDLKEHEtMAw5FvIbxGp38ZX54f4v0qQnlpMQrDmF1q8YuicV-twn3LgF9PWG9m8sEov9tIVK9_C0IuSwugZewljg4uL3uX16fPGUHSxdQt0RoU80JVkx_BbJuFA27FQ84MR_iRolkxLel7W-FX5vyxnlEM7XAXsYw1nIjdsZQzsDhOwUHijNv9UkZOEkANuTUI-kLNqzYS6FGRIpHNL51ZkpVPVktygQ8mD0CaH7FPsvfCRmUZAYszZecs1x7svY=",
+      "total_stay_price": 13528.69,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Superior Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-25 10:00:00",
+                "amount": 13528.69,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 13528.69,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65559a06",
+      "name": "Cygnett Inn Sea View",
+      "city": "Digha",
+      "address": "PLOT No-06, Block : B, Sector: B-1, New Digha, Digha, West Bengal New Digha",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHtLWdmf1qmTmprQDcpDt6CzdjA9ZWWaKY6fbhuNAAEPuueTGmSQwP04RcpHWIihtTw11OTjbrn7oAb5ckIpmpYHbcD9KcBJ8eAcRvvkj_1qJoYpP36TyOBeVtiW6DS9or725rYo93p_Ps6MB1BVKCS6_tUEmwrxAUET-bhaRPjxm5J86w0e_wKIeakqLS5ZjOJZBfLLcetayhvSVT-Ag9TOcpaPyCEwWxVf4vRwE8Se2BkBSHVezffQh_q4kRSNXb3Rpik0__UcAlsV5697tJlpfhRXIokL7llyl9r2QZl5iwkQzFZRMKItCWGUuuALVFFEmO_MfZAcAdYklxrwVlPYH8iGnBzV-1xqHpTLFM1MldsBtlyQu9Tigo4GVcNrvaRgRnmtLJtZaTKk2N1rh0aXm1piG7Yqec4uhXN2yEGNOnsvS6GwB7FhmeiQhkiKY9eUtgKswl5f68LxDgmRZablfxUfi0NYr0yJ9sizvalfyncHFZGl9UoY-FuoeoL6-HP2WoqVlCHbyUF54oMLhnrqnZMKsjWhAlwbrVWk20in9NLyrFA5etiDlCvPn1kKruzkC5NUYC6yEAE6FflA_7L2eI8bUiCFen_0mwTMg1vFr_ZISZ82uVrPevLR1z0Zy83rLiSbIwEURWOJODplYmHpOCaGoeatFOF4OGiIgjy7wtVl9a8YmHGRqo0OrrbSZx2m3uT_odd4c30AJpGZ7uoO4Jf19_RKJkSsSKRD9C489le1DK2UkZmhkOlY09C1yXrqs7ShUJU_GofZCfMMIDR8KA3DqL7YsF-xn5fBHdAuekO7H-MqwL28hXj75tBSCFUL-dpp2K5zK9CsopKms2D0NAazsHV-RFQbH2fC6CBRYKuVNDlS6nYakwXkRDrcJ7aGKQuvXp_F-v26-GRN7KvfD6Mdb3JNEHuLtCpmZZzkSB2YaCrlRqcuzlFeB80CAJvjHB4_h84A0K4bDBYLbz0D4HqYBy5O_WEHqNM81J52Dbd9bme2XUFinOlHerxHTOfe4zA3jxNf5iQ7FI5OePQt6QKmd3TMt-cpJKS5QBqWRpQupNSB80q85ZPNa7xwYJfOb5CRdY84wxn8BD8Jy5J_0Qyi0nv2nUEbv4XannD7-C2hvqdF8cgUMy-eWihj-21pqXQyW0y8uhFXg=",
+      "total_stay_price": 16585.16,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Superior Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-07 04:29:00",
+                "amount": 16585.16,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lpc1468",
+      "name": "Le Roi Digha",
+      "city": "Digha",
+      "address": "Digha Railway Station",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHbvnp__8GHjMrrSu8hTVJ9STz9nNQWUkS6FoGXNdyGOoF-za3rKAplgA-vTdccxySS8VgnUrP2gIY4be0RuXtHjF3sTnqyphQ5poWbBwMU4xi1rhylrqYLPIHtI3rdEWivrBCC-0TYDSNi0Fecfylb3qPdtAFZMBYPnN1KATeKgnPSUMYJ_5_q3GYTTRRLiz5e8zJ8rmx5anYOhn1Q9a4Iu8js5NLZJBN4yrtV0SoYB9WXBMTUUlS2TEUGasahUfsjHtSqthHK3IVzSrpnD0KOWy3gTIHUwrmEKUCmeZ_6a8h_8-ABaFAL55F4X3ZqTJm1LRqyoMt7DvKDnCrN1waTuDKYwQi1tVmgq4uwuLkQ0Cz9FzLi6qwo6170eJzAl3-EpoYKxSxqCUi-lPFz7j3eyzN1YQcYjA1Vb4eA1PIiO2C-vejoHjCe2OJGXl6Jw5H5S3WNXlnRP0pkeQ2zS7SUruDHVJRapVVoFEuOeZUQ0Y9MRXiZcKoDlRQT1qXadinA9yHGW8mKOv0tqx1gnCiHA55ozRCAfYoCJO4Pj5Wl8fXKPRG3uAmDwfQUxGov0f6s2ewxcsbVM9mviAZdMVhtNToc1VByYYDPlYXmrlJfHjcWVVB-IDY9j2B5fMtUkjcA6OD3W4Hls-UYFky6uBKvGr1evSFz8UVJvCNo91A0hdFGUHj8Ecmm74CNFP1o0VKbDNSjV6DVbAaeuLT40JTNy_ENLCEcxIoNiW4jACANp6J2QNG9x1-x6TMkqnxBC1zJphzGLR8I22ryrKbBRbbHJRUfV5hIEQ70ftkpebeUFRzGrivRttP96LN0vjZzmMblJe9ZJeaZNZGxaxE0yFpPqvZoPtg5VQQ8Rth7aEDVmxJSyGzSJnSfAZ9NlBz3Xc5cqoLdmeO03seoAVtVACXT-IUe6oe725B_GlqPk0kL960oN4uOdZCZqQ_2Pouu6IE4iO2nmq40oCGDARoMxb2EIIfKuacX2fDX9Bw68giaSbEDTSKjbt7nDQQqqAHzgTqtiJsOzyswlZnSV6l1qxYP8d_4B-9fFpQwTCVUFnNTRK0BfJqcZymnlRMfQKqsWUWZotllqAYXdgxqIvVnlcVZCEy2Ely3w4-uSu6hyLb5ZJ4QVb06FPrcSkrC9MmipA5-XVcrknDdxFQlT3vKDUJMJtMstqKVrzIQWIZg8WJ0nknR2UXHDLO4mX6dZB-eFPpO3WitWZNx0mByU5eSx4=",
+      "total_stay_price": 18493.93,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": " Deluxe Twin Room Type A",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-07 04:30:00",
+                "amount": 18493.93,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6583b286",
+      "name": "Hotel SagarPriya",
+      "city": "Digha",
+      "address": "plot no-9, Economic Hotel Sector New Digha",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPH8jfYK7RVK4jVHjpOxnJ6vjCR2GvapqkRPP1W8-rJOU2xi0-Dlr5LuG7UrOFexniOH5C4qw7nL9IDSZL6S3BaJLkzEiCqRBX9WO47mBWsjk24Bu2iCojQapckaYKuvakOrlnXOTcPHbwNYWWoJecDDUg-zyOrfO1jxBIBA5IAxGPcsnh-MsADPzE-JxCHEuK5kkuJsNZyPRGl_eaG48dUwo07CQsOJu5f-CTUxlcmx7wz-2zS8JbuZePaZK-Ujwf0L8uhOe9LbJA955H6fqzDDbdyT9inNIc7zBwj3FeY_p-wRs9csXTOMN_xyCE3mTba7aWS7wdLAnrKf2trmIy7K4cdcVAwkDIQdSvSd9glP_Sjz7eucJyTlQ5_y63D-nFbyN7zLTAhEdtE-U_1X7kHWNWmCsU0yW3EG0zkrd8bvX6G_YxoBgez2TZaA9MZMBdPKPxmbyxi1wBU1b_5FSO1Guzypjhs0TXbZcUPpQcDg4WbUciy0JWi2oO8tL3k6dJqUxBIsaDriVsiXooP-eafX_FgDTaYuIWtfzhu8sDhZzOigTSpatmEv1oGAcqGCRU-ZiOL21ze4sGFy9yChaclDM9ThhbdJ8VPUbGcPYS2fbBuzrn02AMWMrGCzSVnHlrS8WbqK6YAuD9O8Xocs611ud71nqhD2kqed6beuK-bza3tkIWbWvqz1W3Ut8SDuSqm3ShBfVHBxuTSIVh8CKhAwRg4gTfTY5jdqMixDtfv6z5xQnRyeZ9zYTX7TN2GLGgLdLXu68G6r7ad5xvlG56fBQ2-1VaBNe-jrEXBpezjkS24peZXNoozJmrdX54ygztlzRbz3wcmPbzpSOXfMVLFIVAeFNsRYEy5NjRgKvcsMWZgvNvPuiDQpbjLg_SPumdBa93jQj2h6QkP-6jTJdfxpO5p009WPu07jNIYOST6ie5k8mzSNfWPtAK6luzYiUPG5TliiP8QmDfsKulbWQ6q98DeKbyWv3bVcdiEZyA5EfGlQGvM94Az0VhcDtoiC4IYcokaO03Mf0_AV_7Xl7X8xcDdAvUcu43liAfH3xBO6_iTVDKEdO-TT6HWTDKThvQbVpNfGW3ol32g2vYObeP3w4Ulaje-j8_xKcl_IKZFcF9JCiecmHuHB_DMuXxwUhsXWlis4OYBYgULeUoXvutC9d7-fkRcburLznDnUa3n2v5XkmHdo6x2xEKKdEyOc18UPxk7hh5gsh6jOZkaCo2DvBCsaqr1YW9MGWWd9XywAnCLYvFwGmQBEoc72mAqT9DYpnj29gL2OavtQBCiseNrcVSvYNSZ2YLUqIo=",
+      "total_stay_price": 19152.91,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Ground Floor Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-05 10:00:00",
+                "amount": 19152.91,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 19152.91,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657825fe",
+      "name": "Hotel New Sagar Priya",
+      "city": "Digha",
+      "address": "plot no -34, Economic hotel sector New Digha.",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3cPHm2MClludUjMAwRxXArRN1wwlKvup37QMwNRjDvcrrMcnmv9J8cH0Xs0nYiGpe_-rDCFnvz1tMF-sVq3MWsmAoJN6Nit9vebDzh6Ks-Qo14d1mbyC-71-QSLWTjekZKebxoL8uv4S90mm9Rl0LBJvDhB0_xbNfl2dw3Sg5ZUAkAwBY32tfGjMOF710QfltSX1yZTFo1ljcuHsBVEMCsYj1ajc-UVNmBNdstm9UeJCWRs5XeMSFAg91OT6WkJdKaNr78rDrc9RDkumBxQBQ-P2Dvsu8KfT0hBmazvgTV-5uC85_cCFjUPdd1Jr9pKsd9PYIvksC-m12sUYGbUyXftuJ1ssLT-RC5cMSODpN90xuI4QH6If_qkWdJSEPx_Ed-Zd5BT99P8UkYIw0_uUcOxBHF9AEK-Z5IIzbodmk-18eKa1PYjjiFOwpFmqJEEBFkpO8SZDcAylIjb3lNlNQbqb004qxwOnZspbwA9BNMypSOGoL55fkiTmytaie2IRaC5Rpd2Nc1bdwGcQVTyvio3ldEzbQwt_1YLKOHjd6Lvm8FULpHbbENHh-i5BJ2-xT-0wZeqxFFi_mKsdNW9Qjivr1-5LiQu_2jI2Sao_XvwUlwYqdYhpx4kQiR0R4Ew8n1ao9e96o5IQCjEdhM6iNbsNBYUs0V8hy4n03xAkLv0YmxE6njDD5v7tddJZHbmQCpnC3Z2piHFh3Rm27UPnqbVRlyoYmGF3uiDeGZ6_On4aKcCfRpfFNFaGehHo6Uu6_xBoSJDqTTo77Lze3qKiB6QSU1jA6How0uJDRLlFsUBeCjSxPiROqlqDm8zRtZEpikqmh2XEm9PmYjK8XZZ1u70nYTzJCJAZk4bi0Pji-LdTa-LV21-qTrweJMGxTpq8YVMRGVWetG2nOkn-rGxhf5_SgUJOgpyZ54fIIpLDSHjV58ETuk2Qtyp0AZyb1UudOBtWg6qzZ2-4MDq_FNRHsIGXKgQqt72ivEZQaDVJ67F5vRSYi_do_h-FhUpYQdCgfnb08KU9paFoLS5ZdQbfAbDQLMuId7XvqRFt3alaJ2eJhLiTP-hE2yoglFhHVGqP_3yV9VnAoebx8Gs501dKNe_3gmzWaJ3BgoZk5Lz0mtkmHH59RXGQaGS6dktNfygGzxhNTA==",
+      "total_stay_price": 25821.08,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-04 04:29:00",
+                "amount": 25821.08,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    }
+  ]
+}

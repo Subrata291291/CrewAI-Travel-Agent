@@ -1,0 +1,21 @@
+{
+  "trip_id": "b4829eb5-4c6d-4b44-b0e5-e3d3b9c383cf",
+  "travel_request": {
+    "origin": "Kolkata",
+    "destination": "Kashmir",
+    "departure_date": "2027-02-11",
+    "return_date": "2027-02-13",
+    "journey_type": "round_trip",
+    "nights": 2,
+    "adults": 2,
+    "children": 0,
+    "rooms": 1,
+    "hotel_budget_per_night": 1500.0,
+    "currency": "INR",
+    "hotel_required": true,
+    "flight_required": true,
+    "hotel_preferences": [],
+    "transport_preferences": [],
+    "status": "ready_to_search"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "trip_id": "df50f9a4-aaa5-48e8-a74d-e84711999dfe",
+  "travel_request": {
+    "origin": "Kolkata",
+    "destination": "Digha",
+    "departure_date": "2026-12-10",
+    "return_date": "2026-12-15",
+    "journey_type": "round_trip",
+    "nights": 5,
+    "adults": 2,
+    "children": 0,
+    "rooms": 1,
+    "hotel_budget_per_night": 2000.0,
+    "currency": "INR",
+    "hotel_required": true,
+    "flight_required": true,
+    "hotel_preferences": [
+      "Breakfast"
+    ],
+    "flight_preferences": [
+      "Economy"
+    ],
+    "transport_preferences": [],
+    "status": "ready_to_search"
+  }
+}

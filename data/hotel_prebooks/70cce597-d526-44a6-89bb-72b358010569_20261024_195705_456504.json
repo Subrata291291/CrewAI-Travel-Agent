@@ -1,0 +1,94 @@
+{
+  "trip_id": "70cce597-d526-44a6-89bb-72b358010569",
+  "hotel_name": "The Golden Crest",
+  "hotel_id": "lp8cfae",
+  "offer_id": "AwJ2MQAAAABq3hGmqDcqzGcbTHeNiiX2GY5AvahKXsiaaaecCf9frZ3LsryySK5ouTLYe57D_t-Tz0LrV4XmTLnQ-LbOiu9i3qiP7L0KUdu2y-AtxZdqBerkf5cpO4MjscGoq5mc6DtBKyISGEk97Tib2SIz0l3EIoFj3gnET89tpl4ukKjRQuT0CgJOWBVB2lHLKBMZehiLznF2Deq8l9OP1rMsqPbiO-6tEcwS_VKeEoV2rZI3eeT8Ya2fsX5oCOCToOv9TayJYwxW-siZDaqXVLymr2hv3U1A1NBtdpFAK9ZG5-qjTPDjxrcsZ5LGWn0ylXQtkJyMYXV_C2PnQOVClAhTpW_YCWjJyLmDdoxMj4yhEgZfx0YHGEvTJ3zgXea1fOxmujr7e0jZ-XvOLbVnowQzABmgAjUBSM6vz25qMCgWGniDoo35bmpEVK4kJVaXxC_5a9VH5sAzlKIclKXH2vJ87BgU1tU7GQb_JOhv3i56BYTiaS_ZErGGUDxKzP2x_rkXCUlcBed1l0N28oNBltgspdUPq-UxfAnmwGb86nkvGirJ89ZUJH-9y1XUyBbTRzmqtQUvlCIaceQIRF_-HyL8XS8L6eRE6W1yPHDHfsvFrwcwYrM-32i4ugcT96dgUwjLUWutPX4kgzqzm4__dvNCbowkGXE35R-dk4ycOGVvPgyZMgDGL-QQsnJajXoeuTQsKW49A8zS1GCMF1dqEjLa5RGmyRqPxwikrB8KgPL8wbwIJA34HAP_U6Sf6cU9Z1OFrkkbyWheQt_oD2GuGbm7qEmXf-h_1d1gdw9iBhYTVGYOlAMMxen95tvGj44iEpsMM4VppCjB8b4bOKJokTaz0uMTyZJdqnaIRhUANOLL52mh2yWk7vBYEJ5HZRGN7aAID4JUOlFUQFrDRwuy_LCAgSflNap5Ms_LC3zb3ij3vTsL0q_7WFROb-DtKJIDkbZjUkV1PN6yb4e-Yy0aB-9QuzdCD0pOXOXRBRE1_ayvjNV47wiapAbi5hs4pqPzYWl9sYxwpklq7iC7h-QwRMwpRaBwXslAi1F9ZAWNgXl06P_Es8nfq2cZSm2sshffK3GeSjHDOE5xXSKCq8XhT683P0xUjPjKDCQAhNA3zxuoZ3QqCvEqIA9yeXjvl_TiIwbD_PChcef_65pJl376d_MX21JGydADFHQeKq3BlSnc7JyGWJgnouWPEg==",
+  "searched_total": 8509.64,
+  "searched_currency": "INR",
+  "prebook_id": "4lBNTDZI3",
+  "prebooked_at": "2026-10-24T14:27:05.456504+00:00",
+  "prebook_response": {
+    "prebookId": "4lBNTDZI3",
+    "price": 8509.64,
+    "currency": "INR",
+    "roomTypes": [
+      {
+        "rates": [
+          {
+            "rateId": "I42FUVCPJZBFOR2FGNDUWTSSKVDVSWKUJ5GVEV2HKI3EIQ2JLJJUOQK2IRGU2SSRI5GVSSCZJVJFCR2JGNCEGTKKKFDVMNSHJMZVGN2LKZFFQWKTJNHVAUSFKU2FKVBUI5DECVCBKEZTIR2RGJKEKT2MGRHEMSKHJ5LEWSKQKFMVIT2PJJJUQQJSKRCU2QSRI5KTEVCHJ5CFGSKSIJDFCSK2KZDTIM2UJFHEUVKFJUZUITKPJJHEOVJTKRHU4QSWI5JDMRSFKJJU6UCRLJCECTKSK5DUKWKEIVHUEUSHIFMUIQJXIJJFAUSKIRBU2SSWI5BDMRCRJZFFCSCFGNCESSJSKNFDIUSWIVJFGT2FJVNEIQKNKJLUMVKZKRAUYSSTJBAVCRCDJVBDER2BLFBUO7BYGUYDSLRWGR6DEMBSGYWTCMBNGI4SAMJQHIYDAORQGB6FET34GMZTMOBZG42XY7D4KN2GC3TEMFZGI7BQFYYDA7BQFYYDA7CTORQW4ZDBOJSCAUTPN5WXYMBOGAYHYMBOGAYA",
+            "occupancyNumber": 1,
+            "name": "Standard",
+            "maxOccupancy": 1,
+            "adultCount": 1,
+            "childCount": 0,
+            "childrenAges": [],
+            "boardType": "RO",
+            "boardName": "Room Only",
+            "remarks": "<br/><br/><br/>",
+            "priceType": "commission",
+            "commission": [
+              {
+                "amount": 0,
+                "currency": "INR"
+              }
+            ],
+            "retailRate": {
+              "total": [
+                {
+                  "amount": 8509.64,
+                  "currency": "INR"
+                }
+              ],
+              "suggestedSellingPrice": [
+                {
+                  "amount": 9786.09,
+                  "currency": "INR",
+                  "source": ""
+                }
+              ],
+              "initialPrice": null,
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 516.2,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-10-28 10:00:00",
+                  "amount": 945.41,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                },
+                {
+                  "cancelTime": "2026-10-29 10:00:00",
+                  "amount": 8509.64,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "mappedRoomId": 3368975,
+            "paymentTypes": [
+              "NUITEE_PAY"
+            ],
+            "providerCommission": {
+              "amount": 0,
+              "currency": ""
+            },
+            "perks": [],
+            "promotions": null
+          }
+        ]
+      }
+    ]
+  }
+}

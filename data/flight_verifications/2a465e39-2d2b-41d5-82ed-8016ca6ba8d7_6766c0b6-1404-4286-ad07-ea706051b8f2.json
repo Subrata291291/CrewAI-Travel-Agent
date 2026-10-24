@@ -1,0 +1,295 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "offer_id": "AwJ2MQAAAABq3ZLOiooLkgdEkPJe4t6RkaK9sVGZJesLd96o9ZWrrR9as0XGWv-eTJFwdn-vEshQQquWocrSu79pxDX2ppJ-zlHX6uOb2KtDKx_AMBMHQjwdS-RhzVQYgte_YrCv8qAOFuyQ1Xh_wW8VeEObwJhJhpFAMLcxnRhvzwdDRZZUyH4gi8uZC5ucUbdc5L5oCzi9bzkn0kzb9YUEBf9ArZTWNyNpMs_9W_6EyJsGKR5wFlOfydPvKB0ZHGd-XY_bgBFB8Ku3_HMH6TIgTuduVOO6egGKWCsS",
+  "verification_id": "6766c0b6-1404-4286-ad07-ea706051b8f2",
+  "verified_at": "2026-10-24T05:25:39.490003+00:00",
+  "price": null,
+  "currency": null,
+  "expiration": null,
+  "response": {
+    "data": [
+      {
+        "journey": {
+          "expiration": "2026-10-24T05:40:38.893Z",
+          "timestamp": "2026-10-24T05:25:33.689Z",
+          "pricing": {
+            "display": {
+              "total": 56952.98,
+              "currency": "INR",
+              "base": 42713.65,
+              "fees": 0,
+              "taxes": 14239.33,
+              "perPassenger": {
+                "adult": {
+                  "base": 21356.82,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 7118.58,
+                  "total": 28475.4
+                },
+                "child": {
+                  "base": 16018.16,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 5338.66,
+                  "total": 21356.82
+                },
+                "infant": {
+                  "base": 2135.47,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 712.18,
+                  "total": 2847.65
+                }
+              }
+            },
+            "converted": true
+          },
+          "baggage": {
+            "hasCarryOnBag": false,
+            "hasCheckedBag": false,
+            "included": [
+              {
+                "bagType": "personal",
+                "description": "Personal item (backpack/handbag)",
+                "passengerType": "ALL",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 0,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "size": "40x30x20cm",
+                "weightKg": 5
+              }
+            ],
+            "paid": [
+              {
+                "bagType": "cabin",
+                "description": "Carry-on bag",
+                "passengerType": "ALL",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 3251.98,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "weightKg": 8
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag 23kg",
+                "passengerType": "ALL",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 4877.97,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "weightKg": 23
+              }
+            ]
+          },
+          "fare": {
+            "family": "Economy Light",
+            "mixedCabin": false,
+            "mixedFareFamily": false,
+            "seatsRemaining": 9
+          },
+          "journeyKey": "62a88bc4c96e17c7",
+          "passengers": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0
+          },
+          "seats": {
+            "extraRoom": {
+              "description": "Not available",
+              "status": "not-offered"
+            },
+            "seatReservation": {
+              "description": "Seat selection available for purchase",
+              "pricing": {
+                "display": {
+                  "amount": 1625.99,
+                  "currency": "INR"
+                },
+                "converted": true
+              },
+              "status": "chargeable"
+            }
+          },
+          "segmentFares": [
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWCCU",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "6a8ecc30"
+            },
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWCCU",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "5f2814b3"
+            },
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWCCU",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "28d9684c"
+            },
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWCCU",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "879a5524"
+            }
+          ],
+          "segments": [
+            {
+              "arrivalTime": "2026-12-10T15:43:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-12-10T13:20:00",
+              "originCode": "CCU",
+              "destinationCode": "DEL",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT2H23M",
+                "minutes": 143
+              },
+              "flight": {
+                "marketingNumber": "7844",
+                "operatingNumber": "7844"
+              },
+              "segmentKey": "6a8ecc30",
+              "originName": "Netaji Subhash Chandra Bose International Airport",
+              "destinationName": "Indira Gandhi International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-12-10T18:53:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-12-10T17:40:00",
+              "originCode": "DEL",
+              "destinationCode": "KUU",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT1H13M",
+                "minutes": 73
+              },
+              "flight": {
+                "marketingNumber": "7731",
+                "operatingNumber": "7731"
+              },
+              "segmentKey": "5f2814b3",
+              "originName": "Indira Gandhi International Airport",
+              "destinationName": "Kullu Manali Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-12-15T16:48:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-12-15T15:35:00",
+              "originCode": "KUU",
+              "destinationCode": "DEL",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT1H13M",
+                "minutes": 73
+              },
+              "flight": {
+                "marketingNumber": "336",
+                "operatingNumber": "336"
+              },
+              "segmentKey": "28d9684c",
+              "originName": "Kullu Manali Airport",
+              "destinationName": "Indira Gandhi International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-12-15T21:03:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-12-15T18:40:00",
+              "originCode": "DEL",
+              "destinationCode": "CCU",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT2H23M",
+                "minutes": 143
+              },
+              "flight": {
+                "marketingNumber": "598",
+                "operatingNumber": "598"
+              },
+              "segmentKey": "879a5524",
+              "originName": "Indira Gandhi International Airport",
+              "destinationName": "Netaji Subhash Chandra Bose International Airport",
+              "stopCount": 0
+            }
+          ],
+          "terms": {
+            "changeable": false,
+            "refundable": false,
+            "summary": [
+              {
+                "level": "warning",
+                "message": "Non-refundable ticket"
+              },
+              {
+                "level": "danger",
+                "message": "Non-changeable ticket"
+              }
+            ]
+          }
+        },
+        "changes": {
+          "cabinChanged": false,
+          "fareChanged": false,
+          "priceChanged": false
+        }
+      }
+    ]
+  }
+}

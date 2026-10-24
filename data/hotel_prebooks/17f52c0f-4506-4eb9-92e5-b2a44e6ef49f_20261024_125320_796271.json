@@ -1,0 +1,94 @@
+{
+  "trip_id": "17f52c0f-4506-4eb9-92e5-b2a44e6ef49f",
+  "hotel_name": "Baga Beachway, GuestHouse",
+  "hotel_id": "lp657bb9cc",
+  "offer_id": "AwJ2MQAAAABq3a5hXfBCBsI_3wBWAg5IdZOhuzD_ch2zTDMr5hsHuNymHzfmjN8NuB7G8NCJ5T_OQ20I5juusEjQzD4Ca8A8jATZ5wAOZCOKgKs8KA3csgnSZO6Z8UMy9KgVXBxIXAWtNC7_yrmBVNO7YSjY6hwzEX8k-F_1xz-lIASzvHNE6zPR1xfx8anF4wps-Wa0hhwhgL_9CQJMxTcVzI6m7TFZ0Dc_B4k6jCTrpD7DAhUi50tgdjyQ2DpmaBTqJkG-1tPiCvUukL1OZgEixJfvJKySwjOLLgWN52CeR9H9JGgtC3IzFlEoxEuJRZRSFzy30zjbI3l_WK-6omPVekh6wLoL1dExrWd4dgcZQ4upzgNp40tZ_DM-__AfyTV-q8ZXGAwZuk2pHKbGaY6vw5-e17UdqvjHT-5RADNU6TtMxCnmIkPHxVvGiuTLNP-52hsx0sgW48eb2_3LvNok01vfP5dZcorwsng1QMa0nnsWtUYoYRwCO1-pwC4X8eK6u2NXrI5BkM59WijGfM94Xer_QmRKR6QrU4FK-F6VxswbAreG69CLHDnkiKyRrJMys-ZKewMA0cGY3Xq9qAvax1nIJlyr9ATXbVt91oo3TNRywUgodTTzAIcYnwmB2G3J4ThZe0-TClWq7Njk-zawSxWmc_hcIrxWCIj9o8Yv1cjL-_zowsUUbCYnZpVa39R4xw213s9nmngcflLHAbDi_D-B3TwUYJZhwcJrr0NeCdmN4s-nzENAVUwNDIh3MOObqXBzH8KBrabZ1ETN5Bi-s3UOMMDU5_5EouwSatxAg694IjIGr1-nRT8--hcXnQiPkSnY3wDqAn9rgwFFcBYEPGQPQ4AqR0Rx-tBz-69e774fp3Ux1Mc7NwiQKCfEWX3bofjdPy0EuhEfh_SRfQd0eiJ6AhP8HqHC-CmT7JeUSyLbVPcfRghOQGXaeK2tYwTkQZYr4Y-HI_w764rfvUiEnvbwMCemSdRHqyXimDFvdKr4bFkdM1yxupRxZXF5Eac-JY8SFQcWrFAu7rIUvSbWiSRRpbMdLHwmdfMDQSLODIEPfm-Jkv2V04aWKr5ByJG4y2jxztysJ6PGLU2t3uEVCaC2z6NYDvfQOq_WCtXIvfrkUbwwRcoCVDYViMNqStdG_lT2aRlHURPQSACnzs4LESTEiNOIdq7mDR0osF3MW8IUuGxK1ac_YuGGSbXYvLd0JMpdL9xTCwixsRzbT0DV5ucd2o3wmRjFischlo-QsTRdj6MNHbgolMAQ6jF-XkbrUiPy5PLuPFKUZZXYCnJm",
+  "searched_total": 2965.24,
+  "searched_currency": "INR",
+  "prebook_id": "MUkeSWnml",
+  "prebooked_at": "2026-10-24T07:23:20.796271+00:00",
+  "prebook_response": {
+    "prebookId": "MUkeSWnml",
+    "price": 2965.24,
+    "currency": "INR",
+    "roomTypes": [
+      {
+        "rates": [
+          {
+            "rateId": "I5MVURCPJZFFOR2RGNCE6TSSKZDTIMSEIVGUEV2HKEZUOTKOLJLEOWK2IRGVSWSXI5KVURCBJZNFGR22KRCE2WSSK5GVENSEINEVUU2HIFNEITKNJJJEOSKZJBMU2USRI5ETGRCDJVFFGR2OGZDUWM2TG5FVMSSYLFJUWT2QKJCVKNCVKQ2EOSSBKRAVCMZUI5ITEVCFJ5GDITSGJFDU6VSLJFIFCWKUJ5HUUU2IIFNEITKOJJNEOSJUIREU6RCXJFLEGRKVJFNFERZULFCEKTSSKFDTIWSUIFHUERCHLEZUIU2MJJJEONCZIRCU4USRI42FUVCBJ5CDIS2KIRCTIN2CKNDUCWSEJVGUUUSHIU2EIQ2NIJIUOQRWIRBTOQ2TI5CVSVCLJVCDIR2JGRKE2TSKKNDVCUSWIVKFURCLJJCEKNCJLJJUOQK2IRGUYSSSI5CVOVCDJ5BECR2FLFCFKTKCKFCU27BSHE3DKLRSGR6DEMBSGYWTCMJNGE4SAMJQHIYDAORQGB6FET34GQ2TQNZRGIZXY7D4IJ2WIZ3FOQQEI33VMJWGKICSN5XW27BQFYYDA7BQFYYDA7CCOVSGOZLUEBCG65LCNRSSAUTPN5WXYMBOGAYHYMBOGAYA",
+            "occupancyNumber": 1,
+            "name": "Budget Double Room",
+            "maxOccupancy": 2,
+            "adultCount": 2,
+            "childCount": 0,
+            "childrenAges": [],
+            "boardType": "RO",
+            "boardName": "Room Only",
+            "remarks": "<br/><br/><br/>",
+            "priceType": "commission",
+            "commission": [
+              {
+                "amount": 0,
+                "currency": "INR"
+              }
+            ],
+            "retailRate": {
+              "total": [
+                {
+                  "amount": 2965.24,
+                  "currency": "INR"
+                }
+              ],
+              "suggestedSellingPrice": [
+                {
+                  "amount": 3410.0300000000007,
+                  "currency": "INR",
+                  "source": ""
+                }
+              ],
+              "initialPrice": null,
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 157.42,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-11-18 10:00:00",
+                  "amount": 2965.24,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                },
+                {
+                  "cancelTime": "2026-11-19 10:00:00",
+                  "amount": 2965.24,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "mappedRoomId": 4587123,
+            "paymentTypes": [
+              "NUITEE_PAY"
+            ],
+            "providerCommission": {
+              "amount": 0,
+              "currency": ""
+            },
+            "perks": [],
+            "promotions": null
+          }
+        ]
+      }
+    ]
+  }
+}

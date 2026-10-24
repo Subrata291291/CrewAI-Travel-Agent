@@ -1,0 +1,295 @@
+{
+  "trip_id": "4869fc04-f021-4d2c-a562-09a9f21ba8b9",
+  "offer_id": "AwJ2MQAAAABq3ZDPf_IOHsgzFAm9YuvkW5Yh1d9N1pRYoB4APQZA96Zo-hqVwzrSvkpgD-YrT4136VctN-Y1JUj3MJNe-JA7jnhznYCbkhJvzydmO-tSECfNX1s9Fo9D1YHIIFg7m-GCi2DgIVdgHgNj4YoGEBzcu63UrnLPsa47_Msrh5wtVI0XYTo_jcZ7F05InYYCNSxlIoHN5bmBzDcC5ZfE5y_Tvvdz1VfwS_J3D4d67w3oc8zo0q3eQoHoj-x55Ild60Wpy_WfkARxRiY9c4_nunzqaVkpimo-",
+  "verification_id": "4ffbd2e5-17e1-4607-9f81-d62644bd098b",
+  "verified_at": "2026-10-24T05:17:08.150274+00:00",
+  "price": null,
+  "currency": null,
+  "expiration": null,
+  "response": {
+    "data": [
+      {
+        "journey": {
+          "expiration": "2026-10-24T05:32:07.062Z",
+          "timestamp": "2026-10-24T05:17:02.389Z",
+          "pricing": {
+            "display": {
+              "total": 106125.06,
+              "currency": "INR",
+              "base": 79593.25,
+              "fees": 0,
+              "taxes": 26531.81,
+              "perPassenger": {
+                "adult": {
+                  "base": 39796.62,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 13265.9,
+                  "total": 53062.52
+                },
+                "child": {
+                  "base": 29847.74,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 9948.89,
+                  "total": 39796.62
+                },
+                "infant": {
+                  "base": 3979.34,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 1326.81,
+                  "total": 5306.15
+                }
+              }
+            },
+            "converted": true
+          },
+          "baggage": {
+            "hasCarryOnBag": false,
+            "hasCheckedBag": false,
+            "included": [
+              {
+                "bagType": "personal",
+                "description": "Personal item (backpack/handbag)",
+                "passengerType": "ALL",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 0,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "size": "40x30x20cm",
+                "weightKg": 5
+              }
+            ],
+            "paid": [
+              {
+                "bagType": "cabin",
+                "description": "Carry-on bag",
+                "passengerType": "ALL",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 3251.98,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "weightKg": 8
+              },
+              {
+                "bagType": "checked",
+                "description": "Checked bag 23kg",
+                "passengerType": "ALL",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 4877.97,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "weightKg": 23
+              }
+            ]
+          },
+          "fare": {
+            "family": "Economy Light",
+            "mixedCabin": false,
+            "mixedFareFamily": false,
+            "seatsRemaining": 9
+          },
+          "journeyKey": "7672f04a81c49af5",
+          "passengers": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0
+          },
+          "seats": {
+            "extraRoom": {
+              "description": "Not available",
+              "status": "not-offered"
+            },
+            "seatReservation": {
+              "description": "Seat selection available for purchase",
+              "pricing": {
+                "display": {
+                  "amount": 1625.99,
+                  "currency": "INR"
+                },
+                "converted": true
+              },
+              "status": "chargeable"
+            }
+          },
+          "segmentFares": [
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWKDA",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "4e0efad7"
+            },
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWKDA",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "28a7f681"
+            },
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWKDA",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "57bc6bf7"
+            },
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LOWKDA",
+              "fareFamily": "Economy Light",
+              "seatsRemaining": 9,
+              "segmentKey": "4fc5bf3d"
+            }
+          ],
+          "segments": [
+            {
+              "arrivalTime": "2026-11-20T17:35:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-11-20T11:45:00",
+              "originCode": "KDA",
+              "destinationCode": "MAD",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT4H50M",
+                "minutes": 290
+              },
+              "flight": {
+                "marketingNumber": "2276",
+                "operatingNumber": "2276"
+              },
+              "segmentKey": "4e0efad7",
+              "originName": "Kolda Airport",
+              "destinationName": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-11-21T00:55:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-11-20T19:14:00",
+              "originCode": "MAD",
+              "destinationCode": "ABB",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT5H41M",
+                "minutes": 341
+              },
+              "flight": {
+                "marketingNumber": "1257",
+                "operatingNumber": "1257"
+              },
+              "segmentKey": "28a7f681",
+              "originName": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+              "destinationName": "Asaba International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-11-23T19:16:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-11-23T13:35:00",
+              "originCode": "ABB",
+              "destinationCode": "MAD",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT5H41M",
+                "minutes": 341
+              },
+              "flight": {
+                "marketingNumber": "4125",
+                "operatingNumber": "4125"
+              },
+              "segmentKey": "57bc6bf7",
+              "originName": "Asaba International Airport",
+              "destinationName": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-11-24T02:05:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2026-11-23T22:15:00",
+              "originCode": "MAD",
+              "destinationCode": "KDA",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT4H50M",
+                "minutes": 290
+              },
+              "flight": {
+                "marketingNumber": "1028",
+                "operatingNumber": "1028"
+              },
+              "segmentKey": "4fc5bf3d",
+              "originName": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+              "destinationName": "Kolda Airport",
+              "stopCount": 0
+            }
+          ],
+          "terms": {
+            "changeable": false,
+            "refundable": false,
+            "summary": [
+              {
+                "level": "warning",
+                "message": "Non-refundable ticket"
+              },
+              {
+                "level": "danger",
+                "message": "Non-changeable ticket"
+              }
+            ]
+          }
+        },
+        "changes": {
+          "cabinChanged": false,
+          "fareChanged": false,
+          "priceChanged": false
+        }
+      }
+    ]
+  }
+}

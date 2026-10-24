@@ -1,0 +1,12 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "provider": "LiteAPI Hotels",
+  "provider_mode": "SANDBOX",
+  "prebook_id": "CMdIgqmMW",
+  "client_reference": "WF-SBX-0bd523c23872df4cacdf92b9",
+  "status": "REQUIRES_RECONCILIATION",
+  "created_at": "2026-10-24T05:30:30.931873+00:00",
+  "payment_method": "ACC_CREDIT_CARD",
+  "error_type": "LiteAPIError",
+  "provider_booking_id": null
+}

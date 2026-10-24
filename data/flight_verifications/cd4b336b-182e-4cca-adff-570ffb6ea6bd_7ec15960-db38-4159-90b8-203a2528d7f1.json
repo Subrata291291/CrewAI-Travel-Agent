@@ -1,0 +1,235 @@
+{
+  "trip_id": "cd4b336b-182e-4cca-adff-570ffb6ea6bd",
+  "offer_id": "AwJ2MQAAAABq3giWLoGBy6aO_gfMzJHz9c0A-b2MIk81BD-vSrEKzmZDNjqHtKoc-Ip8cmuxsSSmrPLj8zkjTZIvmoEcqOqMaq5tYfwCZmnsakUOJo2RJ8SZCMnjgo9zas5f5aMjdzC6iSIA7Ow2ig6Vg0QAhwIyGDa_mu_889Pz7wAfCWGsUDnmtzDxh_9Q7dMn6U_kPzmitM9nU-zyGXZmyHKYEZlqio9k6MnJYcZQ3Uelrb8VNfuPnK6C7lV-58KYn-hHSohfmvwVK8aP5as5T44vsOZ8ErLjVOJF",
+  "verification_id": "7ec15960-db38-4159-90b8-203a2528d7f1",
+  "verified_at": "2026-10-24T13:48:43.389823+00:00",
+  "price": null,
+  "currency": null,
+  "expiration": null,
+  "response": {
+    "data": [
+      {
+        "journey": {
+          "expiration": "2026-10-24T14:03:43.115Z",
+          "timestamp": "2026-10-24T13:48:00.781Z",
+          "pricing": {
+            "display": {
+              "total": 61828.22,
+              "currency": "INR",
+              "base": 42741.9,
+              "fees": 0,
+              "taxes": 19086.32,
+              "perPassenger": {
+                "adult": {
+                  "base": 21370.95,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 9543.16,
+                  "total": 30914.11
+                },
+                "child": {
+                  "base": 0,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 0,
+                  "total": 0
+                },
+                "infant": {
+                  "base": 0,
+                  "currency": "INR",
+                  "fees": 0,
+                  "taxes": 0,
+                  "total": 0
+                }
+              }
+            },
+            "converted": true
+          },
+          "baggage": {
+            "hasCarryOnBag": true,
+            "hasCheckedBag": true,
+            "included": [
+              {
+                "bagType": "checked",
+                "description": "",
+                "passengerType": "ADT",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 0,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "weightKg": 15
+              },
+              {
+                "bagType": "cabin",
+                "description": "",
+                "passengerType": "ADT",
+                "pieces": 1,
+                "pricing": {
+                  "display": {
+                    "amount": 0,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "weightKg": 7
+              }
+            ]
+          },
+          "fare": {
+            "family": "Eco Value",
+            "mixedCabin": false,
+            "mixedFareFamily": false,
+            "seatsRemaining": 0
+          },
+          "journeyKey": "351b5cee2ddeae6c",
+          "passengers": {
+            "adults": 2,
+            "children": 0,
+            "infants": 0
+          },
+          "seats": {
+            "seatReservation": {
+              "description": "Free seat selection included",
+              "status": "included"
+            }
+          },
+          "segmentFares": [
+            {
+              "bookingCode": "L",
+              "cabin": "Economy",
+              "fareBasisCode": "LU1YXSII",
+              "fareFamily": "Eco Value",
+              "seatsRemaining": 0,
+              "segmentKey": "b3f172c7"
+            },
+            {
+              "bookingCode": "T",
+              "cabin": "Economy",
+              "fareBasisCode": "TU1YXSII",
+              "fareFamily": "Eco Value",
+              "seatsRemaining": 0,
+              "segmentKey": "bc379ba2"
+            },
+            {
+              "bookingCode": "T",
+              "cabin": "Economy",
+              "fareBasisCode": "TU1YXSII",
+              "fareFamily": "Eco Value",
+              "seatsRemaining": 0,
+              "segmentKey": "16e30af8"
+            }
+          ],
+          "segments": [
+            {
+              "arrivalTime": "2026-10-27T23:30:00",
+              "carrier": {
+                "marketingCode": "AI",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/AI.png",
+                "marketingName": "Air India",
+                "operatingCode": "AI",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/AI.png",
+                "operatingName": "Air India"
+              },
+              "departureTime": "2026-10-27T20:55:00",
+              "originCode": "CCU",
+              "destinationCode": "DEL",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT2H35M",
+                "minutes": 155
+              },
+              "flight": {
+                "marketingNumber": "2708",
+                "operatingNumber": "2708"
+              },
+              "segmentKey": "b3f172c7",
+              "originName": "Netaji Subhash Chandra Bose International Airport",
+              "destinationName": "Indira Gandhi International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-10-30T15:55:00",
+              "carrier": {
+                "marketingCode": "AI",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/AI.png",
+                "marketingName": "Air India",
+                "operatingCode": "AI",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/AI.png",
+                "operatingName": "Air India"
+              },
+              "departureTime": "2026-10-30T13:30:00",
+              "originCode": "DEL",
+              "destinationCode": "BOM",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT2H25M",
+                "minutes": 145
+              },
+              "flight": {
+                "marketingNumber": "2951",
+                "operatingNumber": "2951"
+              },
+              "segmentKey": "bc379ba2",
+              "originName": "Indira Gandhi International Airport",
+              "destinationName": "Chhatrapati Shivaji Maharaj International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2026-10-30T21:40:00",
+              "carrier": {
+                "marketingCode": "AI",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/AI.png",
+                "marketingName": "Air India",
+                "operatingCode": "AI",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/AI.png",
+                "operatingName": "Air India"
+              },
+              "departureTime": "2026-10-30T19:00:00",
+              "originCode": "BOM",
+              "destinationCode": "CCU",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT2H40M",
+                "minutes": 160
+              },
+              "flight": {
+                "marketingNumber": "2411",
+                "operatingNumber": "2411"
+              },
+              "segmentKey": "16e30af8",
+              "originName": "Chhatrapati Shivaji Maharaj International Airport",
+              "destinationName": "Netaji Subhash Chandra Bose International Airport",
+              "stopCount": 0
+            }
+          ],
+          "terms": {
+            "changeable": true,
+            "refundable": false,
+            "summary": [
+              {
+                "level": "warning",
+                "message": "Change fee: 27 EUR"
+              }
+            ],
+            "changeFee": {
+              "pricing": {
+                "display": {
+                  "amount": 2929.01,
+                  "currency": "INR"
+                },
+                "converted": true
+              },
+              "applicability": "anytime",
+              "label": "Change fee"
+            },
+            "hasChangeFee": true
+          }
+        }
+      }
+    ]
+  }
+}

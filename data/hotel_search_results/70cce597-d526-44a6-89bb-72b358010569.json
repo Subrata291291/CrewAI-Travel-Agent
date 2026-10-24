@@ -1,0 +1,218 @@
+{
+  "trip_id": "70cce597-d526-44a6-89bb-72b358010569",
+  "destination": "Sikkim",
+  "search_location": {
+    "place_id": "ChIJ--oFWGql5jkRII8cUCwT1nM",
+    "name": "Gangtok",
+    "formatted_address": "Sikkim, India"
+  },
+  "checkin": "2026-10-30",
+  "checkout": "2026-11-05",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 1,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 1500.0,
+  "total_stay_budget": 9000.0,
+  "nights": 6,
+  "searched_at": "2026-10-24T19:56:46.975937+05:30",
+  "offers": [
+    {
+      "hotel_id": "lp8cfae",
+      "name": "The Golden Crest",
+      "city": "Gangtok",
+      "address": "Amdo Golai Traffic Point",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3hGmqDcqzGcbTHeNiiX2GY5AvahKXsiaaaecCf9frZ3LsryySK5ouTLYe57D_t-Tz0LrV4XmTLnQ-LbOiu9i3qiP7L0KUdu2y-AtxZdqBerkf5cpO4MjscGoq5mc6DtBKyISGEk97Tib2SIz0l3EIoFj3gnET89tpl4ukKjRQuT0CgJOWBVB2lHLKBMZehiLznF2Deq8l9OP1rMsqPbiO-6tEcwS_VKeEoV2rZI3eeT8Ya2fsX5oCOCToOv9TayJYwxW-siZDaqXVLymr2hv3U1A1NBtdpFAK9ZG5-qjTPDjxrcsZ5LGWn0ylXQtkJyMYXV_C2PnQOVClAhTpW_YCWjJyLmDdoxMj4yhEgZfx0YHGEvTJ3zgXea1fOxmujr7e0jZ-XvOLbVnowQzABmgAjUBSM6vz25qMCgWGniDoo35bmpEVK4kJVaXxC_5a9VH5sAzlKIclKXH2vJ87BgU1tU7GQb_JOhv3i56BYTiaS_ZErGGUDxKzP2x_rkXCUlcBed1l0N28oNBltgspdUPq-UxfAnmwGb86nkvGirJ89ZUJH-9y1XUyBbTRzmqtQUvlCIaceQIRF_-HyL8XS8L6eRE6W1yPHDHfsvFrwcwYrM-32i4ugcT96dgUwjLUWutPX4kgzqzm4__dvNCbowkGXE35R-dk4ycOGVvPgyZMgDGL-QQsnJajXoeuTQsKW49A8zS1GCMF1dqEjLa5RGmyRqPxwikrB8KgPL8wbwIJA34HAP_U6Sf6cU9Z1OFrkkbyWheQt_oD2GuGbm7qEmXf-h_1d1gdw9iBhYTVGYOlAMMxen95tvGj44iEpsMM4VppCjB8b4bOKJokTaz0uMTyZJdqnaIRhUANOLL52mh2yWk7vBYEJ5HZRGN7aAID4JUOlFUQFrDRwuy_LCAgSflNap5Ms_LC3zb3ij3vTsL0q_7WFROb-DtKJIDkbZjUkV1PN6yb4e-Yy0aB-9QuzdCD0pOXOXRBRE1_ayvjNV47wiapAbi5hs4pqPzYWl9sYxwpklq7iC7h-QwRMwpRaBwXslAi1F9ZAWNgXl06P_Es8nfq2cZSm2sshffK3GeSjHDOE5xXSKCq8XhT683P0xUjPjKDCQAhNA3zxuoZ3QqCvEqIA9yeXjvl_TiIwbD_PChcef_65pJl376d_MX21JGydADFHQeKq3BlSnc7JyGWJgnouWPEg==",
+      "total_stay_price": 8509.64,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-10-28 10:00:00",
+                "amount": 945.41,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-10-29 10:00:00",
+                "amount": 8509.64,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655b8926",
+      "name": "Citrus Boutique Hotel",
+      "city": "Gangtok",
+      "address": "Jeewan Theeng Marg, Development Area",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3hGmoWrzXyL8tOTGrHWyCoLP8FFJwlfakZxZKnTJlbvspOoov3RzjIrbf_3pmnhL0-CDCD4WOVN7zxLg4bmHmqADAkTPJPViOouVYhQUOQgpWbAFwxP6DLc_kdtQUKjkcfA9YiDE9l357kpOY1pW-wM1DYK8dxPmNSYGgN19Tw9XA2yIPw96E1WlTZCUBDbbs-1JqHifo9gjrbDnmxABHnUUIhiWIStBG_Y8jd2jqheIYANQSGWWEiTxml5YuuoYkbIgiwbKx9xnzi3WfLG6UGQWuooJt9QmdCk-z31LnN5A1M5yAb1RrXeWHVztTlQN1aSp6VdwG5kfJ8aesrTHHc8wP9ZpkuPY8z1WlwgE9XnJAFPfHZrVXib-Mss-PvFitGC6A_v55meFL7Mb9sPSDm-EQ0blrpQMClRXdqGec-9a2LX_DFzMTicKNvSkNKwyb33fbrxfqOtuqJaZQtIhZ79y5gxY2CIq4L4hynXrHSD8dUYXzx_UF5VKVb5dsUnfwW78XUYr8eMc7a8dr73cHbrJITQxIwaIZ9BSXO9uYLdWC73IYcuxWnDgtgjmm9jzT3FBltv1yhD8j99xhAdYrX9k6B_RcoqNRc3S8q1crRcvvQ_bodKDXPest0VzPbb_7mHCHoL1YU-P0MVYI6vufv3gnkfOm-nkcJqzqkRltdSEB_rkBT3sILoWGTXWy2vVMwVK0I0GptpJ2X-JtOr37DSGIVGP3BXBpSiTy9svFAzxrVAUI69mT_DrrdMe-ilkXDdWBvebGJ0hVWUqM6Ry9c1VkOaSUWgzzABy3zMWn0PQFkfyzGpC-FH0Sq3KLiIVI6qy1BPtgDhRkw7BmQL-aK1X2a4_98s8vhUICm_a64Z5ihak3-4PrzPaqoyOxytiUeog9qa1bjG829hnB-JjRUsyuFyH3ep_8JEW2Ce3e0BjDXLbg4gFlpSCehRteWeMnHHFgyiKx_LXdaUeNovDvrLunaXjGXniK2fJEE7DjUXKJhMrjWB6OmQiQVGGM-QNwZx9Ahiw9tJCu3luE2lwsbS-6AQVKoRsGE2rb-VRGRbBGEPJCD_8RZG5PH0o8Gedyd1DS3psjHL4r_xBPxgL30V53l0V8QRhMBz0MAAyV_gO6B4pVpZgW6VaUCC_aSd-1luq_-LmpO83dgAAgJ4a_-WW3EiSApT5SNyBZgWlOP3C-z40CHgRe1zUMGZ4_Z3n4ugZphYv9Sef1UoUeD2JD6Y7jK3KW0QQ72R5mXjOVjC7yA==",
+      "total_stay_price": 11952.88,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe - 2 Beds",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-10-28 10:00:00",
+                "amount": 5976.44,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-10-29 10:00:00",
+                "amount": 11952.88,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655d31f4",
+      "name": "Mellow Fellow Hostel",
+      "city": "Gangtok",
+      "address": "Mahatma Gandhi Marg Anola building above coffee shop",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3hGmxcv36w_1KBZD5jtHST1UKlrHf-MQLzDot2VIw7SQ41rsUmHiXW5JTpd6gJYTtbuie43R0tL95pPCkfCkg80ZryJsuRHVIEMaqB8gfLJPDEhOFQ96JIKT6JqGnjuZgTf3CDthLB11Mx-CrVw5vpSg8Qf2VDEa0v_QDl60F_h_2oZF8Hu6hh9KqPrPdCy_0KAbIPgxwigrYQRsQQ7bkz5FSv31zY-bPbnQVSOSi3v1RxuVPWlLJhLvwTyk8ndG-95aetvVy2mTkZvFBy0glECYkA9lcb5iRfpqoR_8kzhti6JdVzfM6PIFB3CE1Y3ga9VQ7RkPOYH8Hu5mFU6xFuhQO0wanPrDL8nhdFy3PG5H_Fpp4fRA78NT8SrtLIjJtILtFbSI1BqmqmfPQ3DKiFliP62hOjQL5gjNuoX1zTwy6um7Nszcz0j-9FrwWl3V7p7Izw39bHvKqgpYs36QwzZyJ0LQEMJdO-eY08BHFsUEaZjwLuTi-qRoiWxLcIkHiyftV0dFFVnxLc3iwwmw1MhJ99Q69f_oxRr16wKDfbGNYXvLRc6n-QJSWWMN2cKLPv3KBXJaS9vIi1S2pyQzf6XknOevHazS39jhqzMjEz-nLzGIqxIArc584UFWPnC6NPeVza-6fZ6xa1eVfOr7lR-v5s02XjX0zcHkTWUqRGT1DStm9AnTgli4ldnR6SQ8BjbqF7VWOZ-HYGiL90MuBwcGdLuBRgM7KW6vQSyTHh1-DdGUvWNHDBd0Rm_adTGoO5VXaZR1_bJVc_husS2ErD-as_kT-SkA3iJ81G17THp7QaMt0z6pDp3BO80pwpGS-HwmNYyQEsV_mNEalKtH7-REGuqfw8lZcdiEk1RlUI8rACvSUcdP5kSZlT0cU4ywgyPjYtg2_w1tAti-NliJmX93wEhjiORtjZkevkt62scFnQHy2oHbgOa3NXMB0QxrbYOfZFCW1vY8VgfFQw_biSQMBQ0JPOZGpKI95ZDSzMGrGNq_t-SE8zjhF-yUQkKw8waN-gwSpVdk6_WGngSw1xXzS55OGeQ=",
+      "total_stay_price": 13616.21,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6582cd89",
+      "name": "Ginger Gangtok",
+      "city": "Gangtok",
+      "address": "Indira Bypass Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3hGmDnxVHPNSJAmqk4ukd7UaoHeelhUPM9oesE_Rg-sNCg_p4Cb7BiNOAk90OecgxsLz1Wle-vyL31tzszpS57SH8qlQ9u9ghpi98pVzmaJclBCz6rSabyYxblLKg6nPm4ZOKCbxtHUMs73IeUG8s4DcYOsfUUcIpIdFXcT7Aam18QR_RUTBuNQe8c_-EXE2I_lskCRd1jIjB5e2eksjU-6pv7z47M2OU2ACXjWZaI6CLTJvK6XOixzGDp3WVCQPHvC7ulnVZ7YES1rKreDsdV26L6vf64ktP5k6dxu9ivFVrGJmWrUzta5a6wmq0N3hpC_04EyOYkhxqsR4niFiugAMyNTvaZpJsSyKUYsS9F_ySGF4RQxRPfN8Aa_zCTONqaQtMBXsOt2i4w1yhon4EGpk3LYMkWBH1ksRSQtkOSlm6Ub-YBSoQRANmlFvjMYQ82Mjg39ciHGHOIJQmDYb7uv5EzL8SW3qUXZlV_Z6xYt13PlrYds6kzWb1BpEOp1v350Ft2V9f15ufN1m5ZTs-ZkYh_NqKG7pbGzo0Rx5zpi5hvzEIng3sAzye79FgXaLGgSc1ZTVvlq0ia37KCmYrILPOWi2ZgTMsBdGhKKLgErNUacWaIYIzhBt49e7ScSPt2TE-ng8AX38vjihb3g2XD-Ap_vgC-AIfR7ftFLlj6kUvkgSdEy3rtZWa_tguOIDVASlgs1xuocSsAd91ptC-kHWDhhIXkBQ1LMxDPvoQxvUX9Ai3SAdbZxnOPpUI7-z_H2wCqw3EJ4yHdJ6Euf5XVr2yCAAcbhl36WPqRUYXPI-FRZfUw0AosLL-3ovvMRWrOy9FVyQnv2R5IlhZQWsEDoJpiMc0BsP9zoXrLHdfjM2841HcOjKCyWbJsnHOLCyRTjvXYyCIjnxpV2IIe3NsqHVwRi8DaBhcb1wDhK1bpvMKva7i_IxBzGniN7VZcdVeyaffJAgtv3gnW_VsLOjX7wMuypAPLs1gypOjnPdjOowNy49Rb182sO7eZeMFxiQVEc9moGUm1_ki4rCXrvnt5BDnvprwyXsC43WujsxBxoAIxd-TwWAG296OXZbm1JDT6FxdJ4cax56VLdkVsboS6Fy5-mY9XKoDQbohYLK4UgjfqwZDUL1ryqG61giUtFh7g_PR9C2Dx5n472fOmaPlF079x4TV_8E90xVXSpICxeM9U6qDQeNx2GkDNIpIE7XhZh3bv8t8_acIurLoblI_sM=",
+      "total_stay_price": 16581.47,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Luxe Twin",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-10-28 10:00:00",
+                "amount": 2763.58,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-10-29 10:00:00",
+                "amount": 16581.47,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp84362",
+      "name": "Summit Ttakshang Residency Hotel & Spa 2 Mins Walk to MG Marg",
+      "city": "Gangtok",
+      "address": "Kazi Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3hGmMem0M5el_zfnFlroRQlN3M991Puwi7iQ3vGSaug2I9SrCsUDEZB6GFPOPeUpleW66wvpa98VpR9FoEShgAVABPcjek_1R70yqW5kq6oQXaGrXmuMM_76spzkp-morYw1UQmGc9itJPBgyF1JgSUBF9InDucwcMANwfC4FjOulA8j1iLMmfSE5GYC0Q5nASuTKc4beG_ek07siIbL0kAbW3BBfRxcQ70qV4QAiGhUQawLnrHVq3kEDKsPE1u83Q2-LwKkFduFmY5M8q1WautO-6QCYEYlhb4rmFoxGQ2SLx4ncjUYzyj5zm0OgufV5CVHVB1pJpuPaWTCPwSTn4ZmW5MbdvUGU6EqS-wJmlfaYXSJ6E2dCNFIvBsBWw-0TN96izc-txFcwzpxROCwRPAo8tSXdCnBSWwRH1vKFtJCzveerJxe_LxYz-T_Opfs4W0PmuXlO0ic7G_uAOwYSykaz7bZEtAuZKNHLU_o5d4AecMwYVWgfJ2H8zuKTG4QqnTUsM3aJycF9h0whnGus6XyMFnQ-xhLABIak-o3QGcaML5lCeL1S6WQ6cy-JbpyIuVDQTSiIIGXNUHDlUD6BDqkAHYEoC_bxw8JNHKS6oaZffHTcZCADK4bdte5XdQZT8UviHjXuFsSZ9UR-EFjezpRnZ0IF6iAyORt-ZQvsaFw-ll2d5WrfhxX-hopnU_wPtKRNCXuj-C_P3H108ZLK4FK9Er5s7VBegsaXxf77F60ZVZ1Y3fYTW-cIgKttttBXEtAXYtilhRkQugTY1pS5tKv4atO3mTXrtab0k7koER1WKkz8EeWx9MuhudxRwRA5LWR9xGFz5n7-0FJWgZmbB8mdsJDLS2TjilVaUal0eoFzy8VwV-4BfPv3WsBmSJzeQMJGoQvrrzjszRnz5Xr2q197KN4Ul2tu8ScXjanVCPnNDiHI3zed-n_EOF15gsIU0M-N0cN8pfn_PUYL70bi381bixgYmZYMp72-47kCdu1ACq_qGWFZG6CRbJpPXWdx0Z_3Q4V0pkP6rOEH-0_iaHZ0jpaNB44W8RNCqO59Hk93oj4lq_jxUF8GxHkyeUPatyoTKr0ROl7K9ey1BwSaKEk_2sOeaKRoJDAP_0SLGtrLjHbYQ==",
+      "total_stay_price": 19025.93,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Premium Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-10-26 00:00:00",
+                "amount": 19025.93,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655716ac",
+      "name": "Ramada by Wyndham Gangtok Hotel & Casino Golden",
+      "city": "Gangtok",
+      "address": "Golden Play Pvt Ltd Pani House Deorali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3hGmaDsfBqXZTneJBQbzzfJBRgE6O00UiF8xh_Io0resDBGo5LpK-dNs3jEFCxqBboZISYf4z3g7TZTKOIXYSN0RoDdzPgIgsG8Ri9AuZn-Eh2q2agpXYiTiFH858zzzLY7VUUeed8kV09P03PTFheI4NJk5ZjDrJC6n9vaLGVwJ2KXhWNtDLsxwrYvq78_RbL70GixnvlZ8jjb3Io4xAnGnMLb67gQboNOmrEunxzaE0TbdRglhzAq307g3uEOxcAn_SXGWgBiyVlj50sDAPbT2eEaCvoArf5xNnWY-0fNxiJ5kjbO2_WU35lZJYv2YZgj7djDZZqY09BEy5jGzZKEtKUZVsNMGslOcf68qClFinCjCNzUlzIamGJI3OYmMjJKzAqHlccLHe-uTrRwPh3u-sab2krR3K_RKqaDUWmuQM37WyeFXsffVkgHPxLnrW_GZqv6fu-aDOz14_we_2Nt9-g6XP00yMDUOR-RTCEKcwsSTWtL58slE_8w7R-sAphHNdIIG7BCTjB2MbpLcflmn87T3fBSc_9jpCLc15I0Oeg9B1A-HBNNAoC8rxXVlb__j0-14XdsWX3Sny0GCuOgpiZaFaxn9vKayrKclKKtM_rR83S_2kIC9wnh2erpQnxWQCjlA-H5LrDoy8VmM1R4TJt8ZIr1qVNdYJ783Tn4hjH1bbrLpy5b3u-rgiIECyO6lrKH1UnQxTqciOMiI_-yA0SXpwjzcQ9gFjmE4gtswPsVG_y50H8ZIoODePQeC25FyUzD_4iDWhZFYRFOoSjrqSwUbQI6CINQpsHw3H-Qv3OP_Mdsi5zELZpLTiL2MOTrDgG8s7d3bTylUMUmyXVpamfkQSuN-Esud-y6F9z-Uvsdi5DNEuqGwA9NzkfAwdXeOe-3rFOfRPPar2xPaE3AhPI62fCcx6jYcUCqipmb0-n3Jypcp2qJi6DXInd2f5zCM0CSM_D1TTYFVinV68d7Ex9LUzsBWAnW3g9vSCA3AdTChAYGUVC9bUN3xuYI0pdBOsmljcvB_-u3eevolWLZTGtAXsl1TAZ_Vy18btvF6kSl4j7qKpR1XfDh8xKZAuFWunVn3xF_4Se-i1Bz6TlA1lP-9mbwXe-3g8W1RsYT8M1iIH9id7iq1BxOj6_0yD7GkoJeTRqTvNPgmVio=",
+      "total_stay_price": 48989.23,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe King Room, No View",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    }
+  ],
+  "search_diagnostics": {
+    "provider_hotels_returned": 6,
+    "room_rates_returned": 6,
+    "offers_missing_id": 0,
+    "offers_missing_price": 0,
+    "offers_currency_mismatch": 0,
+    "usable_offers": 6
+  }
+}

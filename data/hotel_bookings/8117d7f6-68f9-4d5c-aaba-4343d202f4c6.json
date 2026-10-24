@@ -1,0 +1,23 @@
+{
+  "booking_id": "8117d7f6-68f9-4d5c-aaba-4343d202f4c6",
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "provider": "LiteAPI Hotels",
+  "hotel_name": "!!! Hotel Hilltop at Mall Road Manali !!! With Open Terrace !! Family Hotel !!",
+  "prebook_id": "OpO_TlovY",
+  "provider_booking_id": "5AVfHRpSj",
+  "client_reference": "WF-SBX-8f9dd4d025d9077b344935a4",
+  "status": "CONFIRMED_SANDBOX",
+  "is_sandbox": true,
+  "payment_method": "ACC_CREDIT_CARD",
+  "hotel_confirmation_code": "test",
+  "submitted_at": "2026-10-24T05:35:22.310693+00:00",
+  "remote_verification": {
+    "booking_status": "CONFIRMED",
+    "sandbox": 1,
+    "checked_at": "2026-10-24T05:35:22.310693+00:00",
+    "checkin": "2026-12-10",
+    "checkout": "2026-12-15",
+    "selling_price": "4331.47",
+    "currency": "INR"
+  }
+}

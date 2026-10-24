@@ -1,0 +1,94 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "hotel_name": "!!! Hotel Hilltop at Mall Road Manali !!! With Open Terrace !! Family Hotel !!",
+  "hotel_id": "lp657644f9",
+  "offer_id": "AwJ2MQAAAABq3ZHjS7ZDVN-QUM9Gx5wjicslaYYuwqIM6DNy2fLjDkC5uCcCNv1YIM84Jh-zF3ZAdHLwXz38VGgB9FFDGaQ2LO8PlCBYuGawLYUqX9uE0bcyYzz1S0Ma6KkWQHAbb0gOyFogh3CmStJfR7_gLrK2Qg6zxpF4gwJ6wbhkTq5bVwBQmmhvlqvRIefe-4elySrLd89PeTmioWvaF00jjwoX7wa46xM_oZjcqndgKvxkrg-PUcv7KIAJM1Z-IcbAFxPqU9zTNsdVZlQMCbN6fwWP8yAxue6u56nqzfgdX2MFRGveFwC8ANe5yMNRaqTaXyrQz7FQ3KnqQyR9UAKadSQMRsDJTBGU-V02lxkmCQXfsxIbpeXiYK1IjHyEOhApIoycBhcaD9mLOhZDyDSg3aiT_A3onwTaQetZmuBM78odjO2AU9Qf6mWXxPGT2goMsizePYuCrOfVHXH142MB-mAduv1V3RqPn9y0lYE1IdufR-v26vWKeOa_-zaPerouTnG7g3QqtkokPV6TRqk0DKJ7b1gl3Hg9S3vV-NvGgxuyi8tttdaTpjwLgKTECK_LEeNwf07UtJeA2H13xDUFHeItM7Dl1e4pXCojOzc1-XX45RpqEqf3MOg6rY7Xoi_MgNdRQpFoH-PqiniCc7broqpMsr2eKAXbwtHNkQjut-PXDRHJvZ1zMAwo-Fzryid7UOt-lMLq8m6zE5gIVpC4U7I0DKYi-KExS1lqnAzniqcfs4JgaruBKcDp2u0UtYh-oFRw6Qrv_bzeJn30D2TD7zBW4iL-Gk4A7ryxlJjGvpgR3hFphfqVNqqu7-r-Zqy8VwiTq3OpiwuczKgzWk4CoWGNo3OOGpPT0HlwXRwPmFCQ4QhR9lLGpA1ng46e1Kry6H-YfCEhJH8dxyCKQ4vEaT6sqjzet9Hv0sbzEuFb_rFfvebGlKZxJtHda4DuiXnJZlQ1Twkk6znEcd3nYGd_Cc7ayMlugluVlIFCZzCRmFyYdJHC_c2feMJ0kVkvZSxyuX5QUCoC-JmTbeU0nh8kZRyWYpzKiNhtN8oIZDioKeR3JiQG1WcatmmD9WcVCCXD_MM6S8igFVW5knD7uE2UUWRpJnA-IH1GYqvOobfJSZLuxxcShi5ZTAnVJ9aHmsMo0KpvJdMwlDfG2UsZylmYH8XcXGTQTnGzTt6Wlw4lc6ouwQrBxFp5qQvpaeE9dm2S_ykDh-ZcyIfm_Y38otiqiPcZ9gte0Yli",
+  "searched_total": 4331.47,
+  "searched_currency": "INR",
+  "prebook_id": "OpO_TlovY",
+  "prebooked_at": "2026-10-24T05:30:54.681958+00:00",
+  "prebook_response": {
+    "prebookId": "OpO_TlovY",
+    "price": 4331.47,
+    "currency": "INR",
+    "roomTypes": [
+      {
+        "rates": [
+          {
+            "rateId": "I5MTERCNJZFFOTKNGNKEWTS2LFDVSMSUIVGUEWCHJEZUOTKOKRDUOWSTJBMU2SSEI5EVSRCFJZJFER2JLFKECN2CKNDUCWSEJVGUUU2HIUZFQWK2JRHUYNKLKZDTOQ2KJJNDMRKTKRJVGUCRLJCUGTKDIRIFCMSEJNGVEWSQKJKVMQK2GJLEUQRWIRBU4WS2I5ETIRCDJ5FFGSCFGNKFCTS2KVHFURSVI5MVURCHIUZVIQKNKJJUOUJUKRHU2USSIVGTGRCNJ5FE4R2FGNKECTKSKNDVCNCUJ5GVEUSQKJFEKTKUKQ2EOSKZIRCU4USSI5EVSRCRJVFFCR2BLFEFSTKMGRFUSWKUINHEUUKQKEZEIR2NLJJEOUJTKNDVKU2QIVHEURKNKRJEIR2JLFCEKTSSJZDUKWSDGJGUEWKFIFMVIQKPKJIUOQKSKF6DIMZTGEXDIN34GIYDENRNGEZC2MBZEAYTAORQGA5DAMD4KJHXYNJTGE4TOMJVPR6HYRDFNR2XQZJAKJXW63L4GAXDAMD4GAXDAMD4IRSWY5LYMUQFE33PNV6DALRQGB6DALRQGA",
+            "occupancyNumber": 1,
+            "name": "Deluxe Room",
+            "maxOccupancy": 2,
+            "adultCount": 2,
+            "childCount": 0,
+            "childrenAges": [],
+            "boardType": "RO",
+            "boardName": "Room Only",
+            "remarks": "<br/><br/><br/>",
+            "priceType": "commission",
+            "commission": [
+              {
+                "amount": 0,
+                "currency": "INR"
+              }
+            ],
+            "retailRate": {
+              "total": [
+                {
+                  "amount": 4331.47,
+                  "currency": "INR"
+                }
+              ],
+              "suggestedSellingPrice": [
+                {
+                  "amount": 4981.19,
+                  "currency": "INR",
+                  "source": ""
+                }
+              ],
+              "initialPrice": null,
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Graduated tax (Pay to property)",
+                  "amount": 281.45,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-12-08 10:00:00",
+                  "amount": 866.29,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                },
+                {
+                  "cancelTime": "2026-12-09 10:00:00",
+                  "amount": 866.29,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "mappedRoomId": 5319715,
+            "paymentTypes": [
+              "NUITEE_PAY"
+            ],
+            "providerCommission": {
+              "amount": 0,
+              "currency": ""
+            },
+            "perks": [],
+            "promotions": null
+          }
+        ]
+      }
+    ]
+  }
+}

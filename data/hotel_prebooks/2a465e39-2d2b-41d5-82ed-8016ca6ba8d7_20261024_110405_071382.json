@@ -1,0 +1,87 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "hotel_name": "Orchards House - The Hidden Tribe",
+  "hotel_id": "lp6567e319",
+  "offer_id": "AwJ2MQAAAABq3ZHjKYwArS1ZC9UWPt98KTb94QnVrzQyzCdiikcBR5MU6A4cE_WxOJKbCaqOXYvInIWJzLqcmjiSA6oaKuqrm_8iH4yGvE5Cr49BoqmrFIY7gkiF2ETHeqxYHfqhTgn5dKaNYiUaFAN4xLvf6tjNMH0M0e64-ZwPIJR6Wvd6sKEfMAWwHkxAN-28RGb175iO_T0xQ36or4ydoR5o-DYjiCUHD21ulU4KDDmimzHK2gRX25QK6hIhDjbO6j0YyDE3wAM3MKwQ4YN0k5vCQUv5UKtPXgY8WA-hxtF5AfM2G0Xw72j_BBSHdmnWL7-D3eH5k6oawrnhW9TKZtqCuhjewAhs1mWCvvhWUdDeju_Sc9wWfhUuk1GKjTVUCgJ67UBRPNwHGNdH41j7UFzBVQccR8Z7Yl11mKdYnXxWJtsSCCONOfEXMNTp2VPLDtkbU60dW5kGSVUPItzCQFR6Kit2wq8HUNvkQt3mcgC7SMvahA-TUBrzKKPJ_wxhtA44hU5cMDrkG0jnBW7C3Oxib-9JQXLFACVk93rgB4fRNTaQbebVATo0Z8QwEoXLNTFmKWjSeVcLUzSv_NZxuXhzyywtEwOnvDE9begsU-fFNC5p6R5tQ3XocOvpM8W5byyQrkitPDY7wbRa8DuKJZbGTXMatNDicj1XfRmHdqSmU6POYOO1j48m-TIL1WH34LI9tVwmfl3iBOgqHsAwY9OyeBGdPpryT_Uqrad02eUwl3eIQCS0oMizpBOwv0LQiR9dpwww6WDmOke4hoE7nfzndJgHMB_UJ9-yp53XN9rP385kJduvCPH8znjbl2fhYnW7U5KzSQsy02ctdeIr-L6_PV92R21Y6JU5y3ZieSOvBcGB0ot7N-CzNtKhaNNq1FIX_6D7EOsHvV4S6d2dxGHq7YEGqgfB3B1vrrJhr3p4zQi7U8y381IR5jzH-zUrJmHVlLw38NUK5vmmHFRnoqCIKUbfNW-4FYO1-5PpViEG5uQlqfKZTkASci1LdiyxVYeE_g1M1yGw2-pZ6OUWnRIA1_ObLWQWtNQrfUm5lD7VeHONjYT1n168w7HczkwHZMxj7oNqfIvVh5ArvOa-r9OiSYDjFdS29Tep857AcJU8btuGxgPBDKEdBmLlgDN93N7x6kLL7TCbxKDBkUtLni1Qpb2TcXhseS-Au5yNf4sAAuTPbXafjoiS6zhFVNkfIW8sl0G7HCLl36l5_YEwvdA8RktI4-ltqSWzJh4hp7q8Ln7xfAE=",
+  "searched_total": 7121.2,
+  "searched_currency": "INR",
+  "prebook_id": "NbXZXqP7z",
+  "prebooked_at": "2026-10-24T05:34:05.071382+00:00",
+  "prebook_response": {
+    "prebookId": "NbXZXqP7z",
+    "price": 7121.2,
+    "currency": "INR",
+    "roomTypes": [
+      {
+        "rates": [
+          {
+            "rateId": "I5MVURCPJZFFOR2RGNCE6TSSKZDTIMSEIVGUEV2HKEZUOTKOLJLEOWK2IRGVSWSXI5KVURCBJZKEORZULJCEKTKCLBDVCM2UJ5HFEWSHLJJVIRKNIJMEOSJTI5GU4VCHI5NFGSCZJVFEIR2JLFCEKTSSKJDUSWKUIE3UEU2HIFNEITKNJJJUORJSLBMVUTCPJQ2UWVSHG5BUUSS2GZCVGVCTKNIFCWSFINGUGRCQKEZEIS2NKJNFAUSVKZAVUMSWJJBDMRCDJZNFUR2JGRCEGT2KKNEEKM2UKFHFUVKOLJDFKR2ZLJCEORJTKRAU2SSUI5ATGVCDJZJFERKNLFKEOTSCKZDFKWKUJ5GUEUSHJVMUIT2NJJLUORRWIZCVEU2PKBIVURCBJVJFOR2FLJCECTSSKFDVCWSEKM3UEU2QKJFEIQ2NJJLEOQRWIRHU2SSTI5CVURCBJEZFGSRUKJLEKUSTJ5CU2WSEIFGVEV2GKVMVIRKMJJIUOWKRIRAU4QRSI5ETIU2HPQ3TCMRRFYZDA7BSGAZDMLJRGIWTANRAGA2DUMRZHIYDA7CSJ56DIMZVGQ3TGOL4PR6EE5LEM5SXIICEN52WE3DFEBXXEICUO5UW4ICSN5XW27BQFYYDA7BQFYYDA7CCOVSGOZLUEBCG65LCNRSSA33SEBKHO2LOEBJG633NPQYC4MBQPQYC4MBQ",
+            "occupancyNumber": 1,
+            "name": "Budget Double or Twin Room",
+            "maxOccupancy": 2,
+            "adultCount": 2,
+            "childCount": 0,
+            "childrenAges": [],
+            "boardType": "RO",
+            "boardName": "Room Only",
+            "remarks": "",
+            "priceType": "commission",
+            "commission": [
+              {
+                "amount": 0,
+                "currency": "INR"
+              }
+            ],
+            "retailRate": {
+              "total": [
+                {
+                  "amount": 7121.2,
+                  "currency": "INR"
+                }
+              ],
+              "suggestedSellingPrice": [
+                {
+                  "amount": 8189.38,
+                  "currency": "INR",
+                  "source": ""
+                }
+              ],
+              "initialPrice": null,
+              "taxesAndFees": [
+                {
+                  "included": true,
+                  "description": "Goods & services tax",
+                  "amount": 338.93,
+                  "currency": "INR"
+                }
+              ]
+            },
+            "cancellationPolicies": {
+              "cancelPolicyInfos": [
+                {
+                  "cancelTime": "2026-12-06 04:29:00",
+                  "amount": 7121.2,
+                  "currency": "INR",
+                  "type": "amount",
+                  "timezone": "GMT"
+                }
+              ],
+              "hotelRemarks": [],
+              "refundableTag": "RFN"
+            },
+            "mappedRoomId": 4354739,
+            "paymentTypes": [
+              "NUITEE_PAY"
+            ],
+            "providerCommission": {
+              "amount": 0,
+              "currency": ""
+            },
+            "perks": [],
+            "promotions": null
+          }
+        ]
+      }
+    ]
+  }
+}

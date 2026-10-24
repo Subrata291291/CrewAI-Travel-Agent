@@ -1,0 +1,27 @@
+{
+  "trip_id": "653a3779-a807-486c-9cc8-ebb4af1e75de",
+  "destination": "sikim",
+  "checkin": "2026-10-26",
+  "checkout": "2026-10-30",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 1,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 1500.0,
+  "total_stay_budget": 6000.0,
+  "nights": 4,
+  "searched_at": "2026-10-24T19:38:29.316747+05:30",
+  "offers": [],
+  "search_diagnostics": {
+    "provider_hotels_returned": 0,
+    "room_rates_returned": 0,
+    "offers_missing_id": 0,
+    "offers_missing_price": 0,
+    "offers_currency_mismatch": 0,
+    "usable_offers": 0
+  }
+}

@@ -1,0 +1,9 @@
+openai 
+google-genai 
+python-dotenv
+pytest
+crewai
+requests
+airportsdata==20260905
+fastapi
+uvicorn[standard]

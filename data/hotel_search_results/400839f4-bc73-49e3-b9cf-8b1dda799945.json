@@ -1,0 +1,1323 @@
+{
+  "trip_id": "400839f4-bc73-49e3-b9cf-8b1dda799945",
+  "destination": "Manali",
+  "checkin": "2026-12-10",
+  "checkout": "2026-12-15",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 2,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 30000.0,
+  "total_stay_budget": 150000.0,
+  "nights": 5,
+  "searched_at": "2026-10-24T15:43:40.515617+05:30",
+  "offers": [
+    {
+      "hotel_id": "lp657644f9",
+      "name": "!!! Hotel Hilltop at Mall Road Manali !!! With Open Terrace !! Family Hotel !!",
+      "city": "Manāli",
+      "address": "Drilbu Hotel Near Mall Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU07UWSWu2OxBdBOPFqCuzrzEoblBQMZnQtFvA_kz8BOUHOgDSH2OSxGPpvcInVMMOF2CU_r8o0fTUtsPQqeQsMW83NRxLcbUcZxn3aEyOaF1_d2KMwQ4ICcFu_NPY2hJn2kunX942Shyill6OMIZ3ZJDPQWxGvA8bn0ntKBmaPZqe1p_w1iS6MnikDzUoVmzU9sJrTc4gX9zGrb87Jmcfsc60JWkmclcNIiejTCmdFF-2WUXaEhUoGERMEz_pk4cqjStxjnmZBDlQBI2I-vWjSkP0SnpUL92A54emMMGDkb6X9dUuKBwJ4dchRY7YR3QstAQaTdpxYhaUOE3BgqzDQ2HcMubFWkSVySKrCRMeVjebp-Qr4F-umK7vAGOdsxl-u2ZlnvWgsFg5htaVGeXicx35t0r9T0ch_fLzpIlYqKJ470VzvdzQSjUI6iclM4ZoeE1j0bsqcGo7FsTotvlAaToJue6QZbyrTw2DSMIQZewnC20rT0uSflh4ufjnSUsZEKJIpOkUDamUlodXVD5Fe8h-QQ2EDiBtdpEzVP2G0e_Lu20hT-SrSOQpJPcgfXZQJbqhfV2_2eNdtmtm8BTpzKBAQe16xhN1ktFjkLCraRuvq8D6CXJrsNa5jmgy9kFLU66Yh--WLL0xfPkhPhlS25ol1JojP1-kmJuX_AK1VC4zsIo0HNN7yeUTK187GCqz8nD0tlncylSt3RS8oYrfhnujhHkpAqH0cffAWPfUHdtmpXMHoZYPOjEN6D6d4fMjlTH51QoUSupsBv9tHW3cMDuXCNjcC-ujj5bTdmPx9nleuVpX7_gtFejsUYIBrWMfZrVptTcATHxZQMGYEkHExTQi7whzxloXV0Dxy1n-GNwZPosSO7dyaYfegAcNRNSyUGJYjDQ5erG04_jZaY8vQstO0LTg2CYOhMtu8jj8LwuoBMgJ3R0YTuT4FX4104uF6UpERKiGW4GWhA6j4GoRNyRfHHEg-cR6p-NwIvgL0ygKFLqWt7GeQIelwPnyhs0lcWx8dF2tJ4a4sAwFmr8J8YeVW-hDGVKevtsTZ_pf3rf8Vtg_yteOZWx6gfbyaQEePMxRIDxslmTe_O9WkgPauqfZuaYFe3wfvFWNrbgacnX4MsUBA7GcReGlCmPqG3LHrbeDwY2VzaUf13JGlFYzf-_TQ3v-dcCFwkA8G-RJzwPIu0dOCCrvzP61YR_v_MgwEipf5NZsGDhFWnN9_-d6o0hm",
+      "total_stay_price": 4339.89,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 867.98,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 867.98,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655b9274",
+      "name": "Tripli Hotels Stone House Cottage",
+      "city": "Manāli",
+      "address": "V.P.O. Prini , Near Prini bus stop Tehsil Manali , District Kullu  , Himachal Pradesh.",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUiXvZ9TQ66cXErZQG3e6_VFe5HIfsVIGi2r8pQigtrT-WiNof_xtLKHpq3DIWn5OmI8n7H3T3LR0NpekPyBPxRWAdIR7NXNNJGFxQ5A1siAlqGYyPF-f7ajeZzsPQ-dZ6XAw5QZHiZXfVqw3zrd4rViEhIP33v4zLP2CgCtl7zgq4PFlsszKWOSP70Ch8kaKfy53JX8yU-2N2PyMWnCjWFmejbAKW7n082W_QOjwQRC8sst8qW5dDFV_Ckh28JKhjiwTrP9HLcMsG5kV5KNwzJMl2wxWi1UfEC2YhwxAOUkKKW8w4phrDYLk8ZOvIhuv7LqBjr1O-OUihsTPY1sySZ7USK9rd17vYJnT_XDxc3FXrcX4vsRXepIEgnORNn4_eTDMvQDwuqpXIGREc5e4XSMZ7mPHFM3kmHeIkQ8mhD2xkSx9ZG86q9boCcElmMiDIf0KRASMrYYKfE94wjO3zo96X_OTCfhwAxStTrkHVUT5viDn1HOhmwOc6E4wmfBSWUROPy_BH_L1APdQ3HJuWEBOKUzTAHbLkgzR_qkobcEWD2xsEsCOqzixEbilUd9SAZNsj3sy_A0NNl3QZ_8GYrgT6zxCCyjJ69NE0LpNQ_6-VHu-gvDE3FBwAAYucY8tSCMl6BCU8PILWVoa_ykfocKbWlSZnIQDPyhuPvz0OTdWoWTNSrAz2eUH6nstTM901Y8QAgv0Apd_nraEAoklZH-AoRXO6T0PNHixyB1DboRy2mHJ82VldmFA6wTKtXXQzs8xmhkxbxXoe6dfl3LY8hWlVY8rg5Rnh0vHDPaNKR7-1FKSOcQtipNOnw2E5LGc07AUtBEEfBWxpLfdY6TRsuDfrYnReosF3IvBLWuflf2xYATkXc8bhe0VIZf8IJjkzabz-2460toRAy2cXxqpO3NHCBUwAhfDMeLmIlxJCxWqKkbMEkkCRKvIY-UEwMK4tMMOVexX5Lyuhp1MLDy7jADZgfoChhFuRA6kEqE1kV89WATG4DGp64GUSOWqZbYvkbQrVotKIHhtDUOVQ09ACXfq9KI32WNE4rGBP6F1INRaMEjsERxltdG96GTTzN4LV3MRC5xRdrW2M57sK24z_zOFM2reTWBp-WX9ehqx3el6H3pkf9BXi4jl4NdM_eFgvzZ6BdWbTuYFAnXVQuHUnCkhoId9mgR5A3X_ZhDQkEUNNlTn5JYy1Wjtm2EfBYGEIHxr4qoBSTOzVNA-zJK-oNvqrkebj56o4N-Y4hNqz78JL0fGK0xYfEQNznqanjiG6iHVyQAMRRxbKx2b_yPM0Wg==",
+      "total_stay_price": 6014.37,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Suite Room without View",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 6014.37,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 6014.37,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655d3557",
+      "name": "La Vaca India Manali",
+      "city": "Manāli",
+      "address": "Vill Vashi, Manali Vashisht (Near Hot Spring)",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUprbYm6dexFvVpToqnC8d6pr0J-Hw-TKopBmXZsn7QmgpUeP4BDSE7sxE1nzG0wZvTW9I6rCqRMN2ymzWripep9BtRMpb-hKc0va1OGX7nz1evcajpZj34WMeyynVyWMdxHxP5oVEVMc7dX1cagQ03CR6gUFyyJ5k-wif5MfUn_Z1cRbPUOsTZPpxx3cZoD0raa6aewXNb_BtmNayJCitf9pBoIMrSTApaXf-Ufv60BuG3MzDs35O2xSetvNaI6TFJlacoJXkAsMSiLDGlunDKdK4t9mlKP1GBwaHBjyRNk33eXq228058S2uivoHQ3WwBGZJqgJ6_av5cB9zGl-rPL8VlPB_3lvyO3JjUircEPbq0qhOG9b9Jg_vSkMEcZYRQ9DdTq8b2jV5wgysqaOknqV-1vX2Ss9_khlckpckte0NF4Et7XF21NO1gEHtwZ8E2L4hrgIfAA8A6o6h23NkW5dLp8UOXGJOS7JhLDzGqLUuOYBCvelKlKJ6YDs_8UoN9926ngwgeALKc1S8J8bgCH75FpKH2Q0lEa8zwjNiRaEMyhUdkSB2AVUhjvb7i--TgYXeaJKDYU5mTxhbPvHEJ2y5FotnBiMh6lv_dPeSUdfGbfKyJMT3ZOYP35sc4iJkxrk8oxWt5sx5yGrkkIEybB7EQ5cF0DjBTVpzLp0ZKSI00N6Wuw7FhykFCtjQfQZ0aA97XzVfsplSnEXvnoa3oMmgZhZADJ-dj4h8sQ_wana--3y9NyS7ukm40TCj91XjcXRZSgVhvhfiWObg6h1ZhTDLYqBUIWOn1Tmpr6ORCdVTYSE-KsXlMtqaIsImlyu1OIeaCjlVdQm1zzg5H3cj1fnej9V22ZSQgAR67TF-XFkg7PHDiCWONQR7V_HSwfgNi6_32-iV4HiMWdxlkNuaim6OoI1tBsjEa6XQ0VujT5UcOTWV-RoJOKkPywctsMxpA0NqSRjcSe3oH80sbEYF5A2D7X208p7xrXwPW_aEJV0ieEDVpRd6BdRuWucM6EXEIt9SBPq4MANb6YcKONMlRInoI4q66U5mUVs9yqwpBTh60DIHX0Bembgt4JjgKH2Mok2Bc5ZtaIdAU37-iH8r7NF92y89pS-otLuHLVULFEEXt-cxZSONDJc14inrjLbbm9ytAyNDkT1ZkmzHwktAMZ7Rtu1AICcDtRjZNHV7RFUBPD89s4OhpyMW12muJHIomaXMNoGGI8zaVRUJ0YFnpmSP5wWyL-T7WcW4n4M__eQ164oPPSOybLvCSfRDBEt0SzM6srRE8hJs__0G1rp7KoAY7Q6ep4QkwGRqqrUzcpqLuwZIfeszPq4zeL_mtW_7O1mA0pCjhJRSjU03ew==",
+      "total_stay_price": 6156.16,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 6156.16,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-10 10:00:00",
+                "amount": 6156.16,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6567e319",
+      "name": "Orchards House - The Hidden Tribe",
+      "city": "Manāli",
+      "address": "Old Manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUwwFdC7roOar2B0roz_0lTfvO75eYzqvXwCAK7B_320WWdUMls9CuzaaZMAcnh-2wb5kiYcan8V5iFAvy49tgLr9A-xTSVroRPJl0LvDsg1f_ots5ODsyiS8TNMbyFvkkWk31F0wyZNwkTPhhqMkv8nUzTOrrLUwPQYfziv8YUh8RNqaIZPvF8E1YY8gG5ZxwLeeFlh6tLxgXYj2ddnC2zuBcp1kNK_adQuroWJy0dgsK5S-GoipOoUoUg2l24dE6eRkWEj36Fn58K3QFIBynDO0tRevf3bf6Awl34T_soyIG5LwbUMPfXXxizl-TN9D9YoRFq8H7MFMXeZgKy-vXJm7rJFGnbpE3lWAgXk9gERTOTTwKxyZ7QGSku8OIy4IlqTgdubknZKMzyZL68oDxIpjNVAZ5SLHzw58DWVc6KXGHUJNU8LWjiFF-pufJUSkr7D3YB5jCZstCc3WufTVKOEq_UsSkf84wkFfHETmR2kqCex2QO_knBEjW_RfqdunwmycjiW91R5bvZQpxA9erVx1tiTVbqIJ3qsd_CsrfYH2pIAX-4HfFSGrKzkeikEuNyyxkUxeZS38vVtOny7XN9J74_l6n9lN4J7yGivtNUODHnf4WS1Y67f1FtRWhy8K9QHL7zLg1hJ6KoCc02zSgAe1ALOtJxfkTOmdA9OqD2ksARyxBU-6vjz98bo9vk6drc_V2KOqevLVt9FGYmzaN_7Ze3EYJt-oRDRoxhSb-Mnmj12ufwspVarF1byRwyj90gRawCHl5IWUSwy7TKKA28x70haJdo-KF-TVT2r-SVor-LafdmLPS8KZumabR7JNbABwYXvftCSIH3p1c_nnxFyKzHePct0lAXPqyW1TIbBS0HGuFRMgXkp1ENzKfv6cfyiRCK0eekqall3TsioPNZHG1hBv1eK3RRAJqx1aTEmeBsthHcNnHFYn-dH21cPRB7bgFC-Hco-vKD1XK2yafcl5p61CYolgREcRpf-YRQG9YSDiIptr0IOCS26j2Riku-LC5qJKqI3bG26AFrB8EzMteBjc0NOJwP3Ao8R8g4fdM6YTYO0AaWZju1W4pZaTR57J5X2xKcVGXohWhUv8gQprqrVUptPOzzZOl9SLYDGFzKtrEwlWx33vcNuQcxZt3bcGPecW0iTJ8Qj-7AMCyB7su7XWDJt4edWFOJihI7-OjDoBfUxeLVbLLgIF5pE0xhZ1cw6BNGeiorNbLTOK283ix8kXxAfyKMzkvfD8=",
+      "total_stay_price": 7135.05,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Budget Double or Twin Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 7135.05,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65754cfe",
+      "name": "Aadesh villa B&B",
+      "city": "Manāli",
+      "address": "Gompa Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUiQNNIXxgIZfpQhDUR2tHHwIpr1q17ThPzyZsx2es5YnrZqn51Hg68esoUSnm1F30_IziCA-MLhlgaeWmkjS2oZHe-gL69n_EiD7bykFzhMT3RMmAE-JugyKgcL4_4KbW-klZn8RlsQ3yXUBwxJZ2njWmM1nHwQIidl0mL3T_USqsXoKYlbkTQBpqTm45LsWRYPGm-eEMpq2gsCHHpM93ewOzkmDNuGXUbUVRxD0gYlhmnf9pvNll9qnqNgFvZ9mPhSG8HhIfIj6SorujDu96rqPS1pct4TNMrBjR9bRRwxuRjaYByC4FNDDcPfYQWqtDjCoifQEptgfnGHddF-c8HWZFfArGcyMoKqbQq9uOThidsE4ptfjWCT75-2SpY5ZX-DENZR_UsJhqf77mRKYjHfV_090qmFQnPQ4Vxs7dCkLtPqm5K19MABp8YEhPI0r6xIP4EXvfqZ4D_A2JKhj_it2Y7AcqWrH4ibOElLN38bhaASXICpjM0SYU-MsLnk_6bB-3HStYXxQSuM2od9L3zIyn-5B_yS6Ih43wwQYJPmT0vPQjbHPRCBiJzY0-Rp0QhH-aSSHMYP4OQU5_L-nKUOWGhnvq8URXysXs2fs1JIXuV_PR7mHctiHBT4jfeUr2D4BuwJNRxZbPPCNBkKc0wE_e4n_2KK-gqc86YqpWaQVDxxBUxEgVGU4BZ_1t2yAnOPXGERr6cQavbScgxAHvGrKOdVpdmjiZhkZ_P92ncGhkEqdIQjr3Mf3Nu2_s1RsmG8kGn7XIw3A4UK5LLWRsg4HFvZochU6x6ls1LrzhBG_Av5dBrE65YNE6IWyoC0-9erqBQVUDNcj5pAa3PMujQaI6SBFSFEsh1-2KyLRk3hNlpJR-qnVgHRwxWJ3mCG_WRlIqKPQr_EDr39Rj46JMOUc-xcrHXL-g-HsCAG7_df0RANL2OYmx0Fqf99YBwfetXFsFuGIqa4VwATuQqX5CAoUo600QSgCGJBwXjM741WDh0z0je4_VlcPrr46XxbU7BRF4jWyqlou_6wttIyubS9RIMnheA1s9egzkmNQktYdKfFA3kueLcwTO-s7eWtM_ghdYRjU2UculX4rfkLgNuzYJUor4svClulCa_eyFIq55oZReSqWdLt8H67APw5mvLXj1QX1O_UYCP2cUdNuAWBbnXQ1TAxPlxLiRpmCxaVnE5i7B_5GYofkN_yzxaPnCaJdZQqwQg3p6pIOz7u9bhFWzBg==",
+      "total_stay_price": 7458.0,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-04 04:29:00",
+                "amount": 7458,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp658193f5",
+      "name": "Baekar Stays",
+      "city": "Manāli",
+      "address": "Goshal Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUseuGi6rwgZDDgmcUJCo93sHh803dbNXA99dckkn53MpZV-KF9qjR6Ol_edi_3lFrGMwVNUOJVjN82hEoZi0OCYuw0g3tm6yR_THhuvjrmRx1igVt8KbFku0xXxCz3YJ3HokHfqZ4KItKZFam0WmeM9nwtHhxOR24BQIw0e433pXvUP08jX6kh-6dGIMUVc5nO1XQbliep5EfiI5fuOkkrAWoO4T1RHvR7hHuMV5VtPFB8zNufar3fUyAOphhNPp88htRotai2mPXHVgbzWu5h40G4-0Xh1WR07jc7PcQBsWkrsXqKRMXnSm_2a6q6aNpSOtVlG935z-GwZ39FefGex18eyP85uVvfUIkWtKczDlqxtSk6lWsVo589fhn98Is8Ga16mE407GzyLxJZqk8hIcQfRBqfzRjcYwnO59spnLCwWUq2SX6vZB4_PfOIcpSWOuJaDP4_1-HEt9SerlvOoxj8umYlC3KOlklw4RrqhKAWjSgqxTwclNBbd9dDdMrd4tAVB2GTX-K7xVbSTvoe8RGuPDaijJ8R4C0AdTOqgjZkKrhwtEKOfHj18HlGgihBWzAt0DfkxjXjj_rh7rrTQEoO6OqSYELh9fmZn_-TyA6QHhddsZw52FmJ1khyA5GcdTPEYAiYjaYMKMxJshsi9lPE86Bk5DyuB-CJgSCxMYPmkQ0cuOEhyyDeHx2iYHmarL5ojhEswF64QUDHQRmkHfn_VIECBCdGEn15asxWaT8gWyfceEtQpuUhIXZq1pwlGRMcpj0cKj2Ri4ZPwvEzjcO1my_hx82pnziFSBrhcHvNz5mzi-xSDKW8GI0fHYUAabicLArs3fWxKw5EMxSsWO92RiREWxCVxP_fM75Wo41HmZYSqb2RSk_HhGZLqC4uttvfsSwRavAuvpFNumu6wmeNg1uqQyhV3KDZiQdA_Sge05fbw01Ot9bHDzGRhwcCQU_TUmlWHJ1GKpj-pM2o4fWbkXvTCEcHCb73mRauj7-OR8RdRJJ5-3W2Q43LGt_QjjZf8vFGa0DbwsGzWNjwI2AfZZyP4ImqqEEMS3OJfeNlgeZt8SuWoZn7Pw_WEIInodzjDmyIC5Lreqz06Iu0zEgN5d0n8u5KJF2Yk00LF5-TdtNOqWtO11YM4iOPxG0e03iU0DIxxn6D7Hoig-gN1aWr5e8qWOW9_501kPUiI_WQJpvOb-RgYNUVLeJxwY-rWaiTXyXYvMnEBNW9wsaL9t9bBQ4fKeSShwA7XGeT8-6Q5AdCrLJbleUmlM=",
+      "total_stay_price": 8101.46,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe King Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 8101.46,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 8101.46,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6570d7cc",
+      "name": "Beholden Stay & Cafe-Mountain View Boutique Stay in Old Manali",
+      "city": "Manāli",
+      "address": "Hotel Relax by Beholden Stay and Cafe opposite government school , old Manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUrxDzg75srdoZraylJbxGBjS5R_tBtuHIzqkzqCWFzr6_xbxjfeSuuoR_aP0JiT6x01PAT2VkF5PlBsdsH8LEOZ-bRkedzCRjHp58my63-EH5ZrxIoPxStdSAnMLd8FaWK8GHFjlfoi1JPmt50Lb7RoC8xbOt9VPTHrGP38PitDXwBADrjkzzE1fUuX6I7JuJ1p_1YlnAcFnLhPrhkVNX4Jdg-2oZddwrbfqq3idS1D1-yIVeFuNdb6w0DTwjJP8RaCMM3NMpFItqieF8uUR8KKWzYVNlOQoalXnepLZf3uQO3PlnHQZo9O0jnLuHzUWzTdqxnhwUkdRM9byHE50MHVdvkA4CmjUas0-qcDR86mdnuoLwCqmJuoWtFVRJxDu1-Ujsypm8JkRVRiatUkk9HiLFdGJ-mF00FQ4xt-5j7RWz8UM_NO1P92YFcpjjrPbIcsMg2HN7BE80cBHY7_0v9J8ebj7ciM3HXAkKhpM6ou-uzhY-9yNo8LMZnztG8BVLwa7BJxbDPPKNRNRw7t-7JdkXrrnZPcTPtLdzHMsSwbN47sUrYYxExMM24s32NvbkBcbTEtKFDn9wP4JKyiawWwm6J80on1Ip6dk1z3_dIWTfsesuZJxvhaL14GkbE5jE83ZlV1lcLzLnaiwGaL3V6W5AVW6rnrford-kFnUqxOCETwNOawqS9UjGkknjOqG2lpH6b2IGaM3jTmhK7Vci-qGDc04qIYTC0Jjg8VQI-7zD_sQMUzBYDyY4FFgR_0Pzo2ZjrJVe1oKeHLdi5iuKlIGJXCAcrpPzB1u1eiNgL_GIqALdUnS26nYrjR1AVWMr27oO4InB9cd8fS0io0w64HV1DN8WJrlZ58iE4iwaHSaRXDnhEAlcLHRwqo4aNOGoQJixBHAeKhWOic_uH33EFykNGnWBqNpe_90d1hsFkuP7tL9PeAZFaYGy4apEfiyUi2G36PN6A3vFpXzjB0ZG_x95fV-LRkq-2S2gqSRay3RcS77JmZbtoyhCEedGkG2gW1lkD7PEvP2J_0VPWHqzLb2BuKYWH53gosPTFaQCrZIpeUwiBZk1pWgYTB-Z4yg7PIaUADR-BItve8wOkn5GQZESG4GWJ1F2P_BwipZnc9ORae6f7FbuHZWXVUH1U25SndDuiY9SJH4-Y46XwtY6lynNyg0E69Q3q7f72Mgd1EEI6JNSWh3B5Tkp4m8n8ZjdNWKstcObT0xihu_Egwqu5MRxSTh3wlM7ybHsiO_QQdHqhM4dz8A9EN8H8nEsq0H9pIoUz37kRQ_dk77Sux_1OJZhrhjEv74wnB2I_CxiZOq-Gm86LccqXpJaY7c=",
+      "total_stay_price": 8425.89,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Mountain View Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 10:00:00",
+                "amount": 8425.89,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 8425.89,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65723984",
+      "name": "Drifters Cafe, Bar & Inn by The Hidden Tribe",
+      "city": "Manāli",
+      "address": "Manu Temple Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUXzyIdDFlezRviRn2TsxWZLnaW2jts4yIZ4EU9FtBbRdUqk9SMdQFrRMzJXkoXFqGXbZrNLwAz9uvr9UokwgHKQU8fSq87wMWrBvT0l3afqOyczKOyM2C2yY6219WG6zvyTX0qJmgEtwfuAqy4SRVqvqPKeub63avXukjFSBUw_akLphJ6k6tZnYtl5vYSvzBvqhFR09MDI-ZBia2ol2Q16hL_ORPPFDstk_toVj8kGJ5BfJ-Efphog1zS8KaoCcHmBXmHKzeo6tHXON9HHPbHNjvC7jYGO4Ytkha5z44cVZdK-VUfO-CDIMdRMJvjYStvddj2IQJsbk413HwEf_Vk1ZHtAL5CW8y_jOTbEnvZq38jRTzQDSigHGM3Ykj_YyvDA36jbBRVeO02aWWOogYeOprHRgbgdaJ4slhmNqeuser6J6TglNgrT4e3TRoAJEfsJIu9XIyEd6NQgOYqLra_FXA9pSYGQIXqpJYqoTnCDRJLpelAR9u9wXom9UYeh4Rww8aHsilUlw9GViITBR8-ZQG0-LmGd6xr_gwjKVeJwfkDRWISiv90zejdd3AqbF_5djT4UG1W8UAR8fySh2q8vAUatTsIrJs3q4CURNd-Eo0yCYm5FieMI-YKXJ5cDHB3ZWnlJXiOIct-LfBt1mf1DtYvIOX4TVmm8O5hcZDxl8DQDLrTe7gIvuL9esXXNBWMzeEYhi-UtpNa85dVxVyIdi8s3_gkWZbRkqJ4dDoME85D0LIfi8nckvauVIV1VqSe1h6IQ2bkeKZ468ZAZ1mCKSkSkn42E8DFRNJe74QnG-WJb1X0-sgHtV9lD4ClZFy-CjnSRZ6wjqylCG0mwAfS_tBC1VVH9i4UXRxIqUP8-Y7Se-miFu41UgEQSpggZiBPEY4wiSJ06WSflxWLeeb9oW7osUSxiKYjAZ7x2CyzRwxuiflzj8_Upho5KmoCqp5OIO3pbimnZmHJO0KVjcdkLdbLJwy8kg5Z_cAxNSyNQ3ufNBdETwH0bjhUET7LV22Pm5x7qPRyc2GJSXMC4AwXZ4XYyECXjdtDdEE6xRQRI8hEefn5sDgwsbAvIxn9br52rZs-ArLHdLgL1xHDidM9jtRrKp1GBEkMlZUzoNHccc6l1hhukovyMgrrstYQbL0WP1G-hRLGI_-I45IoHcCIJo3po0FEPJ-44EVULNawQYf8a4SQ9swxdzrP9EZpMvfOiSgFZ0FbqLn93V1FAFKYHgpzzPHfpCW2LQddN1P1eNcGNCQzU4HZ4FYXeCu9JwEwW1VvTvxqlg=",
+      "total_stay_price": 9977.52,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 10:00:00",
+                "amount": 9977.52,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 9977.52,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655deaad",
+      "name": "Safar Hostel Manali",
+      "city": "Manāli",
+      "address": "Clubhouse Rd old manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU5U3xn1Huae_Kyr8siWb3ixzLXJiI2ceP8LudZ4FtaN2i8dFJvZmYQZH9-gtiR8KTfBzb-JOyDReqO4egLa1nKeR3VhWMGMrCRqisrjav-tfFJbSuBOkC8n_gFk_n980scxMpnByFJra84vQVbrtsCZWDZzgMYfb404OhQtfkwZ4_DXyJG13N5NViFbyKEq3K9jhvm6pZS_q9G87wqjwztRnZCPUhyF03XeydAZkm21ce-cNsOt-zZIgwJDZozpK4gM3gu9TgHcqOt6OY0NMFVR3TeHgWHeD-tbtLkzLLX5oTcazJY3alBrzn61yxZYadS1z-4lPpIeAaRVaAqL-CpEjSKVhUm36m2yWMzGJ8PhF_pDZEAn9pDA3Oje4EQRjZ6U1Um7MMr4Azi3AFeqqDhkLsvh7aOFdXeUvERDQmLXdXuCucrAI50naFil8dDByip78debJWQtzNilHiRCvdN2Ktt19mU4rJZN2msuYnHcv-hqKSMbPEehfC6mbqFMOWTPoPtCLh_058djs4KBoh23_waBNnCBj3QgWXuPDQsAsZw_K1aEIdtEmgDzAyNl-K4ZhdEnklOC6CyTM5TPLoITyvEzPTeH8Yy8um24MWyLtl3A6HWviQ2RpFWfS1p8hJY4UvCerngnQieOdSQ7Y6NzBowRKBlliT6HKgvij3DEjrGx2kihPER437Vs9jNpI2PFo9ltvuTUcZJ_EuY4ZVONqak7qTntZuNG37H0JJ5KSSoFyjvadG1Mv242MOT2PMUfJi52SyzoIsvumm7hsB7q7l2cYfevVKGKTd1Yv-pZnduDNheltEs5RpiEVPy5j8K7H6gtasHDvtpPa4eqSXjuv-h0QncWC9s15zlkFVnO5p4lDbsfFrdLHlQtial7GlJXU7XzKcIVKI1z150X5Z00vSz-rCk_gIpGMgC7nOvgkp-DSwO9duFH75olHblZQPkfkng57PAEOFc76l81xNiGskDpVHPWIy5kYCpIDmwhIkSeBRG0pX8JxfCRji8V68fceZlsD09rvp6y1OhaK2tPVufk8cWSrp2VkU_wre4mOayXEaS2fxuk9WWnv0Q2_6O28T7uEKRCehloqCYlADp4U53xYpXe5tAE_-Y1Xqb0J3PhAAuMCGv0wTfhlzM-JnG3LlW5GQ9rIp4mjxElgLf31ELMcpUID2hVa3gLILl5PRk_PWZmYFEBVylLdahEIF7iFxIIBF8B5e8e1L64EVJU5S6B1vj0PJUZ-N3cIfjMwkvePRDWe9gSce3XQLsSTBxqNFWg==",
+      "total_stay_price": 11650.01,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room with Mountain View",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:29:00",
+                "amount": 11650.01,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6582c98f",
+      "name": "Firefly Hostel",
+      "city": "Manāli",
+      "address": "Near Manu Temple, Manu Temple  Road, Old Manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUsujCp1-DwQLK_1zrmt-3qHcEbPIGznWLTLENeanseVzA84eiFdIRKXZeizbLR5AQ4AsJAdhC8AxBpkyrHj5hQBY-XExj2JuoO38efQ2UOwTDta1I83kfgJ_tsVBZAK_IiQ0Rjgh-gOTTqKIrktvn387nb5p2f7X2j3DKgkW6PolwbMWZdnxw0RINxdAAff2cDkuyOdZZm-mUogMGy8uhFbXvbFov1OceDvME4tqJn85O3OhAVJWCHxfBom7RBo6j4jjpc_eVbva2UmZH_aaYe-U5fY0WXlUhP8d-jLWNRLNg_797tvVp3p65I4kHwmFTlNbJXzTfCBHH_WtLpwkAVySyqnqH4EM-mOflI2v_GDbkWJfRcS17I-wjk_Q09gVzbidIzieGNxtQ7JXVDRCP1qDAc6vmd8TOEw4wfziCk6Uhv274iV8ke6e_nXbAVaGPZfu78J5R-r4t4PkPnXT1YZo5fVYbdVP7gDarsTFQqQSVILP_OxZaTTZBK_41BfdZ8Q6_zXa1l1q-wU1Y-iAAOtiqHeHcU5KNCcxjxKr_eu8S3sxq_fUfXJN9MfOX22uxEquw9b9uBVRn-kOnbgW7H2r53bmU-KuAaQcXVMUft4xww76OeAAunscJBpknMNe8txQAiWTtOfrz3fIlxUavHj53Ph4uJv08AtxK0f1ImqhB6C66OJtMxvHljRZuf6PgywRz5Kf6wopSghbc6fcKAKdZoARa9pL5TgRadCeogCdpCRkUx5GzgmmT0eBt3PdtZJGulmMWhnCf3Xymj7YoFhJQC2iO7JiiR_VxSusV2G_fApxvl2Y1w_wDRcxbshlCOEI0g6FPnCeZf5wLRsuo8IeXui4-m5Vf5yaZbdgrMrLATCJG2qOy7KIzRsHuv8wbP95zRbuFy4Ygka2_zkB5J1dSh1ST27CaNdFrvYljfN4Q7QCRRtpO4HG7HaKDTXfWz-9x_qM5FaSdzbhGHXuQ-mPzAbaInJ7EXEz_Z_malzqwRTO7myqEmAJJ8xQf64nUzncHD-H3ZiUbmW3G7_31Vtf1eUksi-XTwtdOJvdvj8uRzA4F9ihnRXmvocrOCnQz3QJ99nZpu8rEWIhkVSdbnMN8peLkGPAgn0M0RMc7JeFSAg5e9BVfN3eLeJJEVwljmTcpnKQrOHZCWfCAunNrVlLeDuhu4-yq8KxNbZLYfB-1JygehdQBqMecLF2zclk1LpBUQSsrDelxecM7YadaUIjKsh0=",
+      "total_stay_price": 12085.4,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 04:29:00",
+                "amount": 12085.4,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65766380",
+      "name": "The Hosteller Manali, Old Manali",
+      "city": "Manāli",
+      "address": "Manu Palace Near Log Hut Area",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUdgh7zstpUc2RD2lkhhWKTnmyP4wHr1AqyWusSqeNKbHfP9WcPK93UEL8ZxNQ7g73l0uEMkx20yzxiEjUYPkiGsy_6uo2bBvdXHBo3dq1rAFu_KYMiZud10wyfZpZCGeGGtOMtFGGuLArA5PNGy0_nrjw20wWyovi3GBDmfBap5tbE1Hp_wSyge1H4QSuntPdD2R6o3vzL7a7Ukbxuthm3_iqRLdzxt7xfHt2jjsCdJgl8pNtisN5uGvmm6vLAZiC46PvT0sERnnwwGREZhGIz1TCmSmAr9xTL5OTf5V_RibtAppsDCCE-54hw3C1b4wmL9R7o2utD-oDy1PdZN_v-PrdRspw9yfFIS_oSX5MXYl44yDo3WPPXYHHU-OKh2slKwC14S6Dvefy_Y1uv3a7acfVaj0ult4FW1CeaftvBFXMzS0kyB7p1NWONHeDvE_QzFYUcED8atvC8dq4AX_bApb-Yh1f27SdYX479oISIfyp2_5ynYz0D5o0lD9BGYfzkIJfgF2bTaZE3XBEcyStA7COJe2yUzksJgNtTja6iPHY_31s-baXqopwnWsBTPsZb-hYPwXaB3tPYf2HS7-C0tC4YwI_LW98KI7ZaQMUBRU49KyK_cqg6qhX1FVDA9T1ygUJjSt2-Rjl__QZCVAFd_oeBRsnfftGQ4rdr7GfYag7CUeqVkz_58qPbiBGV9bqPxkQLxQEvsuSkxbEW2XkCklF0czQrnDsFNXYfku3dZiZQDK-5e9piNN8xr1KJ5jR4u7F8PWOnOEw2ruXVyuG1Afvg6hq5v5yALJCniecoDDSGWTLDN8jgqU_ZS4fVDdBxoOjRbsiZJB16KDmQYqbxw72x9pS5hOD9Eg8fxjoI2--_F952DElCNT63ZI8d42rgAHrhCOkZ18pNqaBvUCW2rmaGdKFUQzkPa04o2CTq-5dRe2UE6Pvtz9dB-ldAYuzkwYxjzT7sbSdZU0l5fYVQsTMxtnNnIi2H-75fXJx_mTZsDcPLa7BzdWzEePjURMoi0cioV2UxSGve-ddUbpnf71VcAxVZzdDB044EhxFp-tqxeox98azdrGrXS9VCSKCLYDk1jkoHrTWWQZDUI2vT6ULsfsvEg-hA-kaVa8by-P3RZaI549GzRTMw7G_fuENcc4SPqZLz21mHgZO94GP7WNQz5Bj-7-6uKc8ig0vIP6rFbSFZUzGG8l51P1MJmYtJBZtSUKQDF5tjfyUqRQtS_eY1jDxnI8S9dQr1vrHei_yxJTAwYXsGRxdyJ2pq7D0tDj7To2_3aI=",
+      "total_stay_price": 12464.3,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 10:00:00",
+                "amount": 12464.3,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 12464.3,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65758ebf",
+      "name": "The Hosteller Old Manali, Manu Temple",
+      "city": "Manāli",
+      "address": "Old Manali Road Khasra number 336, Near Manu temple, Old Manali, Himachal Pradesh",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUyu-NHH6-Fk5dFvdp7KmMDC5SsjeDcTZcKG_FJOfMFPCJrxEp6pylCSQVFAjWtxDBTTYDCsQ_2IPaHeB32AGyNS94Drun25CA6j4GPqz3M8Ku-MXbxh9jZAQwOgdFIA0HPI85J_jY-QFUt3TP0sQFYS2wWKGB52PAq9eotLNOIAwsdOCI0VNo0tuqhgfLTmF40RU1adKqVXOFAmD6xfoMEwXbu-O4AtzxgowE2iJklpjrJQUU5recZlBgNqOYtmr1lYOs7d62ajXRbLETCwgUUDoYZX_4-It6JjdeZL7YBbZjfb8GjtT1O8Ytg5xnVKbIREXJWaG2SWCTLFjdKLCdbiZKVAAFVkx4hfPms5lm17eSrOBa4gnzD484DfTqRU0XMvTIclJS-ap7KuN-Gll5zhUXQMK5A45IfQQEfvz11ifBgFTzDIE2PRUuwlGKz3gDTnU4LlKP76e21YQcGVHzg2fAKMUOx3GGCTiLWwV3RjBC8evuK8OsJJkDJTsb3nnFd7LsfFNh8s1e51IxPLVZTdmYdgTbsL801j2yKbZfPApLgw0GmvonBH2GIZuF15W_C9FEz0hWmRMVcgEJkj9IHhREyYhdQDdApaZO91DoBFWi03s_9FDCvTiHg9Xjpt5FjR7W9GuxIlGc6wdQa85gF62oqysf7uDgd6w-A5nbdZXmSb98FUeQ43QypeQGjlwFPRMeiwWSDQIaM_5MfmRr7hf2xkWf0AoRH34iJmZzvkkRo36WDCum3dD8H3NyteTNqgzK9fui8KJ0jwU5kbi6HScz_7RPzKD-3f5rBJjZwHjFle6MJMdQpAGENfvKkN5oMKdmt09WqaC5wkKSQKYDTTVIjw_S9rvF36HIiSEOnMJv6uHbJXJK2GxybeWziYCUbwtrJH3y23xknhftPzRm7SBtaDo65ytc15QRBD19axNW7XDjM1sG5VXMkiZY91yWNkDAuTjEVJqLIs9KRoEl_rum32IUpxPbbGlUjZJVwwwAnA9J2pBkoQ5fuq3O2Dt-UCsJueO6EyQmLtHmKZFTX7Z4Z1V7Gwi3iAxQ8mjEznrJu60awPS40FBhvNcb8WncOeqKec2quO89PNSf_ww-BJsSRuPFSq2eHG6UXLRo0iMUsWwDEQqVr-tIirELp8csvRDEqCoa2WAQ-mhpafEIE2Dmo9UG5Jh9pjoalN-_3e9AYyIEuQTuLTBxcH1kSObm2YjmVfnV1PdC8_dKZys-0pUgAMH99hOwGnZT57uBqLQ4Ebx4ygVP1I4sanE0VGuEFF-grZQCPYAe4xeQWbR6eH5jpDBr8D9OVpIeT5tKDKWhE7c0xQKnWAV8sanYSvjXpaJKHuNCLe8OARMtd9sD_nOCe_53S762h3u6k18IhZHDlomrtzEGUW3B9G2R-Xsc9ck=",
+      "total_stay_price": 13215.66,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room with Valley View",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 10:00:00",
+                "amount": 13215.66,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 13215.66,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6554b2c7",
+      "name": "Shingar Regency",
+      "city": "Manāli",
+      "address": "Hadimba Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUjQHvKIn5VkixhdlJGXDs1DuuP5gAOuEPThFEdLoUuwaRc4JPxINzog1FF2CtzLo2RLEVR8zCB4iDYAKEuODEFRMC37PNhYwfEJoKvwmu-1esSUs1uEpSQ2Nnx8cjvfxmc9Swhtqr4KCXtJDBmev8wo9THjHy7nYTZ_gewkIk23YnGcx5P9LkP-FWlfgz5WKHFvRCvAdB2RDlJMzvDEuVO4tApTrvMGMBGOTVrprcPqecF69FH3kJkr3gAoNkEhsNxatJ4tpp3trqrQuHM08Sr9z6Hza41AeibvCGCALLrsEyhfpP6RMwWPNHH1GSWvKtXxrP8DsWqpgIMtwq3TXfZ1JZMbSWSIY-vEdZK6I5tZCt07F1tJAYLGDXpz9Hva_YtSPimb7jk5eOKO70S5RB1xbqs3tPi0uN89fbthyvdSpyYwVhNpqj2EX1FioM5LllBz0hZ7KlsWjNBG03K5u3khN2siVm2d66S11gYkaAIvlOYSZgwMLHeRGBeldmNb7qzAiajKTMuAYO_R-hqzL5UIpPrvqDMASCg0b7dOXLviMU7UHgREXvzutzX_k0SWVpcGNN-k9JbjlSNyAy07SgvC84Ezm3A2YtxPFLXIrpb-tqc0KCnQuz6ScscvX2ZpQswwDdxXF3saoX9XUleBUNYaWDdKFjg8MTpwH4p-_O7UU7jXGP36uIn2Vz02lU3uoalHgXHqL6XFywbASY4NyR_-hEchRv2QLnqkDFGlVeJf9v2Qy9vf862HXmHon6r0Y1l7O-os0g3KtPyp8gpLe9L4Zt7yG_QVTt0SPSgLLLhWR_lhuHn8HUoPaC8Y5rpmHHHFJwnBOrvCdw8Gmw1F0SNoJG-rimNi8Mkaj76awCSbIEsj7-ziUBqTuu_vydoJG_qCzb3mFYCJL2PewdbpUsfC8lQuKFXnlhZq273YgghuvM_9WQbtAWtPzeS_SfAW4lsWorn5S_6R5GlNRRRi8huAmaHgRRGudet99wSc4nNlHFZMiFqarmQYfRbUQFUOJnl6QKa80WYuJ8y3Tz9DfT225SBSjzftYUuIJFX0V_GXQnJCYT9B17foyJtRV518pNIugizKP_qk0dip-o_NlQNP1d399_vVO8gDjU7Dhqdb5YfPgG807VjT945lZOUv9H1YBPPrv0EICsu9EpfMzOnID5rDkZVsYOSWOR9EEhxFBt5cLUWr_BroaweqT2tSyxg02MGlhFYhP8MbIGGL9gY0__DbhxtKd1",
+      "total_stay_price": 15352.15,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Regency Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 10:00:00",
+                "amount": 15352.15,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 15352.15,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657cd35c",
+      "name": "Vivaan The Sunrise",
+      "city": "Manāli",
+      "address": "VILLAGE- KANYAL, P.O & TEHSIL MANALI, KULLU, (H.P)",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUIRb-rxJ-WhuSPqjziFPomiY-cD6nay5fmYMqmqgow7daHNwipQMdSWX-8R_fOk7Z2Q7LXl3mgmKZiVdV42IzcZZeKY6iwpMktVYcKMQjI9u4jyWEJ_2cJA_IvLGZcAGNd0JQ4sReN5AGKQcf_gj2nEXc_IlqWAhfJ75wIJT7Ompb4JvNuRCrNAei7xQcyRefAoI3p6ftJzxSN-C3uUXVtVrYWGN9XQanqGMkiXpHmfOoJF8QL7umn7D3t8vDpAwJlBdSGXSu_WBtu5lncOGF4NvotHRclcFeFeYa8LQjAGlYO0oFRJeVItKE5QSEKYsPxud0K4fkTVnIZvb3ksToMfsk_IJ-f6ARexedHk3ZMlNFe0eYwaA0wxzKzznszWgDb2SvQ8B3T1T3y0eGFiTHHPlj8qheFo920lk1WeEFeiE-ITyEDN7JpQZK5d4gx4m8RXUluIIfsFAOtDAV56UIY1Ufh8aqQaHrqLmFipAZCRzUCRhDO5LKegyNPxHFFgr0XMCK8ewpU3aQe3v_SXCnDpKxaFGlV-YvygoPRNcXUDYOBC1qyZ3CIy-0EMJ0rn6xHDSb3BjnKqoEcB5mkbD6SPYrr2jPMO01NZWjh34qprVScQtENnBwnAVgFhBaXzpXhRhyKZMIT5ArBXHz0EKHRLXEe76mhhK6UBWLKCCOKaJMC0b1KRybqa5efXC67GW1CnqLrHCjcASg1xBw2U74OTCmUf8wA4nZbqzPyl6gqwYNOO90ZaDqCHkaLXNGiZ614EG40rtAvqdylZY38e1MAN6dVRt_cszf3PcOI4pAJKOcMeePtfxYJ4InUjXiaMQwj8DMSZ9xwieEVTTU8GsySZGuDH6RiCWxpKumvyFi2qMv0530KMZCB0ECsyaTFcByVaeE8KKAdAqYeGGWmj0z_UuzoNiMFqTulyVSKhba0HHs_IA29AzQkAeLHqmWKXSP-yvkBVXBM4DMUXUbOA3dkw246s2toJM8I1rqDRWp38rJ5pcFwN7coVkqbAF_OLnn49Sm6D2mrTZ2wgmcXKdgFaRbNrmuTXn3gQz29m6Ub6Zh_T7N_BZ5YXbUmg4Eew_5ept7_2_YKvTwdumXnISku0LF95-6hUhqIFBKtHJWx88KhfDxuFUqdxvkTX8pwXXV4IfYddavAE-qbbwCSSXo1-rh-qpaDmZ90QOmMNb_9cwrq-SmU6Ce35REoAQCYZtihvw7nSCu7j6msjLExHzWlw0yXxuR_0fVPYt9Fxm0kYQUSocwD4eMZGXE5Wzeo5VkMygVn9wBXqXX",
+      "total_stay_price": 15773.89,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-07 04:29:00",
+                "amount": 15773.89,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655774a5",
+      "name": "Montana Blues Resort By Snow City",
+      "city": "Manali",
+      "address": "Naggar Rd, Manali, HP, 175143",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUAifmEvEPX_dfAwmwmN8NcwdRBgP64PVaA9bo6zjO2DXxZjFOeByww37K5pUmdbDY3gNMlT7N0AO4rNnZFvFMZCXKtUfGnem8jcRZAnjq-G0v2N6uEo2Eb1i1CQGEYvpHBbKuve_ZBa-wdstNmSUgHtj0eCHC5QP7zcIzPwy6J9gxG6OoFmsvAB6NzV4XwfzPbu9aPxTeWcS9pKK3yvntRxvh7IcwHuOx7KuSQHtDNFD7BM_pE2TOmEuFwmjKyXw_r1-bq6IGhBLgAY9aWcFrXcoANRgBM7WS4lUZv2aW4qmU-bc6_dnBjram0ecMJzSHKR2XHs7LXRe9ptUcqI6ZW127fE5pQXGwQsU3U8C7mAVb0yFuRCGljwSj_9lTssZcPQPSwpss2sBLHScrewutVUDn1bihfHe8nu8fW5JFekhQHYOqzSu_Q9kt3rpDy83wfU5Tau-U5vWZs9yqiTBH2rWnkRoGT_xXiL57OtjiGfcugg2EGnYYX2vKX6F8q6uYyAwCMWryIFNI_T0ImU3z61-L31Y_6nMgzCsZ5MRz0bxgYgbyd76dfwaxQD97SXqM0yd43CKiigyGg820BwtsQtl8gv8kcYX8TE38ykTZorIIOtuFsoNSVAgBsR0qhlgM56p2zhgd0BzaKbhnqwVNU4BDl7e8PPHJACkfhG7JT2SgBvOk4wP5e4P6IQMPquWa7Txgkm3Q5lwjXImF7cVhPOWuArL0-sxoW1LxhCP2c0xYAK3njxie_wBmUlPvOW38AARZVJcDyJBe07ilEEEiOMEQfGCEbBwQspo7oz_QKYYjzTZobEe-Q39CUKbmTAwaWzXRoxHA4Zr0ACqNOc0Tbop8myVci6K4pCRFZ_LY7AqTNVjDsPtJFx02iUcJIknGswDK8v3ZeuSIQBmAb2ViipFb2ZPqeiCHktNoBQPynobgO_FLR8ZGShzFvfDHEckRrDF9rKdp55kXqvmefO04Q9dWH97qz4_3v7YltOq2PMC-gZSJiSOmT6nsf9RoSdN6618MClIzgIwaLHMWzBavJL29wvc00Khms3vXuBeIVvOc0wbCTUfGWThUJzrDIZpZeBbMx1ETBZQibssK1hY5A8qM0unOLrS1d6gpB6371fJZImdAT5Gcg6myNHmtJ9Ke8vvHFUxhDn9i_eFgzARrJqfU80drlHXfbb6uvA2AcLHkV8bGcg1IulkoEeAXPse1Jylv8xdlUOVyS7F0ofgkoP5Z6PM1wcVzp9EgPa0c4aw5UepOezHPXC6JN6eXpgTBQi4OVI-DYPD2kTAvUymVn7ge",
+      "total_stay_price": 16370.64,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe room with Mountain View King",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:30:00",
+                "amount": 16370.64,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6558486b",
+      "name": "Treebo Premium Sattva With Mountain View",
+      "city": "Manāli",
+      "address": "Ward No. 3, Hotel Sattva, Village Bhajogi, Gurudwara Road, Near The Mall Road, Siyal, Kullu, Manali, Himachal Pradesh",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU2JfrR2fWADPkTzE1nMmqcK8LQ3VNMwohObZsQW9uWQmQ4nSXoI2ivffXvaJK6G6f0Hx6jq3flYGU_ZW5dsg4yQiK-FbXAJbYMVqFW2tSXmhU8UJmKjUjg9TS7ITk7eo3I58bKqZEPWWSq4S3F_t3VYc7IDy5RtHQ06Ms6IOfcPns8QM1z4cbhehhA22R0Db7eHNmUtdyTBalrhJCrCX_odLwzfX7kBnnPt639WrSfbcWdwvC9UEqll1suMJHGf61aV-EX6yk5E-RxOAXDmMqs8wEBfxGq0IMrYtqng_o35fpar317R_tKFIs57QeFpYLzhDHO1Femaoc-GslFFXA4o6FtMJiRwh88Sl7Itn4VetOfbkyBC8jR2nXc8fY1DHQ1Qfpn38OYzmyB-j9GEhhIV1BnDOqv4LONdWidOrpjVsJqe0Mo8SvX_0JksfeOMPmJjxnbY10N4tTHvsnyqKDHSDhTaiEMiFAplyQ7jAh37op53NvF0pvL4hrRwNahMNF9W1NZgLF1vlumKU5bVRab1XOw7hL8ZH7GtaqodEX_YjCPIlU4IzMbuCl35bozWXSFcghbgVfo86ZsZrh6Ln0w9r8-9LWAV-ohfznGDOv9jpFzUe9KKOZTRIiimLp0zoGL4KxcXQIhCTLAC_p0ablYSAeyw3kO_d37OUXjl1tZNI-TCz5iggkKe8We-OvfLPBweuvG8-jMwxTDVjRcQPTbpzK2EyevG6c2mAx-XZfTJBvDdxrPNfGcVCd8Pa6GnrBtEkj0KGScJB4VF2upKmsfoMDbOdTQrgsQxHr7Wtvj-HXzxxCr24ZnSdgISX1D7a7U9VU622T2qxy9ziJCEX9AW9dBEkTM61s5zeNmZ1cB11hNRBb5njhtGlZfm5uIL1-gFU42BLPOxjmNmBnIu6j-QlhUgGCdEeusH-wESwO5aBGeW59GC_Cn7SEbXt6S2s975xM7MgXjpkLRS1wAlM43mLT5ttweBYERqyx4zex-eVvU0kR4t-mVk-GuJXlE6mr4iOwz82b9_3fqvN7A0I6KP59STZnSvO4apmnIAQBn4YJ2GaY6kcEZiSRUl52KBwqQPVc3N47EKAZhXKahnWPFNNW4P4pRyfEjbQF0afG4oZTnk6ReByty0VJtQc9oxLlrXoAvHfYUuJQeCJfnw3bN5WR_N3TMSaIQoimm7KlIqEApFU-DyOh0RXC4bjSiXzpN7RXg7rom5ZkucBEakjRu2qP6xan5L0-G34=",
+      "total_stay_price": 17226.47,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Economy Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 2690.13,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 2690.13,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65758fab",
+      "name": "La Aero Resort Home in Snow Mountains",
+      "city": "Manāli",
+      "address": "Nehru Kund, Manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU-A2eygkGg58Yq5t7hmU5495yhaPFvoX_QB22V8FiXlMEgKxZ-G05mUWotd5HXDy_hn9kFavFsSCXMnayejwVIKnAV0eTO6AzEQX6dcCqNqZwVZtuq2ziTDzbLX97pCmPpx4NWB4JStz069isF9rAcWGsNE-1tCe55GeJf0QQDdU9zyg51_kT0Ya4hQnoAuaqc6tBZkDHD6ixWAECPKxQGqZeki7Nt1G1lWh4s3l8yIvuU4RPplJA-anOH9h_9U3-L33FaV6PEyS7O2AO62Io7bL6g1ySrqD4NUQvjUfAX5EHYiq71-oXptCpIdE0Fk9_aMXPm6HpioiFm0t-4RdgtnbUppvMlv3LmSGYjXzVdXarMmEH1en11dEjvaoKTx8eOzec2DqyR-fJiZOmRQs94__kRBL30rGJD4mBe2wIt9zEZrM37y7q6xQpKGuZJeaq5g1-xhOSGuoCuK630WDIkI2L1lP_bLN_vOw51lNy-lQ6PLsFo5HHRaqsSvynIFpbAjBUWrt51D7rB4g-KudMRMknAY1oUJcktJ5fmlD_zFpuyUP179EvMposUtV7Mz7iQIaaEwFA1lzJA_MmPNdxq3HXFQrrMCR7PevdBzBX7BxV-yOmMlWyCk-zxf4E0iqxq7bM5HLqgeJ53n3VfwLYqNtayHMfjZxSThk0uOa3ABOx-wgDzZwKILGPgdXp-Z4yPm57dhD0pKMvu1s7mOETo3t_ClP0ZrlEHsax6zK1RTSiPOrJR5XoYuvctnDIJMQjeZ3vQZOex6qIqhn0_V5dlDO2WZ2zN3vnJGBf0sliFCBg8h98Ad6R9xfGFw-K20TYX3xAClnxeCJJ3Ado4ZYhrJL3JOuhpIJTQXtD-tMTcl5gBI0oFthyFPumpmnXI49bCmkbq5A1zx0tHjvRfCIJyaXr8uwV_fimuA87HMl-OgQ512iu647naWuu8I4wnuuQmiCxe-9eMPQmhhEOtMg4UcX1qkN_87vrGT9cqY4fnQHeYHSyPfscMZ6cX8fyidl-ZnxYQhp9IM1vNbArcnZ07hc1dZzPspkpb6n4BlEXpkV-2Hylbrc5ZKGqpc6UnNb8dKoCCD3pM7DFdnuDkr5uYP70KNcwqZbvw6A14dEJtpAU8Pu5jREYHfYADHPN_1dDHDp3PWmocLpzsPBrGUr33ugcJ648uDDTXBp3mHrnnEnAsaHHIU6Hrwp2vbreHGXZ2w==",
+      "total_stay_price": 17911.27,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Superior Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-09 04:29:00",
+                "amount": 17911.27,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp4b1f4",
+      "name": "Sterling Manali",
+      "city": "Manāli",
+      "address": "Naggar Highway, Left Bank Road, Prini",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUMXZbwHiLFXkXWoe4JVBMzsq5K1iw8LnvDCm6T4XqWdclKBjnSbmeQa7HMr4eZFNw52c7MSQaBmP8KR8E6uurzi770deR0w4HHVcZbPf7NbxK1CR3Tak-hUzW2PcnawohUdwKKOjuqDycnP_opDsMpf12z9HMc4vsVrLYstlvarg0hGbtliikFvYV--UbbqJnzuwbRKKKvAnHPN7C2ohOxxd0pDoE_o8LK8wOPHFxf8Y8QBAXFEf6t7AQjA-YS3G87HNLJ7xD1pyUnsR_2LFdwn_RrjBRfGNwOe1Nyhc5UTM1MTbhjpFncdvQit-PxlfA1qB0TlEK_JAJ1G7_c7B3rdCFago96ar_bNXYknpJURn2-EYmsNyjbVK_X1XH89n1F6Y9mipB1d0zIM0N8pTJOaaeR6xHIp2AqkSe46YgA4Y1YuoodDQbf6RbmkJ9AS11wsTRi32U5eHwn8l8ZsIkYDjljgKdNEUKdB1TWavF9Ir-5J2jaQyDwA2dZ_jx1IrvlpaSwBdLMK8o_BIcPfkStENOLOYge3SDkN484BJNu-_wRknV0BoLtku2pwDEQyOAkZHmraKZiJYE3_NYBNZr6Siyz4omVXJSN3_3Yq-DAxsz2FDJHiVjRUzgJyDRq_-8T2SO8o29f3ewcxQe6R9CeJbFJLoYMvOU_dRrkri-QghjWk6uTQ7jAexYeYIqoRtbmVUGFxK5QxSPomyCBUgXpQ0QYO66QG4ro0C3mNwzsC6rZcilONvKEZP5PbCl6SK98YAd9SfijsUyQfdWTAnDdD9NJpe_mSQbQNlHg9otdhA8aKFLTuqwEAGvjtuTG7PBTSVbyf9usqwc9qbc8iyV5jk2AXgAwzsbilCJMbXduKoce2LJdw3zWDhT6taYWqtMxdTE0h8ix1S0r1L_6z62C5AN8LVH_ebJ6IiPGohxO2gMWpZa_cgTxchnaijQuVsL0jDwa-pFqNwQwrvX5kpFGIRqbVu62EBJ8wh83ug5cRjBeQnSOO56EEWqcleqieCaz_8Mq_8q8d8aT8iLYA2ZgS6h",
+      "total_stay_price": 20943.25,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Mountain View Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp4f473",
+      "name": "Honeymoon Inn Manali",
+      "city": "Manāli",
+      "address": "Aleo Left Bank",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUyQDAdjDz98s5gX-G9vs1DLTtdeqAeLEKMHPyh0BwzsSr16psCT7eHQIEF4ZeP1XiXURPK4lRM47RcwlYp9KUWAAat4Y2sAcyCxBaZQNeQlsySviv4gNAGVGzvGUaOBD4a7N24PPgOPb4BU9wwBpb9_aIKi5ZWhFJ4UfYNaX48ScHY_7QfEnL66rHhWV7TZbQYEltwPXFVx4GFi5Pgkd5ofiS08580ReFtBz2Mk6MMkXAAQQ8DoBbpsydpOkm13DO_4z85Qjm_7AhY4A8-XyazTbI77piRBvyrOyqVcqMmuKzdxzSBKYf0hmlq9m0k6eTRPYb5k2bOsHHFvLiY-D0chYTfusPNqtbeCqzUbSfHKOr8ByZH9N257Ep8OjRbfgbc6VFfmXfM-JZnaLA_yWE5fTvPizkKa_nGk7KjWeuvjUP3aEQJ0LfV89TUY2inBx_U0vDbPSzHcnol5IpTxIhOCV2OSOaEjflAsbew2dDdtnCgB1CMGapxr4OgKu1Ue0ihV0SfITr7Xd0aXrvAzV2qI0sY-LfQjSqI7Xjd1jm3X79anAW4pbMiUTy6oqNYgp3E76MsKJQcGoONDJsZS4cCYwYWm-zH8ip-p-F8vinWbebHSJT4lpu9fCLKS1qrKvhMrGcqDKEljny5YeZE9Vh7PLq5GJgX4YhXUou2lRXJTqsfZGneAZHxHLkzxrIB0XX3z5wdRhSYf2q9P30gCl_OFcYmFRNTUzCi22u9UQ1ULaUs3ichfwYDC6kPu4Tp8U3ix6Sz5RIipohtlAtDs_qMclKR0Teq5w5Rz2Ubo2yn-DA-BH3IzsNcxicaqJmnyiytmzNGuXzJKVbV4M7JuYM8LkpWK3kIlsHZlkgM6BP8Dmv5inV0ahkBFSqdfNmbAmU5hKpY0MxO_tYQke8W1JT9cR8PrNyLtn9PFarKwAbRt0_Xcq9lGgxfRsDvpNzAaVX5B_fnq3Km9wFknzh33UOG-xsB9C_DX3S500tzNj-mfSVtj2aYHNkSY2KALluYV0=",
+      "total_stay_price": 21890.85,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655b87cf",
+      "name": "The 14 Gables, A Boutique Stay, Manali - Pet Friendly - Balcony Rooms - Crown Palace",
+      "city": "Manāli",
+      "address": "Shanag, Old Manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU4DCGql-WbKvl8S6U8WztogaAtcZm5T_qnrtjEJzV7c_9_zgamH2LbRPAUn8tKbOFraUB7xmhbs5rEGFed2mU2W31W1IeXHiX-785puLwAgzYZ8Vb0vUPWLvDeP0qQ28RFNmmx3hNEX9CU3hHBf4nUtyiURIpap5PzVYeHRMwUStozmYEXuXs98U0qj0WKV4zuOQAxR-T6cT4i4R3pLut5D02t0Zzn_JZVkXEzEG5VABOdJy19NfUtF3jkzFUSGRtzHltCuM8HTVifYuax_2HOmaA_HnR7q3wDoGM-nDze6BpESF2Ich-Ocw_rxoPC-3_1J66tC3MkY22CFMDJxqFR7lCNb8P5BogSxGBDcTGICkP0c2KI4xaAAvsx42eicQ3hZi1fnrvNW6udFTB6nmNermIIC33BjmWDOLMN5PeP5tKg-CbUpH-Clg3gFhTWRp1-IJEZsLDxP7WlGPPaDIStz2vHlLE96QyCGdsyCDUFseSfQ6l1A5-JNcjjiwq5JlhHeqX44vCvyeGkm2NFxQ9hB7mBWfPZ5JCyy6A_8AWOkOmewCjQDP4AfEggYTdHjih2sDf0DDVLe1uNoyaXNBl3Bx_kFPG2zXLg2jm3O9HCxxEGAp_awGgeTX4ZLIBZFySKkOIhQTpnEwEXo5-OSv-sNF9O5aLUBFLktlr8dht1bw-MFJD5R9EHw5ViKo3Ds7ICFFfGCWWHX8s5Vi1ffTqcQOsvkJhGgqEw2WLAPYOR0o1XUpFkFaIwz4Xzj7V6x9LSSnvQxlLfxCVPY1AaiaJ6Cp8rq3urva5UuqoiWugEPW3P7UhTdqFfq4NPRhxVF68TOsNMFGyc-ofszQB8zPWs6qBR4ky_qeSBvkwALhRXB_xT9zmbdKhLbHmLyWN0gNTbtZ5DPiLQKc793wqTMLUdf0VZg_ROENUom169lc3MTzUMwX76iTOQSZ33NOjn37Zjs2006pFVdPrhNfCqs-ojjBHSs-CC_1N75k3L7_REhWPkHTTeo8Mq7twzwJlvGhZwLNaaP0jw0Ai99aFO2A73INogJ-vvInaOe8YT8OV8l7fsJF0BL6TxdWDgqFczp8JMzqlcCoZo1t6FYulDdgcgpbixMuTvzVW96wOl-A0LTWAhoov-Gp-36AUGxxaaPIsatSekziielkTO3xAa2KmxNuGng5gY81EfbLv3BO9eX6Dv0_IilI9kb58i5c86nbsD7SkNb_6NAlCmyRC3nRI2xz6ATfl9sDR6Eo0xYPnyGxt6y1IQXllOdztFgIHuYHrGyTVBk67yR-lcg==",
+      "total_stay_price": 22743.67,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 22743.67,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp5695e",
+      "name": "Snow Valley Resorts & Spa Manali",
+      "city": "Manāli",
+      "address": "Log Hut Area",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUdcr73W5uhfgeH1dwikcp4ug3vuXBkxOpxxbsNAxi7b3hCiUE-55mnkOXdnzVA0dUVIySw66HYTSPChDz1yywS921FDVWZfeBJH6gUD4HVO57bJD5CkNjizFRUeHBfq3beEHMVsuENNSVO-_Vc7cikro8j3iC33268bMwwifqFbaxVmFFpf3zzUTmb34DQJiPxS6_LNTyFU6s51oX3oGtK4O7M0ieF3KDhiLpSVqpRRuI2SRlUv7y7zPHlLRRGAV9A90Svdtq_Sod6xgh771v2OpKUZNl0_ieaxO2eler3ayDPCV-c-SV66d3WQ7-sKDUGgKYo-di6eowriUMsR0zfujokXSTxpqLEUklFLfmiUJd2Wv171KghgBpZdcSaUzSXL9ei8OwAzGjulE1wAR4MwuLCPO_TmiAk1qaRhp8P5JDprSpMyDLULVqkvhQanGZzA2irX4ziUguA7FL0bd9JrmLO7TbUy0Qah0w8j907WlssXUP0YVvXw0lhcNHIs04QCAMvm23T73Yidp07K2tkEY817Jnnh_HKrqBRJnVB0uHdH2k-z5B6rSTLTt1hctbnWVzE-xnqenmvrrkFiwTN3VSES8kNTmTuin0hShVUn9LrQj2D0Vczxllnw0rzbMJ_qPdDL4stLoSRSwRykWhVCYoslJkOWqWJTob5PDDxP8VBM57mFp_RHybLwEcO1-XvYZ-0k_4GvEdh5feRhpg3DCUYgFrjaYfDfqx29L8fPJ82upRjBWuxwMWt_OqKVjo_He_lNiIHuBgpzRSEPP9mM1MHfAnkHgNW3-j3Bxb7r5xt4RxNw3JGD2O8R8pMdKPYKiXn1oOLRUAicBPh9Zy8XJgGI9t7tT0Wqr1u62Bh_vwtcmKTMhq4DXN2nSPwViT0zbuQjBklfZPr9wBeyKfLN9Pakyb_UV_WJBwASWKTK42ZfYGB_CXKaft-T4TTFiN7qJV4f8ZhWx-JhZ1CIa3joRfnwtyqTqKZaRK9Y-ZZxviGgT5HTeKUbtAHADGVL9ZyIgzbPn7x1EX1BCcz12f04JwF_7gJKMg8qELX3H_od7SdIiiUHFTkQ9CB5mE-sOe-3rGq36yNGlXaJ6XlqulHm7w7uzWV_iBmBZncNw7fgKdppPutXNbZ6iTgj-rKj9XevDjPg-SNX2ggmBW8ie4wX2Aw_nREbHq3pEsDXcLbGFIhyUp9EaBJz6xNOXYEwtVi7lUsa1ZC4VK3KF4RrQIEFPqZilhYs94eIIzBcVQoideP6kYDA==",
+      "total_stay_price": 24099.28,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Garden view Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:30:00",
+                "amount": 24099.28,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65598bd1",
+      "name": "Amarys Boutique Stays Manali",
+      "city": "Manāli",
+      "address": "Khaknal, Kullu - Naggar - Manali Rd, Manali, Himachal Pradesh",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUWqn4uO0rp9rUF6BVbDN7qZfX5JbYBx2MWq2f073N1uy4nTX8K0GaDp3LcQ3BuZUFqkaiiFUmEyWz9EFGeWoIPqNz6PZz0Yf52iuRvc6fMx2tYxqbLk03YYuzcHBql5_bmOZBirJP_Ln2SM4KBzzW4a73BCabBytUpef0E0pANopjXke-_OjZiGzYSfEUY1zwQ3rvlTadv7h8FKoluUZRXxgMae4yFJpgsRyMrMykDl9MBqQw_ErcQ4vb7j3W7L_AE-x618r1Y-BSwmSIYF3P8aKhWGPDnpk6C8na2NioqyD1jpme_q0QJB5SPvcpNRsw4zfWDF-wHU8wGFwb2vuu_ezvz2wV176fnxI36-NRNpQYVkel9bT2jF6Rx-7Z5qv8u4elz0GY6vK1CAr7c44mqwqyMXUiHkNEskVf9Qn5i1nt63vYtxH_3HJVDQJHXePLWOc4pJaFaqa6nwDlwR2g5B63tPxzDjz02db3pi9Rs5t7VGD4gdlCmcz5WloZmW1yU3WrDOpw6WEc6d0KppwXrezZT7u3YQ1Z9737xPbAchgP2fvlNQfZg5n1Mh4gjnj8LlmJTY3R2-JBxr42mF_lJdX2lDQSmmXHU2ME2UFQOZuMh74fDyckr10F-x4RYm61lB58DNL_cxXy30fnGXJaD6xFWpOoEx8gFw3inBt65Wg05e8dUuU_4mkAmUUdFgJm_dJygO9DK3BIlL7C6djGKtIRrJ__0jqylLLwvX12Bl9o3NxQsIYetw3Tj1n46VevETucU8GAqOpUYbB6amiFoL9Q4hy9Ms5wx7m_u9ibGAEPC0jP8B1IqA1r8jqoMxAQMEHb9UZbhXuaoaOnfkDkyddQmZuLcfStDb6uun4sTfrcOO5QjT4seSCO-fpqnTYBpgppcfoQ6eLfRqDkXLP1mpGfVfAiht2zOvvJLQB5SB22nMSd48GM-mTzhUSALMsaXSXwcgr6mXYNV1o_sq6G_vYPdzacVWlsidZkx7zDouEEjobldu4VHwbYTMnvRtASrTeERNnk1uRoRyYbd98LSLJ0vXadOHa7gbgzsUseVJxx7Th-UwR7DKggyVKCF8kddn9yGWwXwkIchTKbbDSg-So7wN1DdE99ah8Gd_4SxKxJmItnWoJ6GDf6Av7l7MKZjyGER74cSYE9kRwHNgpy3lLRFj4YO65XJKJ_2fw4Is2tELlLCNrUrgDweDykzfJ3u6f2Kstg2IR6gY8w0VYcR02T4kYSWPklgNrUvzQsj_yKt577tsUIByPy9RkZaGOSIIiM9R9MK06qlAfDSUwTHOzfzQ07tznuiy6WiNfMuO9xSBvhNZma2NCPnEDFwDZ9npo20AUKwDuG9_7auKeVok_qFnwqeHHmVf0c5jqBs6ozQwAFAKNsvgtIPy72XUhAfF4UP4qBpk6GxFxEeJ9UYIzSukdB5_jlcpaamJbPCB7726YNl7vjSMFvBMFDAmZzZCC5m2D1Y74HBrcuceB5jbkNmV6Blu937-9q-65ImEPpNcSU61Qq-7MH9-84nOBlN07MOBBKaTeOYN2HTTHOA_3AJlHJKFtS9nHkrmtwlkmaPjFfMDvVSG8qWolphwOV6d4avziW4XQtL8Og2eUa9ExobcFkrTGOFDTPUMvMHKNVFuu4JJsHVmCwu1Zgh4VYZUi8rkMcLToC9j1l3gi_dVXsKtrpmHYw6s0Y9KAhzf68Qz_k_dlI8pRlrL2-VK4ELUFg4e8evmo9JNRKJq0nm1VrjR1RwhBaq_O1xRPbZw2aTw==",
+      "total_stay_price": 24676.45,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room with Mountain View - Welcome Drink, Complimentary 2pcs Laundry, Late Check out upto 2hrs",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 24676.45,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6581597a",
+      "name": "Olgah Manali",
+      "city": "Manāli",
+      "address": "Olgah, Burwa",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUewztMZN40dfaYhb31gZiCMLfKN0saZtrRMxrYzl3fDMy6hOZoawPlUwuMRMnwbZ5mlrF2hX7SlKe9X02Y-oBpP5gWORlMOBjAQDupfEO__LBNOSOBje87W-L-6g2L4T2ycFg0tYI1g7-0blLU4edLaDK18a9BZSP0VzdH2xQdRBhjunNq66nmnM96j4PUSd0g59B4EUOtFCzlSaaKaon2PRwAqTJGvlx8fpyDz4wVCrHToFTkHUZsU8kxK-Cmb2wMnXapQhQVXy-iwHVhouQ2gC541xTAet6ADLVGyLBT-zqz8z49zEodEO1gz4NN0xXWdh4jxwBQGXJ8IpFnD54T757gGI0Kyi_JI71qSKQEXZojrqe7P_LOFna7BxRjjZ6BiXuymKsRF87Q4YpzlGmGH7Aj7Hn2gmdlBED8OYt9iSXrj-9TRFyz_xDkD3RxLheXyaylOA__yMD-Sc9TEmyjcQeNSo7CPbkRySe3ugXPZntBoo3OcMfEzPzett-nVWJlR1vxwXfX8ekl0cF4A4XYkfc18QoH2lij_OMvt5b7HkYcy6eo8IrgtrFr1YRZoDz4iIASe1UikspKqvXl5F72xRZCl2F_9aNLfyZxQBjfM1xnsr-BJ5fXnZSg0t9sHiMN94NY2ta40J86WNAXlPIwEIFudd9rjfhwRlKOshLHf-q_GQf9cD2nKCHCOLdGDOeVKhJ8kpCDRkP8derIpUlb9EtAgdwkpyWMkBCWUDw5VAQ01IJqF2eEAbIx6sOmrY8QVBdqKLPY1OHuVYfaCECKe59xr4cn4kK555VrMwo0kK3t3PffF7tyzkXOxgFu-Qc2H7XeHP2Vao5f9fh5jypx1xDdR0kte2NztyiivX3LUOTiCbt_EV2SkCEbyoDXcEX4eC5u-uPsLS7TBs3BoR1Z-q8TYHC-JDE3p8C30V30hjyDaEHKT8PrVToYI01Xd87i8BCYDbdaxLLfIjD9Fck8MKazune1X9XKORMLmuEb-9vauYGQD3VQXqvwE-4ZHSFvJAajLdbCbpzmXWKTjjTJ4l9T1H4H0gRkl_yTZ8qB2ao1i-4K5vKfy_oSnXsDCGswsEGnWQI2mMe3lH8ko-euEWhEBL9UBRytv1t_s6fHkvROTcNRl3W",
+      "total_stay_price": 24720.55,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Double Room with Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6556d0a7",
+      "name": "Zen Manali by Keekoo Stays",
+      "city": "Manāli",
+      "address": "Keekoo Manali, Log Huts, Hadimba Temple Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU8-x7GyQqcwUE72okaW68SLRjONqlJyV7V1vpJNZt--3h1bsxvGCExk2zbTALXHBIX94gcddr7vzazOOjVJvwX_o1znJcSK0_VtaN9JNM90sjxXUJBP7Z9pAhiM79-MMrbMQoykZhu3ChHEsUlzG3KvRZL8inVJK3N0OBPvq5n74ef7lpjYbRVU5d7MtXgYJeyVx6_dJlJmgzeSVJcl-yee9mDzcrJJZLIvp2Hamf8MDCW-ZPyTDetkgr_kHpyBIuuboH4ITQedfWyES7Kfix_N47ZCXCwM_8L2K430k5o9f906glPJHOqzy1kzXQWFVpYDB1YzxB8NbcCCCIJuIT83lYwvUASGb2okDCZv0T2lMtklQ9oMfSjrh4cGCIZvBuO-7YiBB9Deqs2qZbxP_dBWj_kYdm7VSow-qTy9yBEDFqjPayavkbF534S7G4jV_nXdMbdym1QXHMzD7-FCr5-A7uUTMKNCD3jOq1yNtzcA9Wm04s_ky3D_BZg_azO5b_T2s8gJ2YH9ae8lqu3IUcCGCLpGdaysML-xv4Hk4pN7MSYX6DU6kKP94Rnnnvv8-PXq0Ob3m_gT8wMh8XIyiDRv5eLiBro7WXOixhp1wasI2v_WzM5B2gy57ZFDRP2_yc1ioVQMvJ8cgUxknib5DNuNeLhHGOtmhyi6w3nQzfsKT3HvtagySbApgjYAlbAh_1lOlC48n_bHZBXMAm1jmEWl5yqocL87cMh5sntTNiVlSbozFyCQwb10b4GRC-ck3VX-1nEK0RXCgmz5VO7ZyBIoEFcUp-y132MZQDJ6zDPEq-oB-Gg8SfQzAATeEaxIRqEIeRFzSWyhQ_yqzAFtWyWflX5TaMT_yYWCRzaaqvSNlIJ5lWUnMR1ASounvWOhlUm-LL1jSevVoq3UOWEjfrh9fv5aMZ9wngVVr9eWIIIh1w2zNBjCAOzibvpUQ_oQgYz5sAdPWup1j_Wi-HPES66c8Fl0JcNZL0X1ipCjB1iSASzjI8VZiC5VXHR0MCmDWil29haW2JKxaOjNKaksZQwiP6s_GoDgB08P7P_h1gh8Fn-JvIkn4f16eCZZbIdeh8TwqzHOiNI0qtKUV_rg4QzjwuswJ6105WXzpt68fn_o3UG05POCna6Xc2wzpe55x4aw==",
+      "total_stay_price": 26307.71,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-04 04:29:00",
+                "amount": 26307.71,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6575dc14",
+      "name": "Urban Monk Stays and Cafe",
+      "city": "Manāli",
+      "address": "Hadimba Temple Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUOW1cwNwHS4dautbwf4GoKrkQD3r4-SqkQ-SZl1hJcj_OeogavBasCMDAu454HtkP7GSvFKkeFpcNKC2hUWJ5hMUphiYOWwkpPVybMwZc8G0hY8unHDpUujdzbYQIVsVKeP5ePqUygeq60GDVX1_kIcx4NH9EyYtl14Mrs6-tpntI5kvdlhykKetGxNYfPOFB04q4-tlusGesy2jF6BBmbBmtlvnQmHZ-HVJBl3yOSNpYb7l2WgjGPSWewZm4QJ_s5odsv85E5CAv9kguwN6xzM3Ygggw3Bp08ewGiZeHjTyaV4nKaXm9vYKu2cY-4OcGAr7HMOt-1m9MVBVmh9mbYkOrnDfDc3jx__9Pt3QsP2Munqb-gJU8YDIedBEPMNuKPaBuPASbe6fYnn45yIuI2b-2L8_E0_WC9_MXWjX_gfmLMl_8eqeZZ12czwvG24j2JOCvcUc8oU05LYJDZS54VFVUs1i67djILHx8mps7S57l9RBHP2WebGk5sxebtNdXa0nsD--gF01-_nE_cU_L8j0ngX6OQazVr7aS0F8KKW2ElJbl6D67g746NaXmyNSzByBEHwOomdeohd3mgTXVCyPrpC1fne8y7SOUJNQdVvAYmXPhpzKaEXln47bTl1jazKlDJDnHUps4ZZ8Yqd-9DTJM7obbsh4H3R-DgNwOiV-IzcsgqNnUDOgMgqAoqej51WukT21_t-2F4XNSS3U3K_fx-cmj5LhBJ8vMWfL6Ixn0QzgiEr_xBumSqqtEbZCm9KO3G5Yd1ewx51Ss4D5tFg5IaPh5AuKcyfOhmCCEr29ZwB4KyOJ5YQlWbAlQJh_NhVC6lR9r3ThYnd3wSqBpOm8t2NJRNhQ67zJs4VhMF0bHSgoxVVuOH5vRvF6Q3YLeXCSGupSTVulLilFVyGnjMoJBkJpAV8NEEw9eV0bFNjWiwMv6TxbpH3CommjSLLxUNSpT0wg_UDqiS9ECDWzVDtqOX1vIu1pNs3UYK6VpMhOFYux-cMNA34hDirmXp3UB3xRfuyX2YK51kd2be_peYLJ0X6a0UmReqE18zCgmNVB9ALAbR1MKXVR5BKpJEaV1W3qKmhI8aLkrhnXICrNjxLg9WvOqtAWOkL3bVvbEh2N-EQEWWoDjq1jog0qduwg_wJGEe6t9WuZFReNew_spwaFLo69Y8SN5AGf0T84hEodSOowjeDzL4bMKLAcCSXCh_aou0Wc=",
+      "total_stay_price": 29851.81,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Two-Bedroom Apartment",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 29851.81,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp83765",
+      "name": "The Anantmaya Resort",
+      "city": "Manāli",
+      "address": "Naggar road, shuru, P.o. Prini Teh, Manali, Distt kullu,",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU1BQ3LRnw4gb-GDr-mjW52M0-eoTJK5flYp8feVDgIjRrAq_rJx_4pjAQ2jBmP-E3Op0i5-xs53cBZsdTHjpJ-7aUMO8KW2On3dR6jaKUudzWFkTjN9XgHSl5_JcKoR1TbF5GUPr2HKiiO3zturuClRDolf7kk8iZSM8h7Ep_BUH3FjLpjen4XguLeu14cCSVPeUIP8Ynzlm8V729VPgZ5QbK4A9v0GBzo9_8HofsGCog1kN6_h6uzXNUC-IrBz05iPFCVZJqBZTcKDv1KByd4PflrHAjJWf-Xi1ALFKesvLqcsF_jWCY5FPDATTNFZ101fDxNpY9oufrV5I8wiE49ARCYTKQ4iBw17vTCXTSD8tdOjFKCFdQTckgTYdPHvl4ENCrO5A3BtgSW87JgVmMU4PT3-h6MPv4UiIEcwDG1aMfKYWT-MS5k79RBNmdqPEiUuZdqmNNG0YLj8HVMzaLdGA4uU00QF414fc_mfkeOpgfQa4LCMlVHGYb2gHcmwc57eNuT85y-emsyfvQd5hvx7O_dJPSPxxatYO9sBvXBH8BSEqnBT4qvB0-5H_GiOShxVztlpt0yp9RoD5IFp0l9TKz2TnrfYc7W2tzeWEmBaGytFht2KJ3jyGX0DhZp598V57Q55ELN8MNCcB4ZuoouDF5y6W9c0aLu7dOW0bavAo1pARRCsxsCjnnwMlApVF5RgXcqsyuv0P9RAkYaE0Y4KWDcY5ZbkU2dsXz105v2IDZOs0uruzti5SE4DrgeMm_928pakEY5CAzmlV9AUMXN_wJfVfUS1KAhNe8e-vMDTQ1KcUHpzSW4ypd6e_0sAMwqGMzIT2Fjpf33wfX1OPbB-O71MzlcJr3fc_MOwTxq9qApvp_FSzoaEE433JllnBSb4IKHmyrnG3wHg5o36L7QEx7aAMUGiYNYPmVu6xig3VV27hOXcVBr2HuDs1gVgvOrj5btDzVt8DSGT41wXl_cDXvlnh_fELTMn8K2YWOLabU18zlmADUVuJ0kiUwoZQt6Lhk149h7L5fG68dfjSXIE-UumpqHqEdMIJcN-q0Hw3q_F8d3q0SN0rR-J2qORvDVd-T4fTTkNGWhIr3EfGOnpZpIsAmoiaDAvZzgnWj99HKVaurNb3lrGVeX_DZ5w4CMz1j4uS2UOA2BwWPSED4c2-bSyf0NVCEUdjtz3Mxascv-57yurtI3YWq_byTvJE=",
+      "total_stay_price": 30283.7,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Luxury Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 10:00:00",
+                "amount": 30283.7,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 30283.7,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657ac753",
+      "name": "ORZU Boutique Stays Manali",
+      "city": "Manāli",
+      "address": "Burwa Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUPYP4b-0hc4btdTPHApau62BQRBm9U6_B1kixNGmVb6tHPeiVHw6iZCpRf6tHuERphtHVrjqxwu86gWXFgPD-s6P-FLrlEdr6svgiqFEoSYyB9q9VNb2nAmu1s-X1a-V1VA7a5y0X30kDszlRWUOcwMMz7R_Qz2oWOB_8TBYXRn2LJ0KI017Fd6PAROtU-g7Ih8498R6gIVXq-Rdsr9jWQITf3evsyMOx0RzsAkfDHmlGGDt0QL1G1NeNITycFh9UNSdzbQVnWI3MmaWDMku0xQwJN4HQeKYnvPyLV3KEwzAFtyhYzQ-VAPlDzEQzH_BQpxiKu2GHWVgR2-BzbikU6htnV98XOl3Vac8Z-z9BkA0ygDuT9ju_tfGZs8ZULEgJAszQ1jGZHKGKbVzXeUuAUBa0JusdZcwiRsY4oja3k5FoJO2jQKQlcs0zdT-oDefKMxkBexNn1tqkqK5BIXvwS8VF230PvAZoh8y4uO-Ay4l9Xdh0FACuZ97HfihoSXgJeW-95VquXAsz29HOU_HxBTz9YiRRekpwmKsF6UFYsodpc5YAmY6YWgF2zoPaNkg1a7amc_aS1ystTv9gCrB3gVZJm_OqCZyrXm9KRhoCk-XWhdnQlkdpsOa5vbkfZeLCDtzEXmw4NnYOrJg4U51M3fTTaooviaZwqd_gNMwKiC1XAKyvnjBsURXa95dc3Z1MDO_dT2fSOi6wPIdIWhH2thEeNTAFqVaN1E-FBALx1o4DnZ2jnKAbGxs5lJFMTSvrMF-IKrA58vUuOo52_XGELJp6BTKekOrrXAtzHArBTqtnrUWRglw8cf5UrT63MqYLW4FYx-OSnLUT_2aPkXb5v-j_JLwEyBF5_sbl2B-M4Im3R77LA4fUxDkilIAzpwiipWnAnS2u6FP4HRVu_YGnphV4QAoAMsIi6ojSshLehs9wr69mCwWiAi87FnlB6wq1XIgnW4-8zujSsopswwaPt2WL9v6UY4w1TfvMJlt-xslfzUdIvWPx2ScgBxXPjv5mOa8y8Kr_LUv0nngiaRNcrnc_eKkPMoLzDuMHrEi29OD_pbjFq0UMT1LBSaeCuGlzrsNLB0fGA6H56TWakrR_bDWmnHeCtl0Jryx-rNv8icYvcQ==",
+      "total_stay_price": 32239.74,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room with Mountain View",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6558ebc8",
+      "name": "Justa Grand View Resort & Spa, Manali",
+      "city": "Manali",
+      "address": "P.o, Grand View, Shuru Rd, Prini, Manali, Himachal Pradesh, 175143",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU6DNdSRG5EKMjkcfBdWf1G_QY0W1aamTvJ9oBId3FxQ9zbzbQc_uPV5SNZLOFSYS_4u0Q2FwtWYVXf4Ea-XNZ4ZsPJqB81KkjJ6gNqo4uHEGvB18YqYu1xCz8lVdtITb0to8NPyQRt2nYHzOtuURytqIAz5JPEfrDFCmdxcPIkg7ij0UsuIJ5D5_I9SJr9qsy5LLgnpxqQZ1kZvQB8S5__6X8P_avNuUgwsGR3_6XYjmP7ez0HE3xlzYCAWEvVqSZb60t66API_ENuxXifoZjcXUci4qa6q6P9eBlO5-8ewUbeeV9OM509CNTeyphyp6ltbTNxYKsO88HsbqzqsI_d_HZLRGMn20e_LUly_5eBNkygSahTBVJJe9tOClDhYB-v59r6O6VB7PHbomlUaD0Pjh-CH9RFtm5TCZi5eBzBIkl_w8_7oe4vaQ4DuvHmU9F7SWLnzXAcpXqr6lmz-MoDkIOXinG66ZvEfHi3t2qB9D_GFux62waksFt5h-wtlfdE8440di7UzuUdDaoluyF8oXsRnoUzK-yIdSOsCie2O1ECILMwUvVI2sZsXJEUeSrnnYR6ZsVJZxG77HpC0S8DxYz7AbbYFMDg8eY91UQFbCg3oOVtlcFOJ5SwTinZfxuWRcyYLrABVteNhNeX4LCpRQXv4sUetsBsRFFczm3Bjt8oZpcEcF87fvSBOQJvcvpAu-aTQajQ640RBID4cFXvzELoP6z4bbACFhABDJXJ8xpW6l8KQCw5flKFV6hn952nLO-EYEWup614nLSJvhb156aQdyuJ7dcYH5wajo-lBLP1xtiVQAE2PAxX48FCP4b7F_wbEzZ36TrzHapNkzSPtAPdx08SHV4ITAqBCS9hojUkUyxibCbpPWx_zt_iMUs9cludGgCwV5C2u1OwBEVlSgr2QhzM6lT2DHYao6kR2SMBTkKzsqJFcPLntGtwihDdsSSLtwbCixVOzli8STuBQQG_u3_gdJUTAojqm2w1zS7PfqTbAr8wMR2RjmzOdy4tgb9va6sKBMszq0B8GGNVq2vSSTTYim-niBs7BYsHt2GElHSWlYkuKwjmg-nH_GYjTWVhnN7Vnx53EuVyLrh0YEQ-_ZIRaw99f9jJjK9PwUBhNEYzuEwLUiybfkwfffpHZBSSxmBGvodU5BOrocIDVIsn8SNj3ZMhThMtowAuejozs7ZiUhlZzsy0VsFJk4uas7LPyz1Nt4I6OOPZfP8EI-Yrz9_g-swxAfi26eMHl2LMuZw8KTOOb-GiZGpq1dy9BeTy2UsDDaLxpuWOTnFtjCjRc1Br0h7lVqrW_MiE5YQlbXKFA==",
+      "total_stay_price": 32967.19,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Superior Room with Private Balcony",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:30:00",
+                "amount": 32967.19,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655b926f",
+      "name": "Woodrock Luxury Boutique Hotel",
+      "city": "Manāli",
+      "address": "Circuit House Road, Manali. Distt. Kullu (H.P)",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUQLaZTRY9xfDz15V5q8aQjvLIkECYW2edwez7dmeQOQPP3w58EsG-g-hipcu_GKrbGcnCEA7Cc9Sj_ezEqxt42iZyor0ZKsUt4Jmg3pQG33sGP-Sf2w__GK3OBizsKvMDJr2SO_pBPxURxXE2lSvdEMZ-u4mwlnoBb4y-koXa4AfXgTUvGbOGMjiiiweyIZknw9MKTYa3j84_XFzlsD6TJYxqMVnJjcE3UKl9Ct-Eqi5gvdp_xbOc5eM70fS1s7FaOrsesYICb_qEwyvDYlWg29BllWP9zegnGZ-WcwYvihi5jRu0OqaEWGh7acoag0mPai62DMd7W73DdMB6BFpunRR7GqLz59TG6MKrI_IU-sETWTJLjrfJL6MGkHWsbU42Tme2H7nl6enJegc3QAonKTkohmwmL4XaoM6eYYutxel4kwsqVvUpw-j2B74gjw0QVqI4EjLUUplpE1AqwAAJIF_ZlsUcjQPXyUhe3XWRTxxakzCGdze8LtR1w_DSLSO978YDv-hNsGA-zzH_x0xMSPP1ua-UPY5ek6cnXLzhYzIPINu2Q2P4v_-DzMZkCnmFX5uXiRXGKs0iNaLidbus7_eVmVCHCCRlZ_V3JWKZXA6vKlEucPSmt3yhg_hNA2zNfNVhrRJuHzZ_TbI4_ci34VMuKLOZOhj-fidppnwmNJOiMVgNrFgshAylho5nlX4Cu4fjPlZsWUaPcwZxTlVsAiYq5C2imsevasMtrTfuEAESwhAqOn1XlDlTm7elcAJjsGTFBgEpkAstcUIN2mGRKoLNZFZFjgvdHfsKztCgn3J9471N2Qmr_zc-9cceyzL4KN2EcAHiHY8bsY3YTRTWCbav4KnGB3Xvwf-IqSR5MNfL3m6xV1spPnZWo85iXRKbUxR9KEPY7KtH5Y1PVbgoRD7CCfTDMsE1kiR9kkfJuIaeZ5hWdIuJd7aY6f1yuM_Tq6lovMKZQNFimSN29Z4EwWd2EIuMYtTZYbGuWK1HhFumQqDGf8x8hjg7gQ1Qz-rZ6oBfjpk2Z8LtnFk1J3Nco3uUSkz33FZEnbgofxR0G-ek6g2VNKY7d1966X2ng9oFGBrt38vaZjuNU-59L-nfGq5enpK7U0K9yT0HBZsKk7Ppn4b7Uh8dSJdKDaSOA-ydhrvZVg7-rYJzDTQ0exhKXclbhPH59aP1bTBI6dVXndiO4NlFsQ==",
+      "total_stay_price": 33960.15,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Luxury Deluxe Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-25 04:29:00",
+                "amount": 33960.15,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655d5fcf",
+      "name": "The Allure Grand - Riverside Resort & Spa",
+      "city": "Manāli",
+      "address": "NH-3 , Manali Solang Highway Bahang , Manali",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU9WGv9WPUrc1d5hzQiVcK3yJHCZ_uSAqzi95EV_VOz1cWdfbdxO6gyAEes4XSjqzquPj0GwYqydmvhX-hGeAVnsAPK4cmfSG1_vSqMNegFMYks4VUbOGVDL8Pmb7TyejNMH-TX1Au8utHrKxp5EoFBjBGxrSQ6_CLz8IEjebGOEp_OVNdcHob0_K3WD0otlO9djWdEI3qlxM_m-NBCan6MST8IyF3gokMEVl6R9OEMJQ89lOZ-uoDcgjXVv-ZRG2Vt79-SNeNSVnCLBG6EhveGW4_ZedvJzHF4OajMDI7n4M4hzAcx73e7huXY5PxyEG64Buwy3bC98yliq9kh6wUcFlk6n6qAfNaFWtm97Id2fslhvGJx5CEPGaDmBpNVoSUGJPJ2S7qNRU8GAj2tYRtwzhkTusbOZUTMMnESIPqB8ih0LJ9itj2sv1AOJ_TdMWcKc4e05fr76uXDLxJ2NcIvFmg6NSKsaFu--NyqB8dYz_e2TC4bLqmU4_wYFl89tohgW8uPWK4RCgWuWS50ZVvMMOOq4Qe9-qIEVyQnvxvuYxg4YbiaMncWOQs5K27SOr7uqlmbHThrsSxDtk9spQU7e-iPi0G59rUs_bDkrqXseRu669BtiofWwSHkaGIQQDydHNbFpB5u8xL54iNvQtW44ASpfr_OjHdVtB0FVCP95ZjVyn8pl2O55LdaK0pkWWTJsRVWnJJACHpf2rWP2qPNs-1jLXRAia0_pd7YFlRRkAj8_dwEo0ngIIIaq2kYIYbPrvrqXeTK_m3HH9bmTDnImt588LOQQpBckEYAkLUl9tZ3CAiVw5Le6vetprVkzE4tpd26TRMoQsUMS5XRm42tGwTab3UgryxBlt_maiGnSJCeWebUz5vYqx8eXm4WMQs6zOO3difYmE_X5xNoLuH3wR0_ZgUYJTRadRIqY5pd7qv-yo_GJPAh-QWJcHSAtxMhaU6QrCx6zWpVOfGsb_JUDK19jmhnfcD00uRvytyh77PTcB3zgkPgxcV8AKSh5W09gjbzoJaQUxhS0YmMT-haT9TeBhB1WAmL1aOPzNmPUK8UEYbdLAqH5G-a-qGunBLeUjjHOJshDaSr14GIxuyksICLA72IIKKVnu2-dpUCVdVJIOVpDcwsrwATvtLANs2FC9QEkNnR3jI94viaMD1_zqWV9lg9RkBLBMHXg==",
+      "total_stay_price": 36348.14,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Valley View Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-25 04:29:00",
+                "amount": 36348.14,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp3fea9",
+      "name": "Banon Resorts",
+      "city": "Manāli",
+      "address": "New Hope Orchards, P.O Office",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUuTW2wDcqPtT3lTVMFcos27PKeBgm5HunWCuhO_H1DtvZKzsU_dLRnxnCricPho1RbhGZXV_QuItjThu4wW2bb8pMO4VcBDxpMgpaUnhHY1IzgfI2g0EkpksK92QSk7wY412rpr664U27U7KMqOWr-x0qBBqqhwgHxpt2zS_G1uRNKRDK93MOKU0jd0KEFN9h_5gmJ7ISGKpvQkHC8p10xDLg9qvMUDCz1h6NEaBfAZisgQHC-1r09DrzC6ruys1cWe4MH8pW8OBNpreTCNIJHuo5iY678ZYng9ZUJg1rNPYKEa4v9f63pqdMxpvyyX4IplTKXGpQYpBQPqh12dkQSjfoVyYoWhsivlnlaMrUlQtu9aOgCX7r_ggrZvC-H8Xt5MhpOGt1QSs5_igipcQvsKsuC0ivzcCtU1eW2Fhb1rRmFKdXJsM2WiNDEOI8HOObP37-y6BGd8m_DVwF9-hjv-MXhmoYK1UnHH-4XqEmyH57RIIOi5Isv3qbA0oYzdcVpyc8z0rvYOkiGF2qyLXBP-Kb3L2mmX1wEQBG13ilW6m5xlxWZqr0-lZaU9gbfnKnIiRIn_Wc-3dD4o4pG26WxFozlallSKb6yLYj3SDJ05ygAaHKSaeZDIQBEJfRqKf-ecyqa23Cn5DZ5O4FRP9I_UvIrysGdWgEz_Dq8j2zdOnkY9hrpHxA94JgVui8tr4vAgk_BWVgSywZAJePcyCd-olW6OpmmE7cO_3hFXAGX-N9YEih3J3u7yE67DwQMqkdRw2im6eUX9SXuP92ioOjv1oPZ5sW5prCpgfSgJmgqtWpmQOpt6h_7qLN6GoTpSnH_-ytJz24FuM2AhTR7xg9aJW7ReV5h_iR3VHwFS_7K4PLraeNVzHJh8gQVssdsrKvyTYAtSNjAUG1LW-uL9jZcLolsUm_-vJ7PmN9cD1fgw-CLc8ZKbkAubAU5H5ISNPXoQDRwRO9Baq_44T55ME15zc50QinEkF4R_2dntKl7Mq2RbSlfXpy8ygc6mbsqhYKS70kcu5H_CL6tqAycrYHgbE9Z_60phe-73YUtR-o1F513F5BpS8PVePL3fiLTyjk25i8U0uQJsYUs4hnoHXqNAzj7bjOyMJsw8Cj60bnAh1E6BauP6-U-J4svfk5V9JUYW8GIQxv2d6_PnxXidy1Gbptvklk_hDeoSJ_7iLyBvpyACJT",
+      "total_stay_price": 41098.21,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Villa Room with Balcony",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-09 04:30:00",
+                "amount": 41098.21,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656c2523",
+      "name": "Bookmark Resorts, Manali",
+      "city": "Manāli",
+      "address": "Log Huts Area Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZURJRjqxokX599_OwtGs3ZbsnHDkM-7dtowklqo0qeZJtNRjOFyRKB1dYPNXB1GH9XWvuKed4k-iBjBwi6Kl2IswWVDR1CjgexYWlENuE6eqmNcVKsBB9icOBHRUg1HtAZfRFfE87baMC5n-E7kelJLhRVZXO_EnortD3i14W7vBFC1DX6I6Z-Kln2f0CqBBz79PY8vvpttvubErDorSfuv0y8faw8pzWB-O1e01JrSC9XMBWCoVI8SBMzvIaJrAHXBkAiRhOYGlBE41fu76mNTtacv4LiZgKCI6FrN00bv1pZXQ5YCJcEM_un1M6Fci9ESr4Oqjl-KDjiIUU1qvfhDLdSlViy1akA8oYzIDj31pRoeHcoFVOzWrqDYbXwdoGPBO_9VbcLWfzhu4xEUDfThrmx3XzoRcQFFmrnoSs-j61iWnZOiyLmQNm2_crpXRjSry6rvs4rO86P3jT0OXmdWOdJOQ4DuypOiyQjCu-o7ZLrXoFwKGs6SOUehcP12rtVHp1pVfB_Mdw18lySYKG7h75kH1mTTTzsP4B533uI2TKwoIEYoxFzudpqeOKm3PThnPDCKF9zAbvHC8sBH06eMSKlmpMv82TbgRlYvk1ZAVfn8Pl1ibJ9TuyIHolugw4gpMp2spTAnSo5kuyY-8JusrxRqZN3zvaVaz2j5a-X1lxpXZCi21oRVENCEXWuDHF5D3-6iNfpWt4HhCILQzhZfpSOES16VSrQIgISyrvQEkNMXCEg_rYBe96KFa6fQ_iZEeW2ZGBHUnMLU4UdyIUgtkn6lnMp7BXoKDg8xMM0WrQz4W4wgrPwmSlF79Lz4kVlCBKeSoMKTEg7xYME63B7l0sHBS19Isi_5Sxbeey3Z1meI6yjvj-yYRDeRVYVOdzj5uudBdthInf5Wpya6AzBnMEl3K9A_3Vc6em-bV_cHI6e4wDPyGzGmrbbdeq-h_p7_Wx0LnUAhVbJ1JhuefmUE9AN4WTYS7CvqhL2FZx4ACZ8tq1L-cbCoHcz6HTTAin-wrjc7lAkOLYVQZrfXmHD5HMmSlzrlwKBj3omX2cYa6413AWKvJNQ_bCCqOv3U6jYo_EjKxBPv5Fg2fYkeTzdHbzjlnGA3NNyoEaTLfKl73p49AybxaRslsKGdwKYSEea62BZDYClWOYPSMY0llZ-vV1CfAZ7VXOuFjJau7PS-XdB5XvKGr1axGg-l7kFjuztTLFGvr91R1mrz81TKyWSFzjNuAe8YqUcgBpeJR5Y",
+      "total_stay_price": 41856.12,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Superior Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 10:00:00",
+                "amount": 41856.12,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 41856.12,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6577f0d3",
+      "name": "The Panorama Retreat, Manali",
+      "city": "Manāli",
+      "address": "Khasra no 755, Village Mathiyana, PO Vashisht, Tehsil Manali, Distt. Kullu",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUfxWI9JQ4gR1cCIicggxN2rovuDfz7YZC8QLp3M_40X9CjiOf491xZKMDc7_UMVwvuorTC2HsfjCAHRs0IwAalLwu4kcQ3eaEubmok6PcPPP6EwsHk5sNBSxA7DeFtRHCy88f71ykgFd4_gMON-Flo_9aje43LaNTmN6fShbYMtlCnhF3GUeMboIiDKmB8Ge6a7boLxcH8aFnR9M-F384U6dN1KHlMVY8b24nXHYMk80z8Wt5AHPZ2cLgHRcbBL_DL7EX688IDvwBFEBozmYfH-s30ruC3eZuqFGhAb1XLBWcW2S97fUEeOGwsIphrAkPMvlqhj_0E4f_SRETDHBDH_CtNwCdMf7UgnsZBA1rL9W5v7Aqeuzt0abi1Akgm51BN9IggvikV7ZbNNa1CvE-iR7d0wwmZOXdOUWkw-UQuQ-466i8p9lrfjAeb5VSjuSOXbxCz0Z7O0kUq5s2ygklAAx2CZ7UutZUIZUdkalLitWQXxVxEuEibOVLxNWTubiQJDrLTjb7O9GFCrwEH7_X4WdxuG0-6Nrj98KypxVq6d1aGPqpHAAvOg37v8zFX9L4IbPtPH-yjfGRvBrCxMBxUys_7UFZnm0SAbikUdG-AJG5j9N1UEOO6zrBetWCgcs1Q8vTuN7MqCmYIqb94W5HbSbi9lm3DraseT6iXuc0Ku6P3VmkGPg0pw21MIlb8aCP04S2NOHlCqKVYHXlsR8zeqxLSwulsPLnAWsocYAPc3pnSbQRum3vfcBhAsgn957hxyoO2-cAUmbwd-YFf3_DaZN4HEMPSHsZerkpjCeYsDq360iPIecO1nEh6ZaDVS-ooSLMLPa2BnRZIujSJJpHGwm_CZWiMTo5-3IU4EoGaboXfLl40gSfA_CUBQQd4SJOqCjFda5n3kn_rvktp7kg5Mrh4C-80tEoXldLpmgjPXfUMSRW65NmzLq3MOvU9jIrCtkL4nEtpWYyZdT71dgtOX-HmXMG_D-WElR0vq0sgxCT8TzVNwZjoKG77RiGojZeSBtKpEz3nkl4L1v0ElCJO2p2irmn-dBjfAcv0GSiWFTmyr8hyi6BmaHcG_gCM022hSXFaKe589xoR91FD0QhujOBQyWCCwc7R-JKD0Z26miFNu7lOPfCXf3iFW47Xn1fqqtuoiC_QWz_IqzMUtp3pbMjpGWakXQk1bGJqNhU_SVlc7ZP6pxwKBjdskfB6YHZak5HbVjTtA-o",
+      "total_stay_price": 42216.5,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "King Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 10:00:00",
+                "amount": 42216.5,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 42216.5,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lpc2a41",
+      "name": "The Orchid Manali - a Boutique Hotel",
+      "city": "Manāli",
+      "address": "Shuru, Naggar Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUmC_foOjNySa5AqE0ZpzddM8fgNHFkeRyIv_QJTspyBZ95Y5wbateul9xL6lInwZrDPU45LY5XLhJHjO02OP3UCxjrmTiK14_K8nSEDRqtXtghPtRc3FOiR-X0ycKcA6vXjHVS-P2Zk-yA59jttcnpCvdFfhaheWee4OlJ00q8cK61_RMLehXy-XbxeemhaLHBs3GyijVSVsRXXqgxtti48_QW6vgVMEFZTC_2AT_bbWrOXLQpUlIgz-IOv9-DvzH0zbq7Sgil_pf-pxjYA_x3JtE-CixbTXE76QyGCvCyALdwlFbtL5H-i18trjco_ejaXkDjdoIgfDwP9GDwxhnRJVWKPuh-CNL0KOSn4i0xIwvF388FYRUYPSwDaGxqNHGy0SdSLPX-IqpiTB_916NO1bacCDoGwBTY6NG2bvjKhED__ZO-4_kWKlGuQGZXFGrRiEaRrhBfEY20v-jk4OH6SYH4xNwkREj0Cqm0QaUxAIUL6W9mK2lCrpMaYV693p0Oh69Y3h2y8fyKMpzeNyByVZqlmdQuqOsIKyeZG05bsWMJRNKe89t7GDov14RsM_Px94Q9AUVKzDlUmxyyq4n0jT1m12auFjPafLWdhvvmv3bQeg5JsV_DR1pN5-iuR8lWfP-r8VWiA-ImXojm-f2WLOm8g03KaEsDTMSD8gTUjBvQzsfQMpnQ7bhB7pRt5fLUQFPyA1PVut5ab_MRUG_I-YAA_bB1WaaDPsfSytW5tiSh36xrrzVE30yWQSveaHsLCEv-6BBQfPVm4-_8WL33HypfdwV3ob_0wbAFMPU00Cy0lmez2ptpDfYMouVKQuanx9yZLDg5YGrrpqg5Lavj5SqUTX5B5dtssngJm6IBzMb0R_PM8kMKa2HD3QNC8LT_mMIlSMfLL5Y6vT0q7VfsNVFoEKJQzXDJSHVN4PQ2OYCqrlhEjqgghU2DU_J3Ta8Lxgs_AoMw9REJsRUwXhTOcGsFhBhG5v31x9cLTGyH8WYgOEnUN_jLr6-7zSeksOJbTlA3w7hI4Sxs6Ht7QXvGSGJnF3xCvhlVkKTvIDWosN5hRVyKfLfWjiYiDSrlt2QbTr_pY_94fbEDJ5WJFbgZyPXERaXIOhEjSJorpk=",
+      "total_stay_price": 44498.58,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "DELUXE ROOM",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-07 04:59:00",
+                "amount": 44498.58,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65748c2f",
+      "name": "Nivasana Manali - A Luxury Boutique Hotel",
+      "city": "Manāli",
+      "address": "Shanag Road, Village Burwa Khasra No. 1129",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUyJfucTg_5tUXcZATuKU-A2dii0yv-9TpLEx-bzgtZzHxqScJnfoygplW-L5zu8LUueItoeficZvF9iJTSnNxoz6464YqnFVDg7v2C7jf4Kd1AXxdEPBN-0a0-BhDfEn7hlxSL7OtuD_UswzVtLSATWXhPQ_fizX_QVuBwLJutCjdwd7TD9tD8-liwLIyKUFDcjVi9Hsk_UXanDEyGXcbTxEr1FIZncGnB6vGsBDx9UBV-Qujbm6zfKIS52sJ8tcC3qWN_nWwoyOvCJEu_QXuCixp-5bsf_YYZI2hdj9awWV7dxzQ80zR_9g6o7BqVBVPUOz-HiDb21h0BwofCumihNAWtRBhA7-eQsMQRP1pZhFKDTiF1vft6Zox_ZOsv7FZeXZAj3tfxPmNDOiE6fMDgFM0GWoqfESmxaLovDL7y5BoupTRhsogL6JZadRV0h2g26k4NmxYCCseHH04iLbGYAa-YvQLcmw4li_Xa_qKgcmASUKTr-4pzlV3CBpZ_btrNSz-y4cCYr7mq1-FxqwpOGLZbn-5LZYnyJrQmAJGa44Iv7dH3N_K1zwOi5IgBq6A_SOZ3rbvWKy1FqJPbjhDJSZMhCL7hX-VD1c-gPARSXnfq23Q2V9oIUk1_AY09zql1Gpb-49_N6IW5EHOExEugGaeAnRI1IpK3AVfobNdoK6wzFEzl2Ei_IsR4MKXQwZDlPZSb0mVeJmxOnosYIUkTflZVVpH5D-qVykXY_zL0CvBqiDcZk1nX3xatEmzXc6qFfOHd0iFewowGWUeHE0kScgylaIGyW-81cE8IptrUNb_bLjTBcovsnZiLWKyAyOLR36Xvpg2AIKbrwn7NikxumxWOZ3SyU5BAD8YpJ2v2BZ_cAwWm-oXdF_bhXYB-3IKjP7LQ7DzCsDFVUlawj8dmBWTIHhKdQ2ai_h4paKVKW4-lWLNPvQ1A5ydp1fOvTnTIfc2PN7UhvD--4QTGNTUw5uhj4u8pzCEB7MBZBR4Jaq43nLAog2-CpJK8Kj88GgDpN5iGgKzVDyQAd6w8fwNqDd7W8VLyEfmYkMdHCh2y6MJRVyfj9J2VOkrktkE5PRdnlNhpnjPFnOElSaKlKyiGh0dLgROgsy_H1uwcDpYX14tnfHPO5ckk_YPZEZevxsA7TumjcCrMxHcl2g3_No5vytNhNAOnEQJzpquOtGXrMcbOzNUmqZstGX8tXfvWB8G_G3FlgXvS9aLGimb_74fY3_1xIE6P8Uv1lwPWe9CImLsYsd0wFtEMXhei-Z_5FDuFNk5Mg==",
+      "total_stay_price": 56460.03,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room with Mountain View",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-25 04:29:00",
+                "amount": 56460.03,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp811fa",
+      "name": "Larisa Resort Manali",
+      "city": "Manāli",
+      "address": "P.O Haripur Manali Naggar Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUm9L3S_-9JaqjBmQqBTCUxPOcIb0otfVj-6l9jjhTYj2N0ApkbixpM9SGPQWngVp-x_jrSI9sUefPdP0UyGG-3MpvfJJTpUibMD6ZU1aqt7FVekriAyAoL5Ump-0qRk3UYTM2Ce8pHCWlOCV1Ip_n6YXu-9TkP6H0gXf26MABfuRQYpMtKMwYz_2fkW2Fn5wZ0Lnmf-IJSFU17Hc99nl4wU8sarQrWaMdi8nkz8MmInLFL69fBFzCQVfZcfWv4xmtwOTjkNNBCll57nNbHAQFOk2wARLB9XiF1lsN7CVjUJqGFPHJ2BvMyOacvGIvOXbFMNSXzEoRZdiy-CLOsoPLeO4PgwmVSbW94QtFJ-4aDxul-sB5Q9p-eGqaIGmSwGQQMChn7JfMnvBAVrwxczdFYLxp44iaIVfS3A5LqaUGQIDpI9hrugRBbgpjs3AN2TSJ2E_dgbBBnbaNqBLBCMvq01g7Svblwl_13THxuvrljdxDE4qQNifkeQ1PzqMmjio4ooR-U70S3JkQ-Mn2zmGb9vC1urYDTtv9O6HpkqJbEwHM7dW4vH2V34bUHRSUiA_0MKz_nr1f0C-hhsMJjTDd_xLGZiLmcuPsC4_7L7Br5pN4eq0q34Wa8dmwSQTaO96sV8lHXkIjLrrdaHPeWTRGCYwNaYzUKZenGJ6GFMw_Z1-vi1WnM3CcAD8df8gJmp-VTPRqvftEqrYE5V9vzxoqjNEdniDQlSV47ExpkMr6MZxgEhAxxVOd5tgk1KDPKhbRD607dhjV9MCbpA6MEXFT4n7BbBn82iK5qNdT7BqgqYpds7r-irGPOo6TJzOQGf9tI3NV-5lTdG0SfFplyRcR-7ZvhQWG808ul509FgqbCm6aLYoIlimQeaYfwlq3FIvfNbRXxbbjeTzBCwEKiyMBPVrb9DCnvbOi6lgnM8t63Y-qArkJckXWC3pqtgL1JitFwURFaD7qdlTCdX_0ohgphq51oYIiykjgLSMK3VFcoES7frRtxXPpGPgq1bjx_sws6xqolIyXEsogZCR5HL_j9BuQKd-msCyHu2qcUSZN-IjIZ9EtAlMHBdY3NwL97U_nydGhnkOTnWfkSY41zxzMtw-IFdipOuZt_m_5XoQUaJl3uuX7SudwBuyJC5OzStetvIfd5WHMD6GV_dltteVDAfPN5jURLBQB7uVW7JwBXe4id9A7MjeLkEnb2uLhlPP-3XmAOcHTZ2KKXuxWXRFAgaq5",
+      "total_stay_price": 62008.26,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Garden&Mountain View",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 00:00:00",
+                "amount": 62008.26,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp73d38",
+      "name": "The Himalayan",
+      "city": "Manāli",
+      "address": "Hadimba Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZU6gVFTJ1IwGpQh6qcY1xEJPpm8LNQmYzY5afWBYu7TR241XcpgGNJ7QUQKX9TwVs_PktDRm1tlzTziNZjVeS25PKyfuN5dHMcykU6Im41IDYCCvSMQ1UQAAsxG1TiYWbHC-qAd8VvWonHaW8ECRk1rwOmv3sYzA3Ghn4s6gkJZ1TQL9Ne9tyn4fPh8bnqeIkL6zUrzwx7FdHUJSsDiLv24XQC0bZpTSw4jH0EY9C29ondISINGwzZuEXwpNUdNSjOuQUHI2lgW7sc1umEbi9KJ_QHB8QkPIPN28WvLQYjxUiu6OoYX49r7X747VFbPb4vUGiYfMRa3Ps3E1tnI7gmbRM0wAm980-B7ardb80b29LGy38DaatR9lmva0X7sc9UQ4hGGaa40FG7UumQmuYGrBQttIn-mbChe0pE36aIJDWuNkZeULGIFOE1Y30jVGEHJRpTBDyvxQJxh6Q-o4PcMg4M-39zkWSCEAfAG6uNODjRlgnuR70kMYxdP9PkzMGGsSZi9uurZx42_z9X6hHvH78HKlFp14ly4gwdnKEOHglsIVzNYwwegtSFOYyonJ4d-olKnF0afBjkXxDj1SduPpOMgNKB3OkIaNMbdvp58GPqzzrcyOwXFifozmkDbPhUySnLilFaqoPGH1twygYChjDgfbC-0vJInlb2a4XoYU7b3cL6OXBJyNMQ2jtkkEGSVwGWILqwWItsAC7GyTb311E-vPjjnqBBsxnSTXnMgSseYhcXVbh7X6hA8EMHUNb3yZ5Bm0ibrM5xJl-WFf7JFS27HF1m8nP_IpbGqB1003dLFe2wwzuYXrZA86ssMRBeYyPHVNPzuwBoEiea_u51iuYPOhg6hFflk7_29lmDbpje65j-RJEmIl2rK5HtpyrnsykG6uAosaXu1fSlSrFWvAq6yY7D67mbd_KWAt43s48BB5KZNfqSax5bk_TvYZ7k8NmPiSb-7e7luQjxrWKwEMN20rYrNpalKucqwTHYVCv1q_6biOOkts2bGWtoY0G4jvl4aiOba_rUE4-Yfl8EEyqwV_l58UnaDbvpaEnnwzY10fYZ9ekyCIMggfH9y__vwjBNhfFx7upYxDRJpa1tm0lvFhWq1CNPucIU7G04FuWnB0IeOwaoVpRRBhVc_7ou3bf9RD8vrBl8nCh3JrXaR2P1zyahZXs=",
+      "total_stay_price": 63191.3,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Classic Double Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-06 04:29:00",
+                "amount": 63191.3,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp658389f6",
+      "name": "GlampEco Manali",
+      "city": "Manāli",
+      "address": "Curve 33, AD Hydro Road, Hamta VPO Prini, Tehsil Manali, District Kullu",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUFytXI3k5CAnnLyb2I0TA9keRONccnXM1czkFY2nM5sj1qj1Ni8OC2hoj-YNqjeEvXyoyFf89G_JktI4-_cZKblu_j9DDBPnY_pjhqlvtJddX6_Umxeo8M6W4CwPs_ODyC7BMSaZTPUP2-QqZU98r4pJ1bYPYDAc2qgJThW5gkkS9RTVrHljwwfEytY0Qgit8hvY21a3_e4Q2qZARVY4xhTAjtRDOHB67bk4UTg_d6HgY_q7ws0I2Z2niz9h_CuJ62lrCewTl7pGn6z1BoXj27YTapOmlAY3Zc8Z_1-c-KMx43HuNSVeuGU67XgdRS42X_bUpRmL-YZhgIt94Rr9usQppIFjU3tjxg9SSTIbUnKmdXbyJenJBt4SMb-t6W-pBprcpfB4OFu_lLEK9NmiNFktywKCqmPz2eGlExWI_nBXUTVAcl5AQ6csy0jEUjtzegfff97lj5_iogGoGMZ1fAXdI2yS3AtFy-41HO6C1QCgHsbOsk1nUFtda-Wxv22t0EH4FR1s3vVFUQg5tC4xVsJSMexDN3j9cXpgeLamFjcbZphPf87cagSGA4DOM7QqBdfOS80sIeXwp1TomVgy3oMcA5W_tPs-eg5RlEeH4umaIPDnJCvC6BO9JJoo7iDF3zq0E_sEPzR7CUWXGTPzH2r-QuRsFn7KYJrfoqMCIGzdEVAIhGPn4x1OF3JMQLNW6TL9QEJosUD9XRPAlBCcqGIp5XBculdg4ery6jnvUnqYtoRsSfQYJnuDK3bEI6P2v4D5HZkfm0l7kolkAWBrjDMPDljGGBcQJmnxZyyBna9S3ooqpjAvjv1auR0E2nnPROrsv4QeUrA5AKJniQ-j7KAB0hlPROY7uJHAfnW91jyibjwaj9jo7jb4Wip6uaItZA_xVUo6ztVhaIFj9k1Hb8tBvLmKz9U9fl3EKF5A1ADh7pGvGzbLN7LJgJxT81fNVrrZMgOGSm2rmbpgOb-u5o75AgdjMJ6IHyqUZ_mKFxlgB_Gf9n-A8HBjkN-um6Y5d_GJZdtM9oAg0fooj9846aoPiCADZcOQ97SerzTdKrNpwfHQ4dNiLRy5iatHcrQRjdXFlNt6fOCVeW4p5xuwHx2EbMKTd-zuSR8KavGi47ko4I8JLMptKbu8EJ4ZycyRQ4GT5gIf09x1aE2CGIwkcxkVbKm5sZV9NjVezMEa3hqta4pUBuQ==",
+      "total_stay_price": 85282.54,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Superior King Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-25 04:29:00",
+                "amount": 85282.54,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp4f6c5",
+      "name": "Manuallaya The Resort & Spa",
+      "city": "Manāli",
+      "address": "Sunny Side, Chadiyari",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUNngObc8NjL7Ix_Ux04VSJtR0K42o2NYBEJvlWbYm1dhhnXr9nEIMYFli_8WngzFDrAhwZczK-dg3BKnfNbBt-kHf9dFv3TnCzOa27vZwaOvivuutsVdzWxFRmw9EN0Mu1YKeYc33dGSiWMDwcALmsQFOgzZBjOB2GVzZgGfG7sSS62eU19yugrVMjgI1Uv39Oaaw4F_8lXeJ4aqdxjMgZ0Ub9JrbrdK02it1EkvpUTylNemLAq58n6OKynyLqCIgScxdAu-cwgAMvwDf8-DYZ_YBRp683NMNWaMzdkG4SXKmvHT-EKM7cJPtnM9cHSW3lopd2q_frOIQXqveHELpvlhPxCn-GKKBBnYvid_wS0gUPBreuIC24wzo4SneYls2EipRfLXR-jAk7Ak1y02Ys1shehk7HqC4Yv-kIOymBV9HLNU7R7t-4C1kXuW2VGnp0ZM_PAVFJXT8UBqxLKNdeA3pZ2TKT6I6u6HhxHpikLjIoUgUFW1EpRNlyFBJ7Hi0RF5MZEwUwMN2ACuHydacTHHTktWro4rK4kkZeFWc-T4SZLgxrP_7b2cSVictECf4IVf_UXJOBNwzYn8sDFZoln7K-3tCi1BiNWcnI0noAAYliJwvvsEAmbIdaldWS7710yEjagM3lESLrjaZu5ikRI_Bf4FRqSb_id0pPQmZ3ht1mUqsWhqq4NMpiG_E0TGz8hcTfaUMib1dkgL83OuWd62xXbr88dEiUZjAqMB76NzNr_RZziUxEOHaUrDXcrIE92q0WARDQWbruZ0PxQ91Och1O9jjK8ZkSPsMfoOWfsU6iuGwz9OyESTVRHGuRj4qj9CRQfcDqG929VgtfeNPVhnyruRaCjYDjELaYdcr9TakrBIItdYT-Iyu0BsYPIiE88K3F9cG-LU6VBVChRaPNABwZp5PJHgIElPgSzkoOtDLZ-dPOakOr_5Aki3AQVTmJ-eHkE3gPHOEu7NBqKcqPnrRQx1Y12jUtlCHDWCPp6yY6EtsVMZlYoNkIRxKpKYVwHpbjHVG5MvRkWg=",
+      "total_stay_price": 103234.0,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Duplex Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lpc70ee",
+      "name": "Baragarh Resort & Spa, Manali- IHCL SeleQtions",
+      "city": "Manāli",
+      "address": "Baragarh Estate ,Village Gurdorh, PO Larenkeo",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUGka2J6m-esT2clddyDhQNckZGXmPFOkyvhqCdrTR7SFOOBS3uk2A5lZblkdj05ea-dyFjI0fqZxXflgcWIECn8CFsVsj9tUSyEEIUcb7wqhvln2TwFNrbmrfJYwZLgzc0lrlXQDcrh9NGEg9rxGWHTsJYB2B0ooMeBEwUjV7hTfILyfCdUzX-P65v8GyCy7v6k2AkSYoOmuAHpgj2MxBTF8icAnKH9AYQXnmIMHx_ZlU2bA4eCPcH1NMTv_aKoGvSUFO-qBWvAr_nI_42zHnmmi4lfhx9X3YsnJZ6DfnYFFmKBSh7mgNhJ5Gg3BpcNo7zyKziPp79TxlODLFW9k4y3cXIm66lEi4kOHxEZ1wPk_CXFXaOPTamj9-aE7U37ekeKVYXqOHUvhJUDiOfVIdAQr-5r8SqI-jOj54dRcqXOZlHvaJ5se3AA5ynYkcBDJuih1GZXDEHZxxm1doCDuIA9nMqtpRgZ0ByrC3OH90Xq2PMRCewofFmjQoQaGt4EXgkhFqTQ8NXINnROwfzNqQZ67RMyXsl-oY0TR1ytJRBsT5F45wm-gioS1EGNhQecie37xhLHqSDCCKC2NDtlAmdO9iVT6ws_pgqLO_Li7Z_uB5yD7aTXCKcYwhhBVzhDLuCnFR5vOyTMnxDHOGiXqAeIprUhKScQtViXwwJG8AUih24P1jKwAf094r7MAwBGl1Q4Q810PeoE5Xkx9pWsTDzB43n3Wj8UKA6Mc3PAMAZRyW_lUVOiZ3Fua1MUIQVUjEJWjlxgpzICnXBkAuv8vmeOlqBjQZW6kr_4IErI54TaOtXWbldBVDhMeiBKLRQWxfDDOnXWYCq2dXgTbFq85DbDUeJUJQpWwk18LYQPjbNcJ37x_iePmIyTmCPOevNFtmXQCJlTFfbja-4FD-ExxZkXg8pE21iYa-WYEfWAtXHwuCnfnSzLkedSpd_pTGhxRu2tQNYcIm-pCFedt6DNZIwwNvyDTNRbE=",
+      "total_stay_price": 115266.92,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Superior Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp7d108",
+      "name": "Storii By ITC Hotels Urvashis Retreat, Manali",
+      "city": "Manāli",
+      "address": "Shanag Road, Near Nehrukund, Village Shanag, P.O. Bahang, Tehsil Manali, District Kullu",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUSCezFsgPYKGqbFXe4Ls9dOXXh0hJ2E1bpnMaNLBN3iMuYHFiTg3QxDJBWsJez0TxZ_iQkh132QinB6NUwimRNQDbt7T8pRgXJfD6cHtCNm9CEYbfF1BmCLgxXUhx-djAFupYMqbhnu2gTZjQ1tOLnoGV0_V8n6YBnf20AywwA2rqyO1oT29ZuCadRZ315H2-n2ah0FfvVCGLKFfcqv0eMthXkXFyMT7BmIltYc7bbGG_1TCAtDMd5NGc9-6UY4xFWGoW25IWT3HIY6s7vSaCFmb_ZC-IA0wdtshBnLbblHTSlFyAyAgqCJfHb5B-npg-DJlFQc-FUaFWXycS7RTEUszOMwEEqVHUrjeR_i9bSavAYc8qq0p9BDADWinMHHGCEM2Hbfl0aCriHyfow1ttQU7G-3FmXhf4capsKY3VyBii3-Fq2GjhQAXO0rbnDdxvhXtc23RHIbh2WMjpJRZQWPN9tKkYjboRppqLUdvx24jxzrtTggrJDtuReJT0FNIXK-wOTykgYpuMDH1VAkcUA4SDw11KPfLG291R3ZITmnheAjAkjVZKvCFAEs9NknDaub0XnDPh56SKp0KM9ovY9B8qz6fV9Y6sU8fPASq3UBFaI3wUJvjDMZ7radNWgritdxEs_QTBsbBKDNQq3Vtr94-uPQkjTB6wo17B0E8q0rDtoiihaBpZkqJ-kBtNOb5rlb0WuJZasWNHvDvyj30NiWoTtoZvSi-Dl-sbAZLvJPcmhVmel568NZhlnT_Bn-fSvv1wRav-lst_wHSWsU56PE3_Ls_FS7m3gmVgw7g8NvU_KlPezDE22ci2wGXxX5u4BcU5phssvVM-3aXsPq_y-DN8z9faJ9o7A0hykdMCuNTmiik1BXgPKQoyinstmmUS_5P4HJDocHdcHxP5-ZsZhCFRoBqSrxznZYnV1OMsiYRgHb6GqqnNCsXDKlqwkf4qLHWlqmKvvnfVzmMIrLN8UCuoUztwEvhJEWPEOwI8qvfijsJsmJBMw18Zw3HqSZ7zVV62e_BeOMc_s-7nrZZovF4svJz8x_R7uLWSdaU0xEkRX_Fpkh4I2IB2lJGZE5PRXEjtnSrK4vB-8lSucs2beLvYLhkXosUnpnVRsCeulm0SL-TnicgkolvF9_hvA41ksnxavTVIPFK3ysI5NJAmULtk9_E=",
+      "total_stay_price": 117325.81,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Brookside Twin",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-24 04:30:00",
+                "amount": 117325.81,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656c3b79",
+      "name": "Welcomhotel By ITC Hotels, Hamsa Manali",
+      "city": "Manāli",
+      "address": "Village Buruwa",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3dZUklf-lYCyJkFlKKuNA-swA0M-VeTANDeMVwJ2c1TglHsCcY7K3AJVBcT_k9NEEoggSa3ROO9QnHZlG3WB1CBnVCNG222NnvRGASFNpu0Qw4j-3OGux9Cu5FPXwcc0_696xAmmnB9EOfYg3y7phcZh-OqRljSvEbkC-5JAnxA8SLBFQFXsmZjeCOkWeaQD5gltz7h_3PaX8hFbzRmpCqULSGwY1njk9F7DpWmRvrl3wwdn841gEJ-NW_yhmA7HYZ3BtVV6ExHpxMa_L71cxN0HI5S-lU2T4jok14HF3z00aRmaTpLjPi_gLQStcLOFo8MlCAUhhJmAko-ohBAzU0VsbseXtJbrEhECJ9fEJXrzOmwTRYMohDOm8dEO_gveM-uDZIxG0vYUq1Y8JG2MG4TL7e332pL8Fj32FBhMdtkjwE8kU1okuX4q2kA8TvHySXbPRkyIdJxQhUjHYESIJ7haFyw9iexRzy8h0kev0D1aq2f5T5Lx-cVTZNmv_FuocGqvpGZkPu-U4o95Kfyoh-MnVIRBVFNdF8RZE5Mgbg1l4Gg_gzJZ7ySzWlyPmpuaehBN5YjbozT8LuP6m5X7BaRrZ2TQE1RnGiXrNUFyHHxf11GkxcKwb7ckpAJN3je2G7WHZeD_PWrXStAI7IW5-ov_EYxB2IkGdF_stccSVi2B6Ov1gV53uvYD30kbymwe5j5lnShvjHvuJE6TOoIOaSaxokUePH7rBMmhUsfNZYD1BZQtWffeDtwIPJOBLGz6UN2-Hm-stdN5-XKB10OlboFQ_BmLEQdF9QbiA-8Ii4iJEv0lvRS00VKFaUJ4eodCf3DX36I37gUacUoCpCHZPPfZvd-VeKYBKz567JguJUmQpR9HU6OluJUOPU0z6z4AgjytUQJo4ruUGKsUUpftupN4Z08Usx34FwQ1vn6dwajH0ZMr8BE8wxIV5dVAIG7DSoOQksfMOdi2wy8jm_ffKWITk-QybP-1Q06ex6xN80lWVH89_eI5iF9mzXYE1NIx7jdcsolfH4KLXOc34Vu0odrTmH-sI_5E0XUBvprd1y1t7ZFruYCCjjBDcTVRb4ig4J1JJxtA17MlqGbfGB6RXQeIabS-kNn0sdPdLveV-3x_uoK-bB8k9PwrdGn6h07cUOw0fcC81rn2CpSb99mTmguHsw==",
+      "total_stay_price": 150189.26,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Premier Suite",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-11-25 04:30:00",
+                "amount": 150189.26,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    }
+  ]
+}

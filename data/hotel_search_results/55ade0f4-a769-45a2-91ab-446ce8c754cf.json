@@ -1,0 +1,652 @@
+{
+  "trip_id": "55ade0f4-a769-45a2-91ab-446ce8c754cf",
+  "destination": "Ranchi",
+  "checkin": "2026-12-10",
+  "checkout": "2026-12-15",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 2,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 2000.0,
+  "total_stay_budget": 10000.0,
+  "nights": 5,
+  "searched_at": "2026-10-24T13:21:44.664175+05:30",
+  "offers": [
+    {
+      "hotel_id": "lp32f0ec",
+      "name": "Hotel Sita Kunj",
+      "city": "Ranchi",
+      "address": "Church Road Near Kali Mandir, Ranchi, JH, 834001",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ9L6Ck42IondU-_naAMoa1eZ_rFwzw-pzTGBu54Eg1543DjIN51l-cmL23xSdg4BuFA8U4wwSTFgqjk82ImtDIS6vlfBF-W7OvWhfKTO8pMlXa3zrjoT37u55TaSGkfKHgmh00ObrkGkVCLeAJ8AmDK5Ec0XnGgKghcVf9acC8un2hG8c3AUGC-XlA-41rDqMm8LhYeRAqmouO7Sam98OLw43o5nuh-wFowThf_y8_568GMbEvo9aBarp9mAe9QF9QlMe3w-C2ss6imt7h18EbQXgUfoIsSiTLGXQifXoA4hvZPB-1NUG4cyWCoYbI9h7Qbc2Jxy1klgJ1sHNwwzW_WQDdEQ_kc98pdTFMFKZMyR7FvAaeZ0Y-OXuuF9ppmKAHb6JEmRJEEDJDtARlYgwivpoeqgE-MhgqOmcwmwClqf7L7BqTV3rMDr-0g0IWYEng08PXtWF6BTIJsixoCkWP3NwfafgHbk-1zCMW0QlCRGCt-YlDqJO5Z5JQTX7To0rLycMe9grBbx4BpsClhINh2GyvoV9IJuBCT-1vNzmP3IgD9YYyaHZTHdwJ_o6BGLXIjM5N_yJ1aWulKExA86PbFSwu1bbZnVvGgU3Qow9G4-dS72ipffZ-c0DbD0V0A6HxTM0u7ctXPNHuWe6we_EdHipNkrWhLa-sn1u0s8ANHFLKQv_11UmDYrVk_OVqqEDoUNJ82Gd4XQEqPgSmz-qYpi33j7mU0uqcEPaEGzParW7gkZ4fw9600t-hWxNSVFFUlOuupkolwTK_B9dsuZoxhFSiJ40gmeX4RXMQa2X9rwjDvsXIJFP0tkaZg1_pybqvDy5u-Xq5fBvdyUMOPUtNigyhSQa56XxL--dQsA6Ixhzyu8QyzAdwu45guBaeymNOx2qIE903WHfbgZkj7ltpNWeOJTruW7M95q92vmG-owd-R0P5onhNXBh8jdkwin9lu9bJZK8zGmc-hqYEbU9Dj0-L72YO2YFf_t6wDCZSyyM0aRCJySZOCPiGwMF3Q9tl6tPug-GPyuP579PFWZvB-WgGJtIPYL8vQJZYmlPi8GSDVpRrVLB-o18QwBwbTeZvTFoleLmkchH9eP2XZR6AONU11_9Nlwgd821RBAn6E9-JmSdodtX8NFQsnCXeR2GYXqPMHiDueHcRVFcF7A=",
+      "total_stay_price": 4369.22,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard Non Ac",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-09 04:30:00",
+                "amount": 4369.22,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp65598eaa",
+      "name": "HOTEL PRATAP GRAND",
+      "city": "Rānchī",
+      "address": "Station Road KISHAN SINGH COLONY",
+      "country_code": "in",
+      "offer_id": "AwJ2MQAAAABq3bUQ_XUhMYT_XXD_0F3mXWppx8CJ7tk9nHnH8vFgxxuAXqwxqP9EsLE_NGojfAZM4p_nZRXrfe7KZKIK_H1-VUwxKYplcMKCfMtuHGO-TWfLXIDyqcSJD2oSOGG_ouCIvwiDvogI1zR-PG6rB91z9AP40NETi0tvz0LmkcaJz8z1BhoI5NSpBdMpKxq1NXvhSGp6frPIkXYVcXiJdb7TBxTvVMB7IrjQHEnV_bub1Ev7kjMp9ioyzta4pgY9DRj-W-4by7QWg8KweRTRk7a4_tofMPLjBlsYrYKFjVuFEHXYMVa2lBrMkgGI19tdZjlVLVNjSaAOgkVIVq-9xqBqRh_QeBpVOMk_XcIVcRELIvSA04hh7svo8ovvwTkHaBGeCw3zHV6lNzciVNPLz8JREgfzL3X_r_w5BaFECmrNtZalJWlYLonKYw2rXmUpwJJO5K75-YQrjtimzDqBhaJGKNFi8SPCfGtTWTDTwX35giMAlie8WU0skyC1kUGZzIAAfJI5WmAa-vFj5tefGkNFSPJCcVfz9DnXNiG9Q_FELf8t5LL-AhAD4Dvhm-8P95cC1q-xNa-QgVO9lsg_oSdVs-JWjDB4iwJXw4ojHviWR-b5pttpXXGSHLbuO9vJhmU-GoDEVTX_A-ovuujhSY117kGzFzJk2g3Se10Zj_7Cg-LWhJwIRKQkR6puNeWB0fNkKfLGI1mK9tmQoySvqr8bsf-KovAPt-0rOjpqtnLUkJABJ9hy-h3Dk_1UIvvI71XA8hvu6fbyXexCZzoQg6f0yrqlxltLI_I-_TXMToILiNR7LFsoS6NBW-RNLi74XUx-9OmkxLQSZaYBItEhrxAP6_yLiCrzoF7UL9qbOg0ZOjszcUfQ6Abw2rDF0eIZZRfXa5OHmSSL-9sv-k-oPYnDpj0Xmi49RgjHTX_1nlHmkv8lwUIRVSTLDtLTLFe889lhsQLAWL-JiiAXBQMfSQVCwsh9kzVNshELdevNua2v6YQ7FOibCuq7h5GRJcZHosuzgvaeMK3K1XrqufWYDrwnPV0tsq6vu5OYxocecGBgazyobOBQoKYSohP8z5I6Tnitx6b1ZKHKQleWNiOe-8WRGZBj4tPOUmIljgSDC7PsnT8F_xNRwj8boKlC10qKCthA-QyQDxPX_gsKNP3yalPSRoeZPObX6-PtoY0_1qSgw379LyMfZsSeKC9iHpzIMPFoOCY98bYxED6MI7JZoMnlWn8M3aMG0RdCQxXqCEWkTp23MvbXo4HxnMTifSIL_0KgFmK2BIHriZRWj4NYIGo42ZmRzF56AgOlblBMWgv9BgF_GzaKOwtBbGej0NzWDz4jrHlEEiegxNUaIRs1SnaFLcOw70XzUG2o06AjBuStL2BhXb4=",
+      "total_stay_price": 4407.79,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Non- Air Conditioning Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-04 10:00:00",
+                "amount": 4407.79,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 4407.79,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp21aed3",
+      "name": "Hotel Arham Inn",
+      "city": "Ranchi",
+      "address": "Mahatma Gandhi Main Rd, Ranchi, JH, 834001",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQM72mP4mz-jlNyWUhT4ICvClflPc3DotseznzFRINbjcCCoieQczO43UAcsGyFSfKrcXnaDSwd5GMAOATrcsWWjor65PTSuk7oBkshOgBvUchLRveGdKxBA_aHy1VHd1wYqykpBaqPSUC4ixhyaV4yJOTSB_zQBHY9QriQy0Wwbijj8EmulSPdnTgCyIqSgjLnInF6FUdx6lzuZt92QT4EwzfRQbI69qluQeiAAqVohkgDE-VNT0hq2TTuoU_MOQOT92EEsbscxuTPzpLtG37KIjVZIgTcufXNDtlGNti_POrrunJG--csSA4O-3y9lyeAm-7NOuSg8PVqH7q-tzgT6Vy5XZWe6t7YX1YwCk08gZEctdshdQzYT5aR8F1n8w5THByH-WOFR3s4D87YxDnNg3jb2JZfpZEuEi4xWGol5KnQxHbX23tlETqz7Atdyqy9WhBfxy-sSPVeJ_Nq3-RaMZhXYOYe8Zv6BdgmlAv2wRzB48ZV1Eb7gH9DfWfOfoRc9pulZS8r3ORgo9guxrISUdO8d9z7z3OWgkNMwzPb3Ft6yOhdq7KXmJEsmMou7l-ngefgXEd52pn1gH5NAJB8u_vTgqvrUu1PFBHSFGWbbWlL9aCMIOC7b3ILebMnt9sW5viFVHGakSHZ2s3YOVkYMZihFEBdV08KCgRCuYWHQzM7hud71HDOOHWb57ivx3BimCWxTQzJaDTRE_g3xYAsLRathjkx8fwKCs1WlIKHFuVDgIkE7zL5zifvi2iEPJYWD5wCMq-fthiS1DriR-8xRmEQTBnL2cJ3lDIQwbVJaRvYiaZVBVrqRBtDn9-ddV0KF0dqh_optOlHlqlH9JeSS5yTpB2G-avESn33LEn-1AAU6vNpCdiAj1mmzUG5ztvX1FEnsROyzT-nzk1H8M1hE_bY11LxFLwfaeUk5KB9FFCdtg_hLAjxeeMep9Fq_DVGLIe-w8b4yB_FhfCrflCrQuAl5YBEVjatB3oLStxLycldQgXACOy-5HBIUUKLzCsZzDQM2y-dsqEr_ZHJoI6xia60e6eANcZl5AO-0s=",
+      "total_stay_price": 5252.14,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657f1458",
+      "name": "FabHotel Sonnet Inns",
+      "city": "Rānchī",
+      "address": "762/A-1, K.M Mallik Road, Near S G Exotica Apartment, Lalpur",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQSMnwlnWxCLl6EdrBahE8PCXxJG0v1XJXGBDEX0O_-0BAVmFNuDlxbxNGCXiGJ30j-goAHvGYiImXJYk9gM5un3Ns1xdqSx0o4Bow93U60jawTsblF5VbO6zlxef1Ab7woM_vZNLHDxF7hNJn_t1BUQ4Dqx2H9q7jAOHMDdBvyNH7VzIQIJFDEw3xJwjNIB1p9u6A3RXV-xxgkJEVyUz51WF9SZxtzEYMwNekmQAr8ld7yX-B95FDbgzk7uEm81RBeTW4IoB_xp476fcjlydAnWxAtjR2vXRxitLfxZ8SD-c8LIJenY65ko8ldMhSj7CR4PnI6gJJoovmOXE-tKF8SGEZA5aaA0wH687fkxprXTvETgCn1P_Y3PJfuA-S1T03h8-oedv3Q72F0w8rEWjFn5A74QxdM6gvRsyDK1gZjjeUAQjQnQ6jfwP_5LfdglhFzjoi8DYhKOouOmzVBuCwoBTvbFl8AeyEywUocPmWx9xIhDh6V_7JFed2-_MyyzKkACGT42-A4JUAqAgAL6tJ7pPujfMkjp6vKrbwoPr4gfV9hzxQnocDE11ZbZTfB-PZgZ9EZ7qtW03r2iywb0RT4oFkhL9A0-kJfSvqHdEsy_bP_IMjebOV89Q8EGbBBIWevWSDJO3XrUc64p_hr9WqjKVGs81uR8V1kBOIpuK_fDvY_uP8kSUTiMcrLqSi_Eh7YJ3q2MX9OTwPy9vW52HCFHBEWc9r6Of37myjX_vMqf7XnvqwSOL1ZVik0nEy_VtnDI9JdHBEGhcaRIILtE-LNoL6ZIs4mll7Ul67Ck2R98-Q1xpAqo0WiMefpWxDyazvIthP84wPMfADSR8aBHm_NDY6GmTepZQDJb5BK5facOGnVnyGFs0cKIyZpQ3iJyJ26-36Ub9YATXF1SSjXyy7uVaR-Wu5T4yr2dTTq034DfDpj0EXW7TYnbLWdl4ekWf3cFszZgi9ixPyx-BUpDmwtVtqpSofpOeHqqbauZfH7LvXVHouD_79MRYB5nJ-2HrJKZvG74QEGlehb_LKGwoF6qbpUZXyTNC2YchrJn8r1i8qozvZs9yYbacYxANlj_MFePHVMNbr4d9FCAJ4MDqyNQvjRFVP0n-QyLehbB_9GYSLOcMkQjdIT-jrOrHyDPpMsP6-YnSzvpQ_-oduvnWfcM__GqJ_Y8WU0uU5B9ZySgsvL0SOcGDskod_2_2y9pJTr5j4y-wp9WRG3SQQ8ALAdaef",
+      "total_stay_price": 5986.78,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 5986.78,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 5986.78,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656bd340",
+      "name": "Hotel Pratap Heights",
+      "city": "Rānchī",
+      "address": "Opposite K.C Roy Memorial Hospital, Lalpur Chowk Ranchi 834001, Ranchi, India",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQcK4Pee3zLa38R5iQ-m3HRqxqrQFn4MKSYJNmkU0ZEd3CizFXpsQE-zj-pbwiwMg3CXSUVD4ytNX6T76WMOhZiVDxQKnrKSRKalhugWVr8XXNMwvkfBqnlSOKbNCgq7LJFM3xSSqpHv4rQimgbQElKmLn8lmtpC12ukGp29hIcoyZnF8dr0N0P0nl-qYxZFUjmeYEQe_UL3XfAG2HACZ2evwFi1DdulT7hpMwWAiXTwA55SU0IDFpfJq6fP3QyN6FVZddP16AdsiTCiZE-VtT-Zd7sMWNKsJ9W5YmMH_2F6_eO8KExpLDpElsLa1DQQRmW_H5C0cqHOYppZgNZSbTz2fOefrHDOXLBRqtFtXJYcT-cUkddqASMZo07g5wZAj_xv4A1uc1meUp6hLRrfUI6dA3tvq_klu7ldiueQ8aY-ZCA1uOkbp_dMQXy3lqLAE6UEpfftkw0es0A55Ys28KplEI0u1XvqVgV8gXPgCOjSF_egsZGxkH4dZhBy-g36QO0hI-bhbuOMfIQIArHNhRkKTPJNobR95TU5cpJ1TsUdLCIsF8jvWV8igoQUkZh_NZ8dRw2zVq2RBw3kkEQ6P3-PkBvHqbmDfmOmP6ipec0GoCkG5CQ1pNdGqSZKXNDnM4tAUtVB58u203_VUQJVupTAY8GnEuoVjX1QFuR-Peplmwp3BUUEKpBn8Y7bYFtFGFEA0kG86NE4vCPDmoLyIz9TQGVwgiMILfiHZ15-4id0ldcEb5M7s70olyoA8yZpCCw3bHi1o9uF0FDDiA2OsAU0l8rVtqpkEEFF6mok8pqGcxM0PSJW5A5v3HjnLG-ojVAEj1VMHbzKnALfejASxhu4wmUzQb5dXNWS5f8uh_WYdgHVZWBt3CD-_ucJK5uc4Rr5LZCN3yhHg0Kcb7C7Bl22CRlJqWlQCYX23_2tIFU5kLHNLmbWEmuJnU5K1TkU-Q09ETkoTUF66SJF2fnmHeG-fFtHlQSlGlVPa7X8-G94paQ-Sz_Gar3ZsZr83sZoSvyJxNn9MBxvMd1s0iMXGtQoT0PL160-wBMi0Jf_hEVOiw4uZSkIxdiogxVrWQ7pb5ZEsP66YuBm5cbsEu50R6VcChNn9cXQ9TWd9IMJHq2VAom3h4As13iSyJ2GChbCpohqdZbZj7PpwVE7-rWbDmPP5Jxks4_gOkwCWPIAwuNw8F-6cvGL0d0LHJIwYygPsxhRN4cWxiAwnkNXrPGzSB-w9_NT6YtNqrNCI1FTmtvJ3hQ78EGfePqLoB9CYMLfBiYARoh5EPP7I=",
+      "total_stay_price": 6034.65,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Deluxe Non- Air Conditioning Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:30:00",
+                "amount": 6034.65,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp1f6c6d",
+      "name": "Treebo B&B",
+      "city": "Rānchī",
+      "address": "0, Upper Bazar Baralal Street",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQKGLb6yYSiGg4_f2HfWaCQPSIlSkwnEnD5MLaU9Ki2SKR9XoDQ-ovrvuYi-kEiLLY8xLfyNq294Jz0xh_7Gzbp4cRb8vMZ3degOWgI5NnC6xAYMogJ88ZostDobN7j0cfGNSEqf6UvvRslNMf6V4iOYaR7Wnbxoi1MICFNk7dvO9f9acPI_7dyRLG7i6tJ7iUrkyOWGyNkIzTNqvC0xIN84r_C-t1U-qBTUSb8FJE85GrntS93mCyxSg01t5SmtZtaXYFyemdQWsy5NRTHJa-_hPCMYWGBzFqIEggVqmUM9z4CxTNHn27HDnHV6htc7-sBsEpajmD1ty1PahRRz8Qa3Q_UAmJy6Lr42Qe_pVTaIh8bv8FzwouVzu5Prxkz4W1Lvr263YdihDGuIWDRvPCqJDXwgH1oNxha-4nAs3fDhHv2bH2nmDHlhQkkAxIXygToC7e8qv1tK4qZAbuaNVGuGgEIKQ-RaClFJlDECov69XgoJaNNgZAMDJhG4Jk1fkiJ0r48OV-cnMC3hnVqPmCLjnYxJX2M-rtIVWJONxEzXN-12dwZ6Gnx1sY5EJB6I4XeTDbvWtsHffn7utDa3LJ9t2TK8MWJROwVnF1LIun1v0sCRXLhM6d0s9eHRbE2rZVmLspstR8OtOF1lVm7LpW2N6rESL6rPaE3ZgYYwyMgrSHlF_T7hh2Qp-cnznyhaQHc1k0ITE4gkuR3PwgVS7VQ83Cprg6gTqkKbO9aP7b_oo_7A6MA6uknJ8KfuNmlHMG89Ad3odGZO4SK2yK4pcW7vCRiGtsMH24rY6SKktiWtTb0SvaJ3bN-xTse16Xwe9gjPXdNyWZgH4HiTrkjVmJ630yq89bHrLUWpbw8ARdPY78BM74zXDnEIr0QlW52ZfBkt7HKm0--VqhGQFj5Il3ZLMCNDvotA28tQQBDprhgaW-mFYMXLIjdBTjVyFCU3pwmIDFPKwVcmkWIQUbSy9JBpdVKXsDl8csJaxneLLYubG2lQWcfqweGxoef_YM276vitcI-3uPo8IFjcMCTu-CB4ae10rmt2v0VF0HjL66FH443NwZcD5KZ-Ij0XReL8QAHLDFBvYa99U2QXwd2um9ZQleeIKHzKcWwS30IWUZGpZE5OO-eFUuaQfWvWfCEGu3It17alep",
+      "total_stay_price": 7752.34,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:30:00",
+                "amount": 7752.34,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6587621c",
+      "name": "Hotel City Palace",
+      "city": "Ranchi",
+      "address": "55 Circular Rd   P&T Colony Lalpur, Ranchi, JH, 834001",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ_Rn5Ssb_yiQZs2AI0d3oLG4jjgL6v5e24uuU0NORROkMzqO8bb0foifQnUJ1EBIBKOO8bKFDfYWu1rZeDDXjh5ZPSnPstJxzYelNjH82TV-CSmKnypDfcHnwFbCNrqQo0f9QuoyquEW8SlUH2PR74V1Ca_R-iGsc4Ft6yCgRB4wKGtmTv3AISWKq45NFd5ku1aFV4oFZ03V7cKtMKIVidD-EJFGIx-hK5rn1vGSgkEhHMoZI0hh6IiNIh62zAcEIYkofWYK33rPD7bIps0VUpAycmsAXYYDN34I4rqv1uU6l-4-Eu9lZUSiHruSRRZjm7whxp4VyhE-hBq2vzmeacVMcnAEUXdAL_AWCBwkYB1ouNQvtdy_dFLD1vVOgjThbOhr9eIjzyVPsGwXTi1Kv3vMBHrucClgi3EP0rrqt1hvLJY-46U6Ss3IgT_M5JnA3Ih4bCgh9cdRq7OMrLyPH3P0JG8jJr_cktdJFV7muyueZu58zcY1HFSK0Rka7MbMX2MNIOzEu-xxnaoxqE9UAWXtHbgPJ0mckGSPIzVUg4RDR5g6siQkn9J9OQ0L_koocoSKTkAbtD7O0wLsMKv_2EHsFuilKfJkxI0OnFE-6AYf7_F2kjrYFMhJADUvZCQeb7mOGcoksMmrspWxWpt-u3--rEAu-sGbpqfG2BdxHkcdjihVA2emd2pu5jTfZ8NzsNqospJLhXgoh5yJ_ciOyrWd7LqiCoSL5dJT7X8rsDRTyVEk_wh_Bd4BHfRrLSxKg9Q2zCmVF7gpuBbmYcZpZLfKXwAC5CVEKlbQu8lspfO22Z5P-ArAv4XiSquI_o_7FV9zlTwYM2EQg5F1ZbRx6KlDuyjAFyRx9qoXndLBi48Rqh_isUgnNrWKFeWhksILnfY_TTRvFPNQQY4op6FES8g4rWHawTsnhYTNeO__Uhqh6yP9Lu-nWkvhsphhw9lqqCCHroNS9MStgkYmRGqsZigJYX-61YXi3JdCleUfPKXDR_-W-GiQW7ox48VEtCufx5wauRgTAf9hE1z4cbRHBL8sCiANJ-WaDeljt4AOXT0WzprG1qUsQ95u0vAd7eplI-Mi_j_IpHU0=",
+      "total_stay_price": 7985.55,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Standard AC Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657d22ee",
+      "name": "The Bastian Palace",
+      "city": "Rānchī",
+      "address": "Sita Compound, Near Over Bridge, 5, Main Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQZvUs0-TuWFm2QaPpE5KvEdjERc3eT2nyzExcmFMpu5zjUNtBRaA-dJluMDnEziiuO8V76v_IJGrvP1-wlgL0sB30-rx_9UKzmgwlNOAbHfQQqQvG0_LUzs3GJgKoIa1KTV5j83MI1ICOsokOolSZ0o06piv6obCXMaon1e9LWWDduh4UGmw0HMlPhaBeECEphQzDvNbMxt3tl-0kKRiZqlqApYB0go3RF4Qqcv8bjaoQ89mSWupWtLqlXjvOeVtsGX9yd7a_uAGi9bpiwDYrjEpJOh6EIrovLZ-gFcibva7sE8L8cLQoCPSYF0YP4rJ4BGZ3xysbFOFxApAuTHNS9CD__npgI_F2wdhygK-jhokZXLlP-JX-xqe8vxk853LEgbE9mSBNaLQk2PsidkdHbzFXL5J2XJBasuF64FgjOalb5ibLd7moReiZsLpDFVcRtFgSFpqpaMsKGQXRlLdOXKN9VavLwlKgSYxUgRIxEkKPLUHWJYOHoEehETI6CAu1JOEuy01wlF1X8gHlG6piUvy8RtAs5Ibg12GsuPMvcF2SqHWoYgdfj00AcKhpTN1tZzc8ezKfYKctD93U1wAoubU1L7bciprgH9fTtuPJqH4MULa70kCBm-BDsBR3YRLAL4uHgtHSBWGpUx8Bm4zGxJEslHYOVm7ycBKYOlCvdLCT14TaTIWb-3OAaV64QoeIeVfOVaPdKv16ypYnyA4dnU9gCQoFDnIQWloedkPwQLuRsHb2whokRp6OQcc4mJldVyUv4VDR6NSV8bIQXBS7UMmDQALkQr4il8OsPgN2HG7ijn9uwsB5kqBesgMgDHgQWL83Xn_HRxw6VPGwm3jbyKimJ-ZPvbKTdU5rTUHbY7Au1Q87F0unbQTqsEPm83K0QTIVwWtOCbL9UnDR3H_iodqKY72eIHNR3GLf6bFPTIrkOejzMi59okoe3YBPO_R16rZEDrGw4_cRp-AvD3nH5-jUIvOUUOwbPOcguimgZERhUxeRBJF6RKbnfOQ3AFLIJsEFnLw2pzU2R62CyC475MBYyrzv9Kedvq6jhwdPDq6_vWn2PYVE5jOSEWyYT108yYi7L7-61SkD6f1Mp79Ab-r1JDicqpUuAyyWTG-5AbIAtwAQft_wae0fNrB_i8r1bXTjT43tHOcMWBuIZi0IJ1UJXeDwp7m2cSBTZ29oik9CG73o04uy5h6xlJCvZUCaGR85s8ZT_nHQ7wnKJw==",
+      "total_stay_price": 8982.54,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 8982.54,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 8982.54,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp1025f4",
+      "name": "Treebo Archie Regency",
+      "city": "Rānchī",
+      "address": "Near Yogada Ashram, Railway Station Road, Siromtoli Chowk, Gosaintola, Ranchi, Jharkhand",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ-E4YsI7BqcMp_-Q3RYyvZsmKaJiIIzFVxoEy48HfTsiwDTwea92x1NJ4hzcJ4kdxOQKIdINImNzpKvQ4PW-4E-VNU6uvBZG6XO-xeHv2BlVy-I7ZOzqUZMIazBymSv-aeud002c3NzSUtMLd257jttisLbURvNEqO7HkHvz8I0frWSIHeALFy2-VtqOjPcW2YuGYnGBFgot9mGJEpON2cePH1x8C9O3BFeUUWw6LXAernHKBBsuU2kdwe1AaaleKWNsN1qQiPwhZyOvGpaRPJ_KZNI1-Q2eLQc3DKZ5gUZDwbPZQrlwKw6bgM5FIB2wCfZJhfSKuXxvXj0JuZydG1wVwQln5rrRJoiN4tv-pDbznStUrl63olY8TzaMolq9xYVBQglpAqE5Ezfe4zIFT5Xy0p3z2aIcmJS3Kt-MwMPZD6WxSyHh0gBpUtwOUw86mgBoTG4OAsCYKpCkHFn7oo96nN7ofpPMlf1tPSa6GYYvyxhZ4GpZ8kiW95eWzCjkthAY0hjMh17qOiZKD0MUJmQxqL03OjzUxjR-YipB5pgg09-WeY41Qjudr8LFKkV46pPQz4YSBvoeHjeIFxabeJ0HqFaaoV9AcTHyDTBkAYWu_nUSAeDPypTN-mYthv_1kGKjjwOznHQyu3DqVsy0z0EakRr_ts690RcTbBVXuOlJmSNjoo7Dfg3mr072fP71LOXEFBJ1nMxB8e4uXI4AInHjTZtzZ4FYvoYN9cExeBejHfglNK0KaDz833tTV06Us2b9Ir9mYwwtbNrCB6cRWEQm96VTfULGP-u963MEr7_YSTJ8j253ACVYq0Bgr8k2ccFvrcq2LBQSe2eqyU2qK6dfK-EI6WsShSw-wV24jlrutSYUkZzS8wKsXO3xaDDTDF-w5Oc4PPtz0hMSzw0KRcazGZvtokjBYf4ZaEEbQxfpk9MewnIdpV6BoRrIduqDQqqV1BVRT3kbuaQpx35xRlSta5aQSuQu7FxPb1mhBYY04KQWzumAoVWCaCfUtcz4HJI4sd_1c7ecolWYBrUeECMJC7K7P_03yKxFKYu_-rfU9KidZefi5N4_Ziee7TuEiL2fGpuhphFEwrO369mfI3--59ImKyt7Su1KUzx-JGDASbfVSCfcsEgeWzb2vGdCJCTCjDO_pPvtxyuKIDvXNz4LMuOr5N3q261jf3B-2XtQe",
+      "total_stay_price": 11137.01,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Standard Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:29:00",
+                "amount": 11137.01,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp339ea7",
+      "name": "FabHotel Palash Residency Ranchi Railway Station",
+      "city": "Rānchī",
+      "address": "Tirath Mansion, 5 Main Road Near Overbridge",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQb3q_ZYtp815TGPGgbRiASsV1UWA0pSWg399PB8fzvgBE5PNoVg0e6WDRCUIHExx68RyLuEmS28pg1EL1UPLFuF7TTtM5acn0FYcu9rWXabKt4FjJzzDd_SUjhm4zYF-MVjr_y0oHXFNAyx_ptALap9vQxBBKwlvkgfHbYktpdVZk38uuFOQW4b1E8bhRHD-gOaz0_yTPF-p9TYRjExiRo6Yrbo4OwKAFZntrSACfV9qYWWpVHEWYEAn_NZQw0_nLuHls997IX5PkhikDJRpcwQjd09LcLgQu4cvvFAqx60aq2baqBXfz43SNPHPjVJQlG0vy6T3nfT-r2JhHLGsnABnydVb2QMDy5-Kb9TUxIhVVWuJkooGLR48MvBns-SDmnFhsRuPy9Cor-2OZixbI4NO9Qy-sG9HwjXpyvTI3kTHK8cDQGlkDD5YGW54UXTLPMdKhGLVmcFl05OYoM11npINy5nawa8N1AdYskvv4-ycJVjCM89mcepgXH86_EWlunnvv8KVa1gz0Nz0UMVgMgIzemdn5K1TmfpQryRs8_aPWfds10vrGHIBsno_7VEEM6sgKEz1wsK7HZFOWhe1mKVVSqnmG_aOZ536vmlFuykQfUX4nYFi1CGrvSUqsnAz3xq0445StiLJN_YDeVdhktQUOv6VzbCwIoDllvdsp373dubm4dH0TAkpU6ZNM1y97OyjmVBWC6RGfSQoeiIxeUF3CivHPT5e8vIobKvrUYF1yAeGelwK82YnkIOEbwcI5vVJG4V58r4WwR-1fXgT1titW1DHVkSkLJaY8cgp6J8yE9GLy0tpI1GszutyV0R1v48fHNYI2KU112I_DCkhl1btdCuTXBteQEwFRmAKUnuPnCpvjxte-nFCSnldfW_vSEbQiI2piWiV4OilmNnxs0NUd9J_FdkrpRfveS6ZvntHAbF0aQ1ILLTRbyi_hzJzMovGSqGMcZxVsfk6sAlMdApiltZ29cyE8OrzDRJdVt8kMt6S5nO7kU2TswP7gwzsv-ROloPqUhX4Dnk3yVExbVkf1hfK_dCOSwmTaGmjW9c6UlC6PsFWBiHJSV3EP8ThdeFUS1eFmr4I8VP6hkk6NP5vib1WVXnimiH95pk93VrY4Ax5rsDYToDvyuNJgdIu5SmZQaYEmzli2sTJkbaaaqCD7YiOwd6aJoOSKbvJlRx7EY5Si4jTr8sVt6e4M3NcencdUbkU=",
+      "total_stay_price": 12140.52,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 12140.52,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 12140.52,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6557bd9e",
+      "name": "Treebo Elite City Upper Bazar",
+      "city": "Rānchī",
+      "address": "Pinjra Pole, Harmu Road, Ranchi, Jharkhand",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQJJU8KPgIfWKlHCqyhJy4o3-NK4UBUYWmtmSv8mgPrSv_vxjl75SmgEzHMOgmcK4hkjBoj_B7weSjfoiOdGTHAbUgmBH3wURrWBP0rjwgjXkAA9cCUBAnDROESMQsJRPDZ3_ThqgOLK8zhpb_y6OAiS5MxhqcSVN0BiM-SgjAQSFfRavA_D8TyyofOV67UmjiipFHSZxu9Q2FY3TBfm2LQQaDYkP6vTQT2DBQvP8GMw_EuG3ILfRLv-Kx_MaqShAJg9bKmANgMzn85yTu5Tn7iCB6lspsevWHyeqdph_r1dfO3TehVHYrfDRnIKPrFvWGNkf5jB-7A0Cu18tG_vt1Hofot6TnHlLjBpZLOJeQzPru5rmP3-T3F62s-7Hs0T5A2KRFVycIYj2Je1sbePVkxOjjS-AuV593NFGkcfYC4NbiyMDvGqBDGZoLDiyRWcyExAu1h7Q0YB5lxH405x4tEHptxxpP4MDwKM9csBb7g92yNPuyxiXPUpV9OgZxuSrZqzwLfjgGZEfYgXMTzes8_CZR25_1FhEZX3-Gu9MM9-TFb-1gA_fTAIipFWzOSLXHcBgtkn1AGmdC9aIsKHLgK39Gm-HsLnvMuHKmOQc0fSL0zEymQ9-HhYeRSGsZnQ1gUipyHhOgwyWtMnuLMu1IFhaa1EJ0m0jOqxuAH4SrllhfthFjqcLmEEMLzZ0BqIg3uYvbtYPctvVH-7stJXPdECM1nTrkqJNklmjnBPROY-xAbcrs7KZcJR4bSxfLc_iDtYK-lWQRBPbT4DCxQ5SWZHikVAA-UJeN1Mwl20ChZGQ4IF3HMlBM3mag2Z_ymlxJANXayLMiQD9EIrPYj5qzogV5HB1ul3_0iaty4tJ-9DfVZLCfZuuJRCJT7t2cFxEMNurDczy8V2yizxDVTtax_r4t_kn_8ACin1jcYApQc4R2SZs9Ldh5tw3eIX_0JhKVdDdw5otjZfwGlxj2A9EjnQ_VuQ4qy7arAx_TRvfDOnN6cqcEovah3wGdFs--ihAeqQ0FtzgEagWalD4d0QRP1DC_bp1BmVe4LYsotvqOj0gGnIhpf4U2Uj89jflpHkGCvEnK7Z4xYeU_I9PYQPPMmEZj1ezqiKQpkmw6NcyyH4drWq34tQfBEqYY6Of2NVmuchNvhSfr92qh7g77uAGDz9g1LmoywAAl63QdwoRqC74m6L4Q0A==",
+      "total_stay_price": 12330.43,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Family Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:29:00",
+                "amount": 12330.43,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp655a7dd2",
+      "name": "Hotel Sohrai Inn",
+      "city": "Rānchī",
+      "address": "Vaishno devi appartment 6th floor, beside berlin hospital, bariatu",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ6qJ5c-asTAa9SBQeYH_EqVPe7Al2c3x0Ocf4AjGlGd-1WrghkT0JVbrIfthmA-ArHPOtzqyUMtM9MvRYPyLDn847cigr6o2lrWznTYwYVXtBHxpu77RfYFS1eu4zZztdwQW1zB978aJbfcLFafReSMIWd9LOLp4ZAQzYICuERURAzDe5WGHded5UZFDX4FfQru6iOxKP0AT9GzjLmMt95tQyqhwg_pDTWxaXc5dPGeqty8FmCASSUpnDezH6ffY8eMcltNrNtcomIWOpanxegOJY54T0_kRfKkxhERpa10ieEJrhO8l0qZKYy_uastMSC2xcyN109d9uE_PuyllmrbzNJGEghMRWHQCS640viDrZdtp7zpOF2lTpXe2LcZG1aDWJVfzImJCKKnRZ-1s3P8NrjZcvhmAWlWl7L9wd3maV3oMUnjLlUDt4l5lDgodbGwJWvint-e-uyg3EN7-Rm2226HDBnLA4sHr-9_zyIie1ui_1AWm-grgFIJvbbX5WxDuwr9P6W2QpWzlX_aky4RSLtoP54nJyeCeX3TdRFGZReOeAk1fxOxWVVfF24SVYbE7lZLNY6HNkNd5mr13YGsxgASShEzNHvIfCaKo2PokBBI02A_WtMbDmQcg7qEYn9ERMU0gJy-dBRsVq2DNgl2IMsWHXQQz3aylike9guA4ksvijgQabsqMH4zw0mEiH3dX1LJZGAqgttn_EgDu35Nv7GRHX1o-YTqMLNfduwUq31mc-63q41DofSPrVyOO1jkmCWJJa3PgFrTKFZTpuqMRA_jlghAgWVZkVocV1P6JbRnmbH4cCmfjb2Qs7IPXL1s1sPiV9OJGiLzwO1A8YO1hlQBdZhp0Yu1DIKGL_25NgQ8t_LFRsgI2oiTx72CxtKl0kTgAqClB1ZTf5_O-_tXL3MsEQBkcsRqzb0WkSINxf9AD7vrR8HqDBZ1JpS3ObHrlif_IhnHBGnJhgG5gZWC4pI88HFlIPBrdAFUEwGrgghhy-TkaT7rxVVXkryZRU4IehFYbIhjaDdFxhRu69OcIZ3s0vF6Q50mHX0wCgaRKZaCtwxgmO4fKw65TGRfC85uEZdvyGNUn-T6ZFIEBrzy-S2E8yIEXBswnvPBppei6ygrz1rfnMKYRfc2COv35Iv30I8yvrUb1QdLLzE69KUoYFJJ2awGshhSKBuoFa5iqSkJk08zND7Yy4lZCzjWdvfo9SIuPuPIyP-YVfHSf22DRwAQ==",
+      "total_stay_price": 14477.98,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 14477.98,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 14477.98,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp657549e9",
+      "name": "Pavitram Hotel & Banquet",
+      "city": "Rānchī",
+      "address": "Dumardaga Rd, Sainik Colony, Ohdar Village, Ranchi, Dumardaga, Jharkhand 835215",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQap4b7snFNa26acQXEmno-fFkmvyRt8jNokbgkql5WUfPyjTNWQ_kUc63X4ho9YB1uDtCdbrhPmn4N9_xEPR4fWEt6n9sVLm6WzOQnjdZnQ_NGt-q2ibwm4WdsRZGtF3fKjdsA_Y7eQ8FOnQ-I3eZNqzYdOCYlQO9bNeONjNcXLxx6yL46fTziGEiHwT32iYuAlAB7OMI-2ndLsea3pBtBL9odTjRKDemAoVQclcxZSHMHdnQO8YABy73wYMZpDs6yiYK_aRe5EL96ckNapahFUO8c1pWjxK1rzqKrXdLEaea2ovip6LEqyU4WDzkGS2gah6xI8-iv8phAfbnFtQdxc9RHWyFLwKkP0N5M86if781hAWeOnZ6s52VHMTPWuwm_mCYBfDlKixmhVNH2e0KU_5DG3vtBCqJRrPC9E5R-cmlkWpf-Tyx4EivQ9AukscB5Z2bwo1US24wJfuJqWw2-JgmZLhMkxMTQXdLO6e5aWN5_VujTJhFqsa_lsL8CLVkYcQ6RCJVK-VsU6nKFFFmvbutTUBUapc3e19B2yPvLJW7TvaXdkQeZUJqDyYBAC9kge0vB9T5D3-qct2omZoegd14-THheZuBM16aiZtbeMQ0-gNFHZ5f8dUie_UlbwUSAMez6eJ-YbcdaP794KBcErNtBG9eWuxj088vnKeuXlZNcyGsPTvqOC0a_aQ6yt--3PijxIGJ8XANm4e2n4KveG7hUhUESIpu6mlikyk38hjZduuBMAlbco4pRb_eH5vpCg7Q5ZBiYl58pMsJNVDRR5q7ZjxpT_bExqICGZIl09FVC2bbJkD4sXD8FapmBT4i4YJ_XtHNO4OuQrqWadu_FvZlLPe6vWyMywSpViPnLj7BkE2YQqhNEhlmwb9Y_N7KzoUWliU89qk81zqMm3DGLpBwrlhKxBdfq1N61WX-2T1v_8JymJbHZgXlwJ9HJBIMT16wyZQm74VPoVOWevxEy6ZHsQ4c53eZ5Dnv1580Sz3D5u2BU2m0Is9G2B6OqET0u9pwlbDRw8TyInB25jRapcx-GXwO2MeI2WByOx6TCH1ABz_fd63MR6HL9Rb2VY8m--xiWGsq8qUHKxBHW2bzj7nC-JxXPA31-w_C5yexL6-j7TDrowBHnC_bPLXkOhBmtja3LZpYmGIhn3Ke4Bu7f2WVA-BbSgynAlRA0qnXH5Sv5zuAMSwPzaRcwGoJfE7C5Q==",
+      "total_stay_price": 17335.88,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Standard Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:29:00",
+                "amount": 17335.88,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656c361f",
+      "name": "The Mohua - A Boutique Hotel",
+      "city": "Rānchī",
+      "address": "Mohua hotel road, Ohdar village",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ4vYsoC84t2ivOyq7_t8u4EaeQappZtlx6uYxXfC7dBvgoTBU0ApTT_pT4ombs5nAwZ2aln4vZ0pzu0KwHEYZvuPjMvSM15bNkHGuDgyUKsHcgMELSaOeHok2EH2zPI9QE_QveLEd_3wuiV2LeOyK8BJefOoxQKKw5q_bLPuRlyVe90OCbPrl4gHSxpo71t9IhUAjlyOmPZuSYXa9D4u-rNNiJQhKC7woE6tjYedcueWZSATFoJaSiO4fDwF3i-KdMB_LNduJkl50qgyYPEnsGviUxzeaiMghDEtQkwzsjDFg3JI6pw7u9cze-6iygxgqOEx3SbukFLd0SGhzNtHD1xIhCN9UQ8JjsmUclCeXyIlBrScgVVxM2xDBBIUYLGtIh3MOFu1vRrgaIglYFTjbmZPMkBhbJvw1iUQ9Clqo3DRxKdsqyUHNldI_UIeu_HlOX1fqqNaSpam4-NpNVu3tLubasjuMsfMSJ2NWlm39Td0Fh0GSch_8U54cukX4NDyEwuQCpXG5gwi37uUJupaRSbrlwf4_Lx_tvbAD0D69vXUrUfMr4fHSC8oGUImENlUSWkp3Ot2qTQjBdcmCcRv2dglKGAJSSwwRrBikv3DtuYB8bk9yzfbZ0hfw56bLiwKeXTfE20XImOYYt2Jm1g65q2C3pYAhYWc3o-vFlTzMTF3UdS2uOYmSloQW5Mo_t_3jJdHLDiD-yqRjAW06lfkp5I9PAfbojGw7GkJcJBOiD5D1r9M0Sdn7B0H0GfQ-m1ac8b6rcoUXBioU1eAWw8Evg5ykGDbHoAsTCbCXqXdNMmfLrZS7PthskJ2bmJcS8DOLJKX4TuHqGg3f0m4nm_cfgum6-Mqsk9FTw-x6YXW1ruMTzQjHGkyEms5KTq8lwCZy7rtr7Ca7x3aJ6ZYYtzEPrJJJbP4pWTmC1ds8pDlmm4wWUaPaRG25-t3WZ-fiDN4L_cP5-Sr2NIOZq5ZYRezjruRQp0gtUFf1toVSApDNu69Zou6xPccgMHh4oUpg4kp00VshhYGDt0h7ckXvaCnWHJTZbfQIQhtPTAZkQjB-HAzll1xJw55Vmm3NmMbLuZt_IX8dmvnF5qq2-Kasof3jMIuvV_qHTvS3hpgVW_NUS2COlyluSAOJ6VjVpDrgutvdJJb8w1BnXgD-rJ5q6z3S2toX39n_o9i6RQWk9CE01wFwBAqPMornidXSKhaDZnit",
+      "total_stay_price": 20926.4,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Standard Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:29:00",
+                "amount": 20926.4,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656bc92f",
+      "name": "Bloom Hotel - Ranchi",
+      "city": "Ranchi",
+      "address": "Plot No 1141 ,Kali Babu Street, Kutchery Road, Near Jai Pal Stadium, Ranchi, JH, 834001",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQG9bFoHGMZJ1r7EV1ev4x96GRfsisnHNZk78AmYjIBujzHUvtwwMY-GrbVD3rNiOinWdpiAuAmyQetluAWJZZJrHs0-F2Wrqu5dT_2Ux_twDqXmLW3egkXCmolancLtgiwv8UKvKP2cIjoL1RaxAikCJSprByk91QegWgiOQ_DCuiu5LY-xVZzseuuJe4oCL3VPTpm0WjCEloTkYwNDAuHdjUjPgGV4tFrUeTECryeNZaw36UX879OdZN5eI-Sz5cQbkAPO7dEnnPYVRJMYwKZj5O-Fi773Ey8kBwvcyik_09cHvynEW3A2f1otDK-JB-li2gRjmL7D5nFTIipUo4MiVUEWAFI-7CnEnd6Ji5bXFxGjM0aih5zzl6R_Z0WK3WGs7eyuW_Oy4HqXp5DiQ8E98efRQ4Wydr9J9VrAhBOc8WwO9lxc0DU3xdwhGuhN08T965piAuhEwW4bn_Hr--wRQAopTwvnlQzmg21M4VPeEH8pD1TnE3X74h5NdPOSUCM1aDkpl7LWwOLxysK7sf34_qKEBor-D1GZe2HlJWBe3Ri26iCGxyJkGiQQuP7DS4zkyCVBcqVKBGXVJdKHFPVJ7JoSir08STXo_AoGi7pl_Kwk4l0LOQAfFmRvbH-CkGnSv9-zY11HZrTJaOWU5DId6XyAOO62vLvzynj8nVHpBQOsAjy9YXGLl1_pottXeYR_4elTkw4kYPVsN8E3L4p-jEp0HyI-D20maBPLeotWw6N2SkjBh42mTOvEy6DO3DOB64fjUy1BYxXS7sOwQP0TBjQiinL8n4TSpWYSC2yLLHiYbCsBmr75dthaHiHrg6ba2P9VtpiEiRdLvsWPAW_8lLfkcrps_IBESFNF8UUHdpab7YZnSRPzmVPVmNwRA4PA2xduBtLhB7Q9OsPJ8q97I9-yhkAXzpbfwXk9-6FM1wAxvXHXEa_FTxYE_XE7dhER_mMOPwbO1dqTtKsYJefSgnsmhK4Yuh_dwDclnPQ0nWUG7U7sWu1RlidVBOqsOwl2Q439LbFznjMAuUQzbyahhwgSlPJ6KHBaLOCw7GwYzwPfDNYg2jlHJbvN_3C0coHSqMliLUyxjQwnA57a44esp0vnEKxCv37PgUKjfqzMfxL2YluXVD_xNCUaGXNag=",
+      "total_stay_price": 27257.49,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Standard Twin",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-07 00:00:00",
+                "amount": 27257.49,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp1904d1",
+      "name": "Holiday Home Ranchi",
+      "city": "Rānchī",
+      "address": "Near Chandni Chowk, Kanke Road Ranchi",
+      "country_code": "in",
+      "offer_id": "AwJ2MQAAAABq3bUQWsQq4mwSbwndZxLkkZL_bXm5qFuw6BdJ8r3y6quBwW12mHKRwflHNWlGIVW0njSoQSeesINbG7udiwOFEwR2ru846tbjynKdBliU8_kF2Xng95w5aztkhLzGM2b8yafPBUD6t0UhMi3mVPVMWL-V0lvs-aPzyEh34iseIchUPNfB4yUHuPFPf-_P8obB5zmKshanRwQS41DI-5MFDQABtMc7a4x4cvIgcXYq7LCy3TZIw90i0mDXqfHyWTAcc2HBV3g-cC1-RfqsRzQmlTGfb1d9uXmnRLH-_EkpUIq_yd0neUjQ3xxGLf3MrfLz0GvjE_n45Dpo5bcyut7HHJ5OyWxqxsGvCO5EgfYqHwwlUHJn5m-_irif5kaeSue4TwMiPaCIwr5xi1kJ0QqZ3zwVclmMJ3D35mEnei66Ubs-XW9i7ldtcVZBeFdICyDeuhfxfkDP1Jal2bmEMMNiYJX13QQVoNY-44ajNNkKCOtabv4mWOZlLptrDX0CjqBseXUm_UOkWzGHJr3Sjh0mOEgz9jh8PsFmjUkaDmA-UvdMhLgXMqAi8O2X-q8w-OvvuAG4Z4k6vr7m0Wzzb2Hq1kCaeVYeGuq7Ce_8162SovS1Ptg9OVk0csJQH0jC4g8zD7Om_f6ZeiIm8doo9sPMz9yR5_qwAVtGILbvwz3ccXN33a7zD-mcdf-dXhn4zIWbY101GUIc-y2nCYYzhlot0YGlbQ-1wa6kJS2Z6jE9UKUoEk04N137fMKuo6XCBc0jTwtzGbKr5VAVwijg_GgBnvtxNiJPNNvL_tr1DINqu9d5BapHwh8M08cpHQmvRN9SeOpqdTbb_riVUDZSXvmk-83hs6IulqTVvPKCm7jB1EvLm3FaP8f80tbMa6lpom_lGWluSlErAaQmZ81BFyG7LxjfN3qVRGphJCyK7GV5WUTXqwfyRsfE7JO9nQrMhEGY_XNivm9JwJ9acStd1_WamPSu3JR_6Abg1TF4rXsMQr0h-nUth3VF1FCEN5zsmh1FOn6xP-BlM-dHZOYjNzrL5CaA4bG_Igk3iiYz61ljsV5pvgQ9qo7XrUs5uLYx7tYonKGbwcU3p4YX1m8S_4wp-GbYUGRCgXQ7Usn2E2YcLrfcRIOzECS37eQXe0yeW_pxfnT6mgtc2jxu-kcNj5zBItJ_5eRXEqRAH7KTZ3ikLY2i-3lRSuMSmQ41",
+      "total_stay_price": 42551.11,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Twin Bed Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-10 00:00:00",
+                "amount": 17020.43,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6587749c",
+      "name": "Ramada By Wyndham Ranchi Bariatu Road",
+      "city": "Ranchi",
+      "address": "Rameshwaram Colony, Bariatu Road, Ranchi, JH, 834009",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ-gS1xtSUUWqJSZsetzO6QS17LvwwaQfsv4awg0LK6JJZ6df_8Rf9skNuSsO0kUIbQwaxDwKRtU-TdD0XrCH3Mauxy986SFeliJNlanaukFkqOqdsMVvndjgX4XpDcqewSPpqJU67Jjdk6d-YzGykPdOT8iz6fPbSsRD2pzrTHbuZTBGvVa5z2v0IfsJM_LIuOYke2PMS0-Fubz2eZ4N14EE3q5agoqVkq42Xljl7cltymAdD8pcvvzs8OXfxJlwX3BCUxx_6OIZW26M2xYr149sWX54oH5-tzBMqNW_LRP8rOat9aAaDfXIpWWIrVPlblgZt4MLU6uaV0Mf05rSYutyF3DnxpKUG5LjX6exxjF1LAt_i-fnVoBggwE1XTSXgpIfSe7XSPoZYr0_EjUOXJG6Cp5MwBPNOR5nvV8KoS_2VTZ6s0IOuepYVmvMKBz-VLdENhZb1tO13vVHu1_jjjB6DoKewurx28eFvLVelDppd8h0H_x3iGYW9flF0x40vOH0n6LhubNmaYgGmX8ck6FnqXAPDOmSuMnD1xKgpp1KXI8h8tDLR-kjfXlm1SrHMAkNvZpyGoRhNAW0DaB_1th_FPQ8kADQi5RZljLwoRlJDb-5PXR2zhqAvKK4VDQ8GlfP5KAzR7ipdMovd5QdA5BnROPaEUkqygEukO0W4p9NwhaMTQyThcwfdGFBNCC1-nOW18E3Vb3yX57S7ONILcCR-SN5WTqCGcBBIUEskP3KLTIs5OOK5NRzzNyOu6zjAQ1wsbIY1IgA0PQlK-UgnZH61TjUpTF4uNWpeGEm1KlZIwpJ93_EUHR1BBeP3vVynZ3060OSXihHzl0tWVaMDN1BLiMjRSSP1jXIm4qbf9fDIx7TvTlvBgHKE0Ez0zZO4pl9Tb0qPMc3BhOrQynKWYZviA4BLNNNB2guJVXtFk41ipJY9E_PFc5T3fwrXNluqjppM26ifvBNM1RI396lIfgBDwm6sGkgpegi5a42WhyCrHz7yDV2ooH7NaNwgHz-6q-z0AEphta8iUQh4L99QyS88XB5Gxp4ky9Vxo_m2i9SrFuI3phQTXANiRX4br_yXbR9D8hqLEb0JpqsNuXqTSM8So6YzqwtJugfm-hATKm-YWZnyZWKpeuKzOIT1w7e1PA==",
+      "total_stay_price": 52340.18,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "1 King Bed, Deluxe Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6585eb03",
+      "name": "Courtyard By Marriott Ranchi",
+      "city": "Ranchi",
+      "address": "Vidyapathi Nagar, Kanke Road, Ranchi, Jharkhand, 834008",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQng5k8J-v1ch6hPGfFO60Le1FrmNKMmUblx7OgqY-hNUOaMR3pMkllr6dzIl9prZl_gKndFEFzt5sM7reMV-ElqwD-OSWb99uUE-ZbUxa9ujOgixhAOmi8rlJZ1vbLp78GrkHAMHPPt03FokDgGHJbTsYBz-xlYg7iZtGNz2VrKX1iqwUyzDIGwJbE9VhhXkOfFW1nAQxASjnQNkeSoCrZ-UBfPpTsOs1bKpaKmITNA5YLcvyARSpoX7LeyojXMcKEMIQGe-vTnWFuj05KYoKBwdRSinEkU66j9fgMK3TRS-2WbwLmvRNVziKCT8OT2tY0aSuQTPTW-fjlacPpHxwwFhLshmXy0aQKXlVOPPnfBPO0RsLd5bVhRuLUlSE91xWiZasAgaBKUZmkopbbxPanp4Q52bs8d_eTk3GnOM5Kjrv66onUnEkNw48f9EFmF_-lWqTZTCisaacL_8ZCS8V7-HKDWA4oMqRi2uKDuKY1Jx_3TQ-9xn-YgUmVnfMQkEt1y7Q7su4tKo2XKKiToxziQ01hoMpEXGojO8BVqnuMqad6fxvPSURqGRH5G4eeu2mWc8Kr2LWfMhwNjKxLlmkgj5CZ5PHRUDY6EJ7X01e_IXigHCWrl1WU-dxW3aJDtRzynwQdc5dMGDdQk4isTo3YbL1HgKyJwFbhCcwJxCuybcBd5M3P4u3caXatXcNpMjJQcsK0srn80HX1TsjUJ4y7zQOLbkXdvGjth3ZFUkE4dHIkfmNrG0h4O_FNdgq38o9qgbHUSUXvgpgW0uVy5i1_AorfhJ57JOf_fVy3G_rSS1vqiK4vRxaFAc-VarPyPl6JfWdkw9PDXuBipKol-2r4K43ITclU2Cxz3tVhAerOWrm6MsZ6eH8kEl7b0sBIAYQJAFumB8hv_TkKI2VbCoPZhudN58DM-xvzL67t42hMgPzgIKUr656VoidIjT7hbiTEQmelCLHZeiFjG5azGvdiGEY5fDyRfopzZq6_1tiMHJ5k77KHVoMXFvqndMlT_2s3TDOWRYEnRAg7DF0myd3lKNO_p7sH6pw19lPOQlbryP5BktC2xC0vJ4pNBdoYwPbbuX5CnqpwNx1IQQI2EXgXSEiJI17L2aADHYIoi1PhAc4Jf6QoQQxXFdGjbuoptv9wSjU_I9wrgYh2GlPXHrhVseCuZ0F5UZU_hooEueJdjj_qERz5ow5eToTPB98LlDHJo6ekn6pvkhBBVFOTs1yI6tbwI1gatt5bh6bO2hLGax6KUFzVQvyNtY4HBIkKCnInsNlHSONYEeVojU-SlEQEmjo5GqBh9Bc4tjnpP976Vga1fY3SOvjhUfFp6aNdo4rcBrzbkci30vqwcZoWsKSOqcquoVDfXKZCUtXSyghs8OZ0_G67VnntJU-Q7UtCas=",
+      "total_stay_price": 61976.26,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe Guest Room, King, Mountain View",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 12395.25,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 61976.26,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lpaa33f",
+      "name": "Le Lac Sarovar Portico Ranchi",
+      "city": "Ranchi",
+      "address": "Line Tank Road, Behind Firaylal Chowk, Ranchi, Jharkhand, 834001",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQV8XLaAzUIt8-CdbtfWTZ_prGSTdzpwWlJ9j9lYeNR1ODNGMC6XimROIibotOVBQ_aF6FxMRSKCpb0OQLjFcBDM94L11svHoCOsMzh2HAg5TAdMNZcuU-XBabYh1OKr4ZL78bY3c1tjjZec24sbOgKKO630H3ePI-xFD_GDEp2UzCEG2PCiSxqnLuw_FHKwbDDJQCYf3gOcssDVXVVWnD6qtbnxnVpbDeGyVf3wjyoZJn4-sdaQ1jYmj6blWRgCn_uqiqT4L2aiHyluN6auL7TlTtttUNe2Ly5Hmzi1QBm8rnlSsyttdDd2XeDPTWBSKUCAnGgKCJkrsySkCIT133K7tU9BhN0V0nNVGt3iG496X5c1jPIQvLvx4HZ2g-EZAgo8Zrk6DxKeN4Cp_UDIUAfShBB0QZGYWQvLjof6aNfLOP3GPEuTvUlwqCjn_jhD_mZy_-UTD7ROw9Icsjmvi5CDYuV00cjfGkfjM2WdzcN2NPrHZIa074ggYVHXEiHqb4PmFliADhMr-W6dQZbTikgqPRw2C9XNUiEFAZT_EifyNUK93nWC-gfXftlTnsGQ71Ouxmvd_rkYYi9D5jjRphhx57KfuzG1WOs_R_blmicMAeyvZPZQWvN1nryHNf_JzY6eme1WD68HZmhlz6fUDoMlvV-w1Vq8UsQF0_JuRwi1AxoAxeH_w6xKZhzwgW1NgB9zr2zZ9EmVMWnSudPMB1VkCy-h1E2o4O66Ychxos4jWcIsqfRTmjhx60frcohi553N6zIuTrS2SshAFlBbpXFMZbQ2WL6WLAGVPXZ-isA8wuLkC9O7mjCAocYMjty8NySQdPB6hNH1a3M3zsBCRdjWSKV9qx6Qa8j8T0jMRvtBapLgp0thpqg7L_71lSUPspec6OsVeIEWBwUW2tIbA_NzifeHTZib8TsQ_9zaon3YI-Mxvmo6krjbdJ6b-SF3saFZnlhEtHc_nwdg4YK3DFXOyfP4WIzUacSnyvpV-ThKQTuadfJIaVpu8vZv7MFAwfScI9M-2x9tVvH4O13oMLLXi7OF6pLUs8gMEsboyPisGHxa774e9YPIPSqpb8MyVn0-bl68EswyYVIbR1Ewts2CXotdoHEnTUXxVx4Y_DoU3xSszfrBBcrwYXp1NFEtYGlbX3NeiwoyUZoT3A_w==",
+      "total_stay_price": 66736.85,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Superior Room with 2 Single Beds",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp5df4a",
+      "name": "Radisson Blu Hotel Ranchi",
+      "city": "Rānchī",
+      "address": "Opp Chamber of Commerce,Kadru Diversion ,Main Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQpa_BOGtAzD8F3HyrfhgyiSdcjupbSXLr5X2T40zWJDMNuWPMsMjZ2Mdnla5glV91PJgPtoY7Jx3xFu27Rvm4TtzW4rl-BOCGGqxl6NurP1usb3xYZ5WFRei8thsAKwrRFxvt8pjOtbc_6iViBsaLTFj8Xm4Pcr146y3z7Hl9kwsgJ9iqiw3AJxgKldit7eGbcgeuxn4ZHRCwBMbO1Luxy2JpVEpAZNFc20BlMQx0d1E6TOquPpNH29tQOz0yU9NsX7klrZgsI1G_CtzKfdOVXsNSjNQgBlQb0fky7E-QmwQO5_pP2sNtxNeaxx1uL93nWFgiv957nhPMnF3NiyCer-MSk8M8kyyHGOysjsNodJwWP7O4HRfgJdmaiLnwS9iqsgSux_fxysS68H1CqMBNyuTsoXk5StxdAnEwCTeGxVMaIsvid_O4325Rg54JNd07sLaclH5XO3gWQVHG1H7cKZeQBqlMVoAhfTLftIMLIcN-1kCdpF15qPaKnnMijKToJqgoXjRkpS2NhumZzqJ0aEsMtAXBADdhaVUODLFnw4BGwlt9Y819Vh9_hI42tC92818r5ltxx1HxCst3eLKV4QB8pMiD7-wt-h9f7fnFLxeqUi8pwUMC5c5xjoWoqdE6CDUswRkx57aKxcMEd8DFswk4S2jv53VfFbh227zgRrrhvZ9od-2G8r1xGEXErznVfM4fxgcidUXHlKOQw44yKlk2nTX5c3jOtNbZfbOMLDSZFZb0tbcZC9AYom6q5f2VHJWVZEjTGK9uxKz0uGc5N7DbRnN-jl4g77VnSIHAKbw7QDCPLoJolSE1bDAYhS6yqmHR6owwd-7IJgObVYoRg7o2P8L6ksR53Y0wxSH34ZzSgq7Pq00OoVLkMGfr5cnYUzTUizcdgYJGcskiPss-pFu0_ro3KP32kTD6yeCcd6jy_jdEDzcXGZeKt7Ycp2aAsQJmLpVqlUa1JW1knjBwtNjdv-BP43Qn0AxMQf8nmai6S6W6qwQaz0X9ARekQFWm-y59hCZLFaEJlK8UIMoH3dQlTfuObkfvqLC9WHApJqXW7jsxJczY8Bf2zKZ4oslnpkJO8r3lTlK78jCeOvn2qazZQkaAbgLwlFsyubk5Bzvof3bUB8aDIuG207i9-nAYUZhY_osSUlmF47jcZqdkQEcOpHEKxKZF4imyJZ4=",
+      "total_stay_price": 128348.4,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Business Double Room",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 04:29:00",
+                "amount": 128348.4,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6580e3c0",
+      "name": "Airport residency hotel",
+      "city": "Rānchī",
+      "address": "Hinoo Main Road",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3bUQ9G50QQLxkM_xkMd4c_VluCWnt11W41yrW2V9VY-QuEZ2kMcd8sNsjdxHyMVF9y04POzSji3SsjxLwIbjqDh7mABJic8eqVV3T9MSLAR9enfRy_2cgVPuNIkDnjAqEzKrN4uhzcIRRuJj2GgdcVN78GuL6jHGYo4l75eEuUzrwbMF_WU5XA4b4w8N0rq5QI9suUmbzMruZM7FagsvqtYtM2ZCE_xqxiDe9i3-5TDZDXB-I7pQNUTrfrqNR_uurdjw8BF91ilV4s9fpKFPJM75goIO06-ymjRnC7KJv8sh6exR2vp0LnRQKcWLkYTdA58PqsEQsW89QleRuLcwxlVUwWJqnSfJLBGmrcbFvTnlVesQt10Z7lOmBO-Y59CvWPv3ml-oNNPbWivEL42V-HC4bRtQMOAzJxn5Y9asPT5snu2RcVDxdwxCWRyDM_4V866W3-fUO9TVZp6tYoLKE9lR5UFBV1FU_poydb1dRw8DwaCo3rV3-n-Kbk_L9l0j36NDAiyNjTe8updB6tlwo2zTdTdwfNIpQEKJLCoXySfcT-YyHsDhImCtbJ25z7FZpzXZPNM0bGL2KAhOhYYqrDqrCKkaSYG1RxDU9ExjCVYBM_do8hXb2Hp3TXAsPhgRThCV0XMSEfwa43jdOOwoKuiqI4psm3HLAABNzeb4LSL362IOBkMHP7u6bd5nBxYIuEONys7DAzWOwW1T6SqwiYcGboyDZUog9zlJlqWNLFpL4VkDs1KRciWab1KnkqCw4QaBVC49AnaCmQ11gxs7SHh_dHWDZk5sVfqZAQ88cp5rvC5B__7jT0wMq9d9vti9Am2yikIR_XnwgFMep5Rrs6ImM5TyqrpwrKnHK55yfqbJe7QU--IRgw3A2m_2ffRajXUTFPFgruYh01YLa7H5DR8i-QYi45wyZnqUhQG-qzk7_Iar8gRA3jAHIosZ-pz63RVng2yHrKMXnsWlqfHupghOJtq0I5E0Qk89WL0xmvb2rJ-EOnuZB8i75DZPBF6X9yegHMbG0MvbjcawUrRVBjQR8c_xo_UXUeQn73JSvjlV3horXCw5WAm8GXzmRVy_PMrpxDhjg_K2GY8G",
+      "total_stay_price": 228303.73,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Deluxe King Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    }
+  ]
+}

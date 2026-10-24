@@ -1,0 +1,23 @@
+{
+  "booking_id": "89943094-29bd-401c-874e-c44ce674dc8f",
+  "trip_id": "70cce597-d526-44a6-89bb-72b358010569",
+  "provider": "LiteAPI Hotels",
+  "hotel_name": "The Golden Crest",
+  "prebook_id": "4lBNTDZI3",
+  "provider_booking_id": "8klRyG-YB",
+  "client_reference": "WF-SBX-86973c813292d4bf3819da7e",
+  "status": "CONFIRMED_SANDBOX",
+  "is_sandbox": true,
+  "payment_method": "ACC_CREDIT_CARD",
+  "hotel_confirmation_code": "test",
+  "submitted_at": "2026-10-24T14:27:23.861741+00:00",
+  "remote_verification": {
+    "booking_status": "CONFIRMED",
+    "sandbox": 1,
+    "checked_at": "2026-10-24T14:27:23.861741+00:00",
+    "checkin": "2026-10-30",
+    "checkout": "2026-11-05",
+    "selling_price": "8509.64",
+    "currency": "INR"
+  }
+}

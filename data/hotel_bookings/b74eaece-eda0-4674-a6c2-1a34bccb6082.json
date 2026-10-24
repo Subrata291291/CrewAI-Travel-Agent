@@ -1,0 +1,23 @@
+{
+  "booking_id": "b74eaece-eda0-4674-a6c2-1a34bccb6082",
+  "trip_id": "17f52c0f-4506-4eb9-92e5-b2a44e6ef49f",
+  "provider": "LiteAPI Hotels",
+  "hotel_name": "Baga Beachway, GuestHouse",
+  "prebook_id": "MUkeSWnml",
+  "provider_booking_id": "1ELLvQ8M5",
+  "client_reference": "WF-SBX-a4703e82daa751f7ab6fb6eb",
+  "status": "CONFIRMED_SANDBOX",
+  "is_sandbox": true,
+  "payment_method": "ACC_CREDIT_CARD",
+  "hotel_confirmation_code": "test",
+  "submitted_at": "2026-10-24T07:23:38.694113+00:00",
+  "remote_verification": {
+    "booking_status": "CONFIRMED",
+    "sandbox": 1,
+    "checked_at": "2026-10-24T07:23:38.694113+00:00",
+    "checkin": "2026-11-20",
+    "checkout": "2026-11-23",
+    "selling_price": "2965.24",
+    "currency": "INR"
+  }
+}

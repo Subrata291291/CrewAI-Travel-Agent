@@ -1,0 +1,19 @@
+{
+  "trip_id": "edbe55fc-cff3-412c-a6fe-8b8bf11bd02c",
+  "destination": "Kashmir",
+  "checkin": "2026-12-10",
+  "checkout": "2026-12-15",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 2,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 1500.0,
+  "total_stay_budget": 7500.0,
+  "nights": 5,
+  "searched_at": "2026-10-24T12:52:52.580024+05:30",
+  "offers": []
+}

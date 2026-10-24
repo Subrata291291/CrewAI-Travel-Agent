@@ -1,0 +1,32 @@
+{
+  "trip_id": "cd4b336b-182e-4cca-adff-570ffb6ea6bd",
+  "destination": "delhi",
+  "search_location": {
+    "place_id": "ChIJ_dw6eXsqGzkRXgM3DlD1ZV4",
+    "name": "Kashmir",
+    "formatted_address": "Himachal Pradesh, India"
+  },
+  "checkin": "2026-10-27",
+  "checkout": "2026-10-30",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 2,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 1500.0,
+  "total_stay_budget": 4500.0,
+  "nights": 3,
+  "searched_at": "2026-10-24T19:54:09.748788+05:30",
+  "offers": [],
+  "search_diagnostics": {
+    "provider_hotels_returned": 0,
+    "room_rates_returned": 0,
+    "offers_missing_id": 0,
+    "offers_missing_price": 0,
+    "offers_currency_mismatch": 0,
+    "usable_offers": 0
+  }
+}

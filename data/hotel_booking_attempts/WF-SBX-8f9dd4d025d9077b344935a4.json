@@ -1,0 +1,17 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "provider": "LiteAPI Hotels",
+  "provider_mode": "SANDBOX",
+  "prebook_id": "OpO_TlovY",
+  "client_reference": "WF-SBX-8f9dd4d025d9077b344935a4",
+  "status": "CONFIRMED_SANDBOX",
+  "created_at": "2026-10-24T05:35:16.963525+00:00",
+  "payment_method": "ACC_CREDIT_CARD",
+  "booking_id": "8117d7f6-68f9-4d5c-aaba-4343d202f4c6",
+  "provider_booking_id": "5AVfHRpSj",
+  "hotel_confirmation_code": "test",
+  "provider_status": "CONFIRMED",
+  "verified_at": "2026-10-24T05:35:22.310693+00:00",
+  "currency": "INR",
+  "price": "4331.47"
+}

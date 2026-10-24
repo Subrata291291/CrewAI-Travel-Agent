@@ -1,0 +1,190 @@
+{
+  "trip_id": "2a465e39-2d2b-41d5-82ed-8016ca6ba8d7",
+  "destination": "Goa",
+  "checkin": "2026-12-10",
+  "checkout": "2026-12-15",
+  "currency": "INR",
+  "rooms": 1,
+  "occupancies": [
+    {
+      "adults": 2,
+      "children": []
+    }
+  ],
+  "budget_per_night_all_rooms": 2000.0,
+  "total_stay_budget": 10000.0,
+  "nights": 5,
+  "searched_at": "2026-10-24T11:39:59.109761+05:30",
+  "offers": [
+    {
+      "hotel_id": "lp657bb9cc",
+      "name": "Baga Beachway, GuestHouse",
+      "city": "Goa",
+      "address": "baga parking near PR enterprises",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3Z02NaUKKXmnoikLa-qk1eZwFb_5hEUVuPQpLkX5vclrNxpAnpT_wkOVWb6zip3GJjiR77F3Lxo9VnLgcVJVO4wabdMhf3ORZmNXP17F9wEb4AZl5nf-I3CXc8QgRKEx66sJvhBdG2OATCS8v_gUUzrkdoOIX0nod2QO3fJIvxa2UUOn2I7SQT01bwCJ0fj3XKF5VHY5hIjZw3Kg_WIlMpPrxf723NF9eqRn1Qnjc9AhaXs2nHqE26HuC5lXaAIhbemVae3Ld6RZoNRrNQA1qTvvUk8iJ3RekZBysJmP7oF6SCO2l_qeHleyXFbR_gsM3jhEPacIqyhxGetqvdolfhI6pr-NOkWwxLuRJNl5vbOrakC9llgO8Qjh9X2apmOlJib797p6S4rKm9F5n5sgK73F68HXwuleDmC_2osynQwqKA6NQYehLJwFe1LnJJHONFQF3QKJhOCFQPCEGp5jFxzFKWljtu1LbTdJ9e6DCrdkbVqlXc2Vv7C3_rHTJ4v-iqEWyX7SEkwjH28kDxNgmlpdHfPJ1O15_X0C-537a2OKPT-ADmzmlmEXceM9LmdKIsppHDFy_JoaUv5dXnBJTT2kOJc0KJWkKaNsN-w1zPz4nBPftIgBJezrKQDuprBoCou6uUxAVttflIeNxtOkNYQ39r3g7paC2oIhYp64oG3UEGEiS5Yz3OPwes2S5_HT0gg8oujNoVTsMaYB8_Ef8288_xSdmvQU1zzDLmTH3ijju_3lyeeuvAlRcWOq0ic6r8UOhYUjcCP9vKwMz3X4E6kDJWqfDVBE--eufok2sIOvqu9eEhk29GV0ZkniZwmtFrXyjnMAv0PpZ5rJg2troe98bOYfUQBXp4YghlOSkQaf8UiMFMY6tDItdmyFp9pl-VPW6vvnixmN-24dmJT7xtZ7z6mQlWHv4hPncdYqfBmiP3XdDccyJGdroqdWUZKaBfVAH7HrbCTzVl5Xtr3tHsu6ote7IX4ZV1EwUbkZxPLwS9ehDApZnsxqrzFfDuz3tOb8FT8x8-a8ooQLvEWdzC0yuGrteD2s_9xK-IdgOY8BrSCVgP2JA5DFJsBt1SO4pJsvke8QnC-E5abkNmQKLXIMDyqZILk857uh9iWUSWTzK0avt_MuOrbmn6JAKpSB3sBaPrnjTQ2uT814xJj4l-gNsgYm4wCqmwAz5Cpi60uUVsQsYz3l2HADxukbKTn0D-tIlwi9SMYvJxhyAl3pG7_czkpsQBClgrjfqEhIipmGcAbJ6D-iOHim4X0A0T3H0DmIdlBKUPNB",
+      "total_stay_price": 6010.63,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Budget Double Room",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 6010.63,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 6010.63,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp6571dc92",
+      "name": "Sort By Stays, Grand Peddem, Anjuna",
+      "city": "Goa",
+      "address": "54/24 Village anjuna Grand Peddem",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3Z02epWZqGkGdbFNLT9gJXWLeu_YCpuKcKf-9hjQJWLkRKjD0WD00lZ51BoqGoYdQVHA4ofgocq3cg1o8KxdMUTQGHlVP_VbkcFm-Elj3UsyBNWW9hOwl7kJtZy2YM0CpmRV5ilXSDoQELnP9NzLzgBWyUhTXtzapPPgt-WNxLOtIf1Vn2KyKwKDa9Ag79IwGkrKajf2mWGmk818witfQIX3oCZ8R9ht6qc4Q8eGo9prdhT-h7QgC9JfHTt4ZXi3GbXOIDQxmLSoyYRubb_rkkMk5AicsX4sSr9d2ZpfB6dKTl7yYueUoIx3ysjzKxb8a6rv6NfFWdRdO85gblDiPhWyEj6gVXdqcsv4EmzGoVYuSC6H6M35sf4BBHv9bwJBNBq2hjd_rIxBDdRTzpYEe9EXvJqF8p_iNSrFMj0I5gbeTKNKv3zyA53QsTZ2y6uo8rYJy7Cr1WKPTJCIzRZcrjH6aRmCO6LMvlqCo8P8N-oTYhnzdfhDNzkYDFhoKpHGdzp237ESAR-z0V5RHEhDJy_AYhnroKWh3jH7KTLxMA9JNGCxs7M7uepCpQzpbl2umfLRQBvFRyLT7gyt4WkNEUjx8Zt2sQCZKiDNygUULDXXSuxdYCPe5YAEXkD_fdBgoDiHMEm7r2r_Pkq7LyzzHGmq9SBARrqFRrLHrCEYq6f2ywHEAEXN-Y3BKSvbNgk0uGx-J16WVikgE6lPXvPSjc6VRYmNUva3deUPefEh2m_vQ6XMTs_VmWa1tkOYuq8ckvCxMeHmVLVIfRxGva_2yzIKemTCpy17RPviDlb82WuYg6-NvDiha2Kykr8AJWmfc8amfEBRDN7yGVmhQvrr3ASCdnGVlOb2rD7UPVX5TnbQMh4GTwG-fZtpwC7jhKZ4MNj9gpc7u60mYpb7TPyEiomdB6Kv_mQS9ZfCwARgGtbfFqpBRlOxFGppt9SkD8OJPJy94fqE5fFp3dE-pYY_lqsuDh2AplyEVmgjUUgXohDeUrnwr4DCxG0zz5kRcutMF-HdAlh8CNqaVgLyK6CIgf3lLTcHX6MrkfclV_Uaw1fq6CmparNEwwo8I5gNeVBsA1iF4fBJd3z70ALYI5_SqwDgc4G3tYv_8Hd9vmzthqfojL7pRZ4rl08FlBS8xcj8mLL4PunrsNh7g9bx4zE78uAjwm3mIVwRrCe3o_2yqVMEpYEmpNKQ0YG4xg==",
+      "total_stay_price": 9531.14,
+      "currency": "INR",
+      "within_budget": true,
+      "room_details": [
+        {
+          "name": "Studio",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-02 10:00:00",
+                "amount": 9531.14,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 9531.14,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp658344e9",
+      "name": "Vistar Holidays",
+      "city": "Goa",
+      "address": "Candolim Beach Rd, Sequeira Vaddo, Candolim, Goa 403515",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3Z02YukZX6t8Xf4rBTPvVp3kyFTxV0MvjSJyWRdLvWcINGGOQqsgydRv7VeU0fYbyKGSWuG-XC4OWwxrL7A3-ijSLqhm7JYJqrY1OFbFWjuVGbvfF6ZsNxTxfiI4h_LN4WEP_EicRgBHyTDpDIo-vt1s45kAy5pz6KUzh6UaPql7M6cq8-SGCiN2JkLSmpuRFPqwBPFQ6Vnq9apsmUnXl3N1QwusoRUplha4nCJwOBsHzAGriMZ2lsC3ionX__6oMs_rda4Cw0s92LB-92SG4pUoN5jkTlH-YMkKIMXY3uLzCtB7qZygtcAW_smdDmylIlR7CVJy7QCah3Vqcjjzqco54LSlgi7jcryUGOdHNS8V5h9PgJ61i2sMfBTetiROy6ZXbpQnvKnM0NvKluYlzYZOwdOJ_f-A3yF3flhng1qaSZ-s1xiCQR4unW1YX5mXNyxyHE3gfNkDVLjg0rz3MW5Sdjus_ixkl_jFuWlfkUsBQXCiGt4t-TLEbLKAX8psn22oGfpnKnukmb-BbKMK_cxPNTeqtdwgLSNcT4oAqFlkvWHby4WDBb4hDTS77kocgt4GgNMbaQAtD9lVuUJrGCR6kF_5W9nvuqZarREw8inAS1-iB6UIjk0qTFrHzVUmJmhHp4g-lELmbMOw0LTXudl2cw8F929a1FaYdCOZbwLoirQazjPTCK6Vce9HttGFyxvxu4ql1kZdL_hnGLEnHEg-nufcCGevo5-Bk4fwL--FTlDiDMt-wyRdcK01F28haoi3tpi1_qe9y55PBFLJ31v9oms9lIgnzSIPWBgI3zks6mD7PenlJ0L0apZrHYkT1Rg5NyjXUUAxaXt32STiB0vtZ0ixRA06JKR-x1FVuQYEsjUIYI0hSfC7QN5zqQ7n_vaHn2Tw21zqIN-x625KAJ4ZQLZ6LeLSXPCzwDcK2UYyu3m3H2slJGQEjStt5YYY4eFKwQGjBV5NmvTSLkRBiyTrB8ct8M1PNP2CD4RFTRzvKuC1qtgM0U27aW2vTtssuZMgiUDb0X8qxlP_YEkSC8C9bUt1obYDp0f_GSXJo0O89SOUhahfsaMS6rJclmjoLqpPSJE1rDcelGetnWjrxK89sfRbXcpfLnGVnaS_JvpTNsjyD73RjDgX7UJ29F6kSBUc7TP7dA_2FUuIajYVB9rcu6Kc_fkMQMnd6rY_pxASWCWwLwmTdcX-tAjiAXiSysBTsb3SWTFRqWRGooVLZZ-40fBe1U--KXuAM6wkAnvOPVYbFzfFpWnt04Lv0sitxmzCYYfbWFjKQOLtSuXZQmrlYhd6jRVkY1e43GkqWBZGGoNq_1AHpfnS2bfL_i7J_mDGfd9A8hLv_Rjxm0HjJLyYRaI40Mo8G_JX4zWlnBsBwtPYQboDZCLgTA==",
+      "total_stay_price": 11563.31,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "One Bedroom Apartment - Balcony",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-08 10:00:00",
+                "amount": 11563.31,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 11563.31,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp85b47",
+      "name": "Kesarval The Fern Goa, Verna, Series by Marriott",
+      "city": "Goa",
+      "address": "Kesarval Gardens, Bus Stand, Edapally, Panvel Hwy, Cortalim, Quelossim",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3Z02a3DT-cEjvDqMf0OexowDhkc-Sy-Q6kCwXu6JLMyv5IelTnpCnXL5XBlNYX9aPYHI1sx6PBpm4KGVW0K-pRgwtKeQ2bIYpTEgBZi6vRdXmn1I-GXp2S_yU-nHfxYRt8IGOPtZOgx0Kqd1uP4_CLGCubFsqU73CkxXdKs7gMXDQ7fIrRlZErp3sQrdp7XibPYVX_zDROy4k__rOa5P1jn2NdK8cVFua264_zf7I4mkaGOJRHsGAy8szqvg7bizFazt25nQzYOTfIFagu5iS-oQLLqko1EOcOCWM10JP--UGPEJUo6uraAYnkkvKeSaCevcLgxqCCS5bnpIhPHzL02H_s21n8o8khImhjdZSdDdvRPKB0yf4ag0YNfW-Lk1gPIFlcFNKQLQHZsK338iEyjS8dyAMum_oUlziJ4_O9GwI7r_iWO9f9ROmthB7lL5Yik0F-rDEPkh8C5MCQiUnnrFcXy2lKnnkunCirWzQZY7WFxqDjLKcMpx3yuW01GNoaK_6D5YTrpqYKnibElayQwDJeyuifBK8egbhom1VF_cHqnxxr7WiwTDmjQPVXoWJNHKbV4x6mQEhV0gzkcLk3Z-xdpO8hOj4jJvnD6PMRS9VpfyJNQpx38SkKaiv4acNuksvQB76wfFxtk1vwLogDim5xoeBg1QD7lzy6F9KLs67rzX2C4jTobaujTnlv2UsGelXupWhpkakjnp_gxESlW3CJ1MHldcvxT5t0H0wrB481n9aUXSVzBZFShEBXF5GjNMf_0BZPPM2e9-rg3ivaA3RlPBFei7U0regMyAwy081Eg1F7oJUIDpbqdNLnQXtixt7OZJiSCj88JlqMXcnXXQb8gMjTyTX6sq6KZLerhNNdrZeGaOuyB9jVzfg_0FOJQWD9D6qznectE06YV6jymK-sE1gms0urAkWeLyMiy9ml2iY1bloeqwNA7nDnjoPVL7zwkKpn2uJ2G-mxrnAN_lBi9_Tok31dQ0Ef03n3EPNnX8_0pelZGli1rjsxqBDG6jIZypdVBMQ-4mog9OWUS-pAfjJCGQd4abgUxs9uNGldo9xJXFs3FIdagf3e1QLTJViUsEo4s_O37oA9JNrJkxdkbIqATmj1zYmxM8apodNzXZbQJpbZp4_LsiyA8s6f_xYCbsBJXpyN7yexPoNpgmJYmjBqdpzfisUjctxu3pubcyyreVQ-uKCBHhDQ6vUj-7ZeHIV0hvCDrzgc1_fGjVpVZtb8kBNjZfOgkL3pxTchGYiOnmnkIyUO_ShcyWQ_mV2wBzs3x4CdFGcVyPM3zzqTGQZVx3OKcEQY5WrYSEiraL4gu7K_r4qePoHPBDYFgUAWLpeSuEIncGz8FVcBLHC1AZ3Sgw6DEPL254vR9RSt7NJHF_qxeHZr62HlfcB4oJLtocGfFv6Rhj4T4u_qv9JnA0k3nmbq6A1ryEolXOyfwh6BOhuXMdoEG4-xelqB7rD5eHmaGj-mOYQIt7iCRQPyEb_jP5pw==",
+      "total_stay_price": 57263.17,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "Winter Green Premium, Guest room, 1 King, Garden view",
+          "boardName": "Breakfast Included",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [
+              {
+                "cancelTime": "2026-12-09 10:00:00",
+                "amount": 11452.63,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              },
+              {
+                "cancelTime": "2026-12-10 10:00:00",
+                "amount": 57263.17,
+                "currency": "INR",
+                "type": "amount",
+                "timezone": "GMT"
+              }
+            ],
+            "hotelRemarks": [],
+            "refundableTag": "RFN"
+          }
+        }
+      ]
+    },
+    {
+      "hotel_id": "lp656ee42e",
+      "name": "Alaya Stays 2 BHK with Balcony & Lift - Veera Marina",
+      "city": "Goa",
+      "address": "Solace, Candolim, Goa 403515",
+      "country_code": "IN",
+      "offer_id": "AwJ2MQAAAABq3Z02UiAIbnBg4QdnSbbfxnyh0naotToFPsZ0JcpC1v5qqDMpxoQnDLKrrGqQZWDAbE2fP3WwQxVcK3CcNhW-LrzkczOiJM-z9OHkFvfR4BScjORqFuT7LNvXn4BZkwOZ_eQb60gCnsWMY_NW-wYLYD3Z2xoT8OYVYZtF7I-OZBJc4NwAaVW_q2hPjmNtW_Z4rL0NYL-5Jy9I5beaq58OqotwYkC5Z83npv0k2eU8P-w4UTn_aMUB40rYg219umnzJio6d5B1iM2h9NkkbZCr09dZFuqQDNLdoJJMkX6RLhxfDsASvyGnD8ZzdeHO6DPUg19VkXegPiS4JiAnrN_3GrZ_kr9MDro_9Zh6Z1DXC6i9vMCKRaPKN7LORefueLIuuiQ5MgxNd2aDWxWAbqnQwwNcGHilQ1azy3cBVP3xV6FMXzxiAuZkAO6_8G25uZYVOV-5JEXTYqeKgmIX9q6RaMVVzYkR1Wb_WjOZzXM241VwutHck9Z55iRqGfzYoG7F9BOXHegZVGyJDQYDESAueBQuRjL7LnF9ZvI9QPRw-yiOuYHtpTCWweWUHo2iFQ2z8638f3y0ZC7HQlrboG9P2b8L4rkTXU64fECqtl4e6IjYtGZPc2-FBTAPrdLAR4weebt0bNj6GO_3TZelqTneNUjeUwk61r1hToj3mG3gmjURR-9dg4Kfv-uSnz7UQC8JnAIIB2uzvNJyd36b6RCojwSU3dhMQdk8tl9bfrqZDPdE5Ty5nz7tsi1BF-rS6mqF75UiYrQ_X-fuOQw9WXYgqv-Ezg31w9tbFx6q-ogaMkaMTScIDlxMgJ7qrzUcAtb2IV1ejdJJimavvDNI0Sj6vcPQN94AjM9VL8ldFL_v5D51OWYWBYUlzHG15MUC2zcQyfobSmVx_yIQFTv1UT-BCJJqJUZaczCMcbWeWU3a7tytY5tjQpGqU7ygpSTN6VPZ2lzsW5MYbxJ0w0fnknWShe6LMXq1Nfx-8z4XAsBgavYOAKzkpo5ujgYAu3Khax6uwBNtUcn8N2Bl36VubGOV2QR4MA1LbHHglZixT0uW0DXXtCfCqZIOS3PxZKOnLRayB0rrX3SZanxo3umj_HR7zgTRlB0wa_xZ8RGN2PvAmMCAwkE=",
+      "total_stay_price": 76798.97,
+      "currency": "INR",
+      "within_budget": false,
+      "room_details": [
+        {
+          "name": "2 Bedroom Apartment",
+          "boardName": "Room Only",
+          "cancellationPolicies": {
+            "cancelPolicyInfos": [],
+            "hotelRemarks": [],
+            "refundableTag": "NRFN"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "trip_id": "17f52c0f-4506-4eb9-92e5-b2a44e6ef49f",
+  "provider": "LiteAPI Hotels",
+  "provider_mode": "SANDBOX",
+  "prebook_id": "MUkeSWnml",
+  "client_reference": "WF-SBX-a4703e82daa751f7ab6fb6eb",
+  "status": "CONFIRMED_SANDBOX",
+  "created_at": "2026-10-24T07:23:33.293610+00:00",
+  "payment_method": "ACC_CREDIT_CARD",
+  "booking_id": "b74eaece-eda0-4674-a6c2-1a34bccb6082",
+  "provider_booking_id": "1ELLvQ8M5",
+  "hotel_confirmation_code": "test",
+  "provider_status": "CONFIRMED",
+  "verified_at": "2026-10-24T07:23:38.694113+00:00",
+  "currency": "INR",
+  "price": "2965.24"
+}

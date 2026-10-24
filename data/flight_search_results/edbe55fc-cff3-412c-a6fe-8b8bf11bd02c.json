@@ -1,0 +1,2888 @@
+{
+  "trip_id": "edbe55fc-cff3-412c-a6fe-8b8bf11bd02c",
+  "searched_at": "2026-10-24T05:14:05.199316+00:00",
+  "criteria": {
+    "legs": [
+      {
+        "origin": "CCU",
+        "destination": "ABB",
+        "date": "2027-01-07",
+        "direction": "OUTBOUND"
+      },
+      {
+        "origin": "ABB",
+        "destination": "CCU",
+        "date": "2027-01-29",
+        "direction": "INBOUND"
+      }
+    ],
+    "adults": 2,
+    "children": 0,
+    "infants": 0,
+    "cabinClass": "ECONOMY",
+    "currency": "INR",
+    "country": "IN"
+  },
+  "route_validation": {
+    "checked_journeys": 3,
+    "matched_journeys": 3,
+    "mismatched_journeys": 0,
+    "diagnostics": []
+  },
+  "data": [
+    {
+      "journeys": [
+        {
+          "cheapestOffer": {
+            "offerId": "AwJ2MQAAAABq3ZAcWO1QRvoBEv9QO4yjto56LTbzBJvsl0A6eQMdRiduprtE9ecyDPwFv_WJNEWVwE9kC5GfRkTQv7nT4jwsKd2Yiij8SLTHzx9lwLgoYfwAJiWOvpDy2ns1N8qykgbe4umZD0h23OuxYGFDIPFGaRS0XuZ7CNSUW6KZUHixzWNouMKVFF8IMdDoSnmtCIU9rR9oZ8I1l6FToBKgqeuA1NflNWJ_xw2QD39de1VB1xrgYTYglfH9AmSuWkqWDk8dICEVqjgM2hp9hpcDVPdHvis0BpYq",
+            "expiration": "2026-10-24T05:24:03.086Z",
+            "pricing": {
+              "display": {
+                "total": 272485.42,
+                "currency": "INR",
+                "base": 204362.98,
+                "fees": 0,
+                "taxes": 68122.44,
+                "perPassenger": {
+                  "adult": {
+                    "base": 102181.49,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 34060.13,
+                    "total": 136241.62
+                  },
+                  "child": {
+                    "base": 76636.12,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 25545.37,
+                    "total": 102181.49
+                  },
+                  "infant": {
+                    "base": 10217.72,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 3406.99,
+                    "total": 13624.71
+                  }
+                }
+              },
+              "converted": true
+            },
+            "baggage": {
+              "hasCarryOnBag": false,
+              "hasCheckedBag": false,
+              "included": [
+                {
+                  "bagType": "personal",
+                  "description": "Personal item (backpack/handbag)",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 0,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "size": "40x30x20cm",
+                  "weightKg": 5
+                }
+              ],
+              "paid": [
+                {
+                  "bagType": "cabin",
+                  "description": "Carry-on bag",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 3251.98,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "weightKg": 8
+                },
+                {
+                  "bagType": "checked",
+                  "description": "Checked bag 23kg",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 4877.97,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "weightKg": 23
+                }
+              ]
+            },
+            "fare": {
+              "family": "Economy Light",
+              "mixedCabin": false,
+              "mixedFareFamily": false,
+              "seatsRemaining": 9
+            },
+            "seats": {
+              "extraRoom": {
+                "description": "Not available",
+                "status": "not-offered"
+              },
+              "seatReservation": {
+                "description": "Seat selection available for purchase",
+                "pricing": {
+                  "display": {
+                    "amount": 1625.99,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "status": "chargeable"
+              }
+            },
+            "segmentAmenities": [
+              {
+                "aircraftType": "Boeing 737 MAX 8",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "eb211119"
+              },
+              {
+                "aircraftType": "Boeing 737 MAX 8",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "edd5f55a"
+              }
+            ],
+            "segmentFares": [
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "eb211119"
+              },
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "edd5f55a"
+              }
+            ],
+            "terms": {
+              "changeable": false,
+              "refundable": false,
+              "summary": [
+                {
+                  "level": "warning",
+                  "message": "Non-refundable ticket"
+                },
+                {
+                  "level": "danger",
+                  "message": "Non-changeable ticket"
+                }
+              ]
+            }
+          },
+          "offers": [
+            {
+              "offerId": "AwJ2MQAAAABq3ZAczFFoSh1QgP7drqa2ozhukvKe-JZrw0AunpSZrjuvoefE6DP0sYVNCipyM7lUAOXppxTqKHuJrbjKYK_FGsQoO1rtMfTiJUhfo_6-KHdi2ajXbGNSxT8EElxvTuNhac_EUTH74Zv4Z_AIryuBWNHVUQuCyK4Y88AZggHD5bItc_y7LSxKNGRbl1aMr1KR5uagAFYFCXcvIP9VseuJQScf5MKKtuNvfLQ6XCCR4TEqXwEmU_E9yvmrOCMHlCQ7rHKWFBLJCjmAH3TzOt-aQ87KUBFT",
+              "expiration": "2026-10-24T05:24:03.086Z",
+              "pricing": {
+                "display": {
+                  "total": 272485.42,
+                  "currency": "INR",
+                  "base": 204362.98,
+                  "fees": 0,
+                  "taxes": 68122.44,
+                  "perPassenger": {
+                    "adult": {
+                      "base": 102181.49,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 34060.13,
+                      "total": 136241.62
+                    },
+                    "child": {
+                      "base": 76636.12,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 25545.37,
+                      "total": 102181.49
+                    },
+                    "infant": {
+                      "base": 10217.72,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 3406.99,
+                      "total": 13624.71
+                    }
+                  }
+                },
+                "converted": true
+              },
+              "baggage": {
+                "hasCarryOnBag": false,
+                "hasCheckedBag": false,
+                "included": [
+                  {
+                    "bagType": "personal",
+                    "description": "Personal item (backpack/handbag)",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "size": "40x30x20cm",
+                    "weightKg": 5
+                  }
+                ],
+                "paid": [
+                  {
+                    "bagType": "cabin",
+                    "description": "Carry-on bag",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 3251.98,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 8
+                  },
+                  {
+                    "bagType": "checked",
+                    "description": "Checked bag 23kg",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 4877.97,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 23
+                  }
+                ]
+              },
+              "fare": {
+                "family": "Economy Light",
+                "mixedCabin": false,
+                "mixedFareFamily": false,
+                "seatsRemaining": 9
+              },
+              "seats": {
+                "extraRoom": {
+                  "description": "Not available",
+                  "status": "not-offered"
+                },
+                "seatReservation": {
+                  "description": "Seat selection available for purchase",
+                  "pricing": {
+                    "display": {
+                      "amount": 1625.99,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                }
+              },
+              "segmentAmenities": [
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "edd5f55a"
+                }
+              ],
+              "segmentFares": [
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "edd5f55a"
+                }
+              ],
+              "terms": {
+                "changeable": false,
+                "refundable": false,
+                "summary": [
+                  {
+                    "level": "warning",
+                    "message": "Non-refundable ticket"
+                  },
+                  {
+                    "level": "danger",
+                    "message": "Non-changeable ticket"
+                  }
+                ]
+              }
+            },
+            {
+              "offerId": "AwJ2MQAAAABq3ZAcjRBcnCyYjSF8CdVGFNpMHvGOSxwp7J_bCyjTwtVFx-lrAcjXc8fd1u-eL7sOzUmwjS8LeDZUkOR5EUYkWAM0kBJ41d1yzSO-kogpQVatssXtB4Jl7UGZDtx-SNQSHP6_VfgYFqnPhLKMcFiGg-iT3yxqQmqkv4yd6usKbybIIDPZvMOGaiXfRHnhYvCRI86V8R6rS841vmaZTUVLtzX3TUzoM2Wrd7DURoIaM3OYfuxHdMawDBPXWes_g7vViey6_PP1TyjLhWO2g3jyDOI9H9MM",
+              "expiration": "2026-10-24T05:24:03.086Z",
+              "pricing": {
+                "display": {
+                  "total": 332300.13,
+                  "currency": "INR",
+                  "base": 249225.1,
+                  "fees": 0,
+                  "taxes": 83075.03,
+                  "perPassenger": {
+                    "adult": {
+                      "base": 124612.55,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 41537.52,
+                      "total": 166150.07
+                    },
+                    "child": {
+                      "base": 93459.68,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 31152.87,
+                      "total": 124612.55
+                    },
+                    "infant": {
+                      "base": 12461.58,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 4153.86,
+                      "total": 16615.44
+                    }
+                  }
+                },
+                "converted": true
+              },
+              "baggage": {
+                "hasCarryOnBag": true,
+                "hasCheckedBag": true,
+                "included": [
+                  {
+                    "bagType": "cabin",
+                    "description": "Carry-on bag",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "size": "55x40x23cm",
+                    "weightKg": 8
+                  },
+                  {
+                    "bagType": "checked",
+                    "description": "Checked bag 23kg",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 23
+                  }
+                ]
+              },
+              "fare": {
+                "family": "Economy Standard",
+                "mixedCabin": false,
+                "mixedFareFamily": false,
+                "seatsRemaining": 9
+              },
+              "seats": {
+                "extraRoom": {
+                  "description": "Extra legroom seats",
+                  "pricing": {
+                    "display": {
+                      "amount": 4877.97,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                },
+                "seatReservation": {
+                  "description": "Seat selection available for purchase",
+                  "pricing": {
+                    "display": {
+                      "amount": 1625.99,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                }
+              },
+              "segmentAmenities": [
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "edd5f55a"
+                }
+              ],
+              "segmentFares": [
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "edd5f55a"
+                }
+              ],
+              "terms": {
+                "changeable": true,
+                "refundable": false,
+                "summary": [
+                  {
+                    "level": "warning",
+                    "message": "Non-refundable ticket"
+                  },
+                  {
+                    "level": "info",
+                    "message": "Changes permitted with fee"
+                  },
+                  {
+                    "level": "info",
+                    "message": "Change fee applies \u2014 exact amount confirmed at change"
+                  }
+                ],
+                "hasChangeFee": true
+              }
+            }
+          ],
+          "isCheapest": false,
+          "journeyKey": "44ca78b8e7538a74",
+          "legDurations": [
+            {
+              "dayChange": 0,
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT11H53M",
+                "minutes": 713
+              },
+              "overnightFlight": false
+            },
+            {
+              "dayChange": 1,
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT11H53M",
+                "minutes": 713
+              },
+              "overnightFlight": true
+            }
+          ],
+          "parameters": {
+            "adults": 0,
+            "children": 0,
+            "infants": 0
+          },
+          "segments": [
+            {
+              "arrivalTime": "2027-01-07T15:38:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-07T08:15:00",
+              "originCode": "CCU",
+              "destinationCode": "ABB",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT11H53M",
+                "minutes": 713
+              },
+              "flight": {
+                "marketingNumber": "4464",
+                "operatingNumber": "4464"
+              },
+              "segmentKey": "eb211119",
+              "originName": "Netaji Subhash Chandra Bose International Airport",
+              "destinationName": "Asaba International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2027-01-30T02:48:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-29T10:25:00",
+              "originCode": "ABB",
+              "destinationCode": "CCU",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT11H53M",
+                "minutes": 713
+              },
+              "flight": {
+                "marketingNumber": "206",
+                "operatingNumber": "206"
+              },
+              "segmentKey": "edd5f55a",
+              "originName": "Asaba International Airport",
+              "destinationName": "Netaji Subhash Chandra Bose International Airport",
+              "stopCount": 0
+            }
+          ],
+          "timestamp": "2026-10-24T05:14:03.086Z",
+          "totalDuration": {
+            "iso8601": "PT23H46M",
+            "minutes": 1426
+          }
+        },
+        {
+          "cheapestOffer": {
+            "offerId": "AwJ2MQAAAABq3ZAcNdg08e9aD2_il6JAjDxMPHT-OcGqEs2XLloY14P2bZlMNHHmyfg5j0nT2TFxZldUdtykbfKy0QhNHBPP7ILKBJVjOJjva5nXSY-DFSE5KPF-4eMkENHlKfQ3K3JKJuPx23BXz-HXEaaKtqkIzLH7WqmvyslXFBTwznrP5ReoEe8udyCXoF-HvvcgipBEp9Seq4qy9OnNQGacveZu1Yr1rQNPuUims35UYavzFNN3hMgCkHvgQiK9kJGc4Bo5Dn4m4YDo_wL0CS-CxG8ltyFMv0If",
+            "expiration": "2026-10-24T05:24:03.086Z",
+            "pricing": {
+              "display": {
+                "total": 258861.79,
+                "currency": "INR",
+                "base": 194145.26,
+                "fees": 0,
+                "taxes": 64716.53,
+                "perPassenger": {
+                  "adult": {
+                    "base": 97072.63,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 32357.18,
+                    "total": 129429.81
+                  },
+                  "child": {
+                    "base": 72804.2,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 24268.43,
+                    "total": 97072.63
+                  },
+                  "infant": {
+                    "base": 9707.15,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 3235.72,
+                    "total": 12942.87
+                  }
+                }
+              },
+              "converted": true
+            },
+            "baggage": {
+              "hasCarryOnBag": false,
+              "hasCheckedBag": false,
+              "included": [
+                {
+                  "bagType": "personal",
+                  "description": "Personal item (backpack/handbag)",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 0,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "size": "40x30x20cm",
+                  "weightKg": 5
+                }
+              ],
+              "paid": [
+                {
+                  "bagType": "cabin",
+                  "description": "Carry-on bag",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 3251.98,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "weightKg": 8
+                },
+                {
+                  "bagType": "checked",
+                  "description": "Checked bag 23kg",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 4877.97,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "weightKg": 23
+                }
+              ]
+            },
+            "fare": {
+              "family": "Economy Light",
+              "mixedCabin": false,
+              "mixedFareFamily": false,
+              "seatsRemaining": 9
+            },
+            "seats": {
+              "extraRoom": {
+                "description": "Not available",
+                "status": "not-offered"
+              },
+              "seatReservation": {
+                "description": "Seat selection available for purchase",
+                "pricing": {
+                  "display": {
+                    "amount": 1625.99,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "status": "chargeable"
+              }
+            },
+            "segmentAmenities": [
+              {
+                "aircraftType": "Boeing 737 MAX 8",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "eb211119"
+              },
+              {
+                "aircraftType": "Boeing 737 MAX 8",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "cdb1e624"
+              },
+              {
+                "aircraftType": "Airbus A320neo",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "e7b29d88"
+              }
+            ],
+            "segmentFares": [
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "eb211119"
+              },
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "cdb1e624"
+              },
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "e7b29d88"
+              }
+            ],
+            "terms": {
+              "changeable": false,
+              "refundable": false,
+              "summary": [
+                {
+                  "level": "warning",
+                  "message": "Non-refundable ticket"
+                },
+                {
+                  "level": "danger",
+                  "message": "Non-changeable ticket"
+                }
+              ]
+            }
+          },
+          "connections": [
+            {
+              "arrivalAirportCode": "JED",
+              "arrivalAirportName": "King Abdulaziz International Airport",
+              "arrivalTime": "2027-01-30T00:42:00",
+              "changeAirport": false,
+              "departureAirportCode": "JED",
+              "departureAirportName": "King Abdulaziz International Airport",
+              "departureTime": "2027-01-30T02:55:00",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT2H13M",
+                "minutes": 133
+              },
+              "overnight": false
+            }
+          ],
+          "offers": [
+            {
+              "offerId": "AwJ2MQAAAABq3ZAc2umuFbG1yNBZEAoNmrDJm6Q23-Uh2O0OmwN2L7eOlOAXWpHJUtkjZjALQFM-Ht-ModHuxM06QMkNFvOQEiWo0EsxNcgrZCreIyX1gYWRg9A77wOxQjSW2yXC2LSlj1lW-BHjccvaIpYtJAd7Y14s7Grk_kWCkpcvNKkWJ5W2aZp0GgKYFepcpgLvmDfSN3jiH8to99gw3IoipFQaRdCVsyTcZ3y-jtOSU0jR0YAvKpDf_SR8bZEJqcWBp6jtZNXoBVPZZD2tfeEvbVkaGJg7zUeC",
+              "expiration": "2026-10-24T05:24:03.086Z",
+              "pricing": {
+                "display": {
+                  "total": 258861.79,
+                  "currency": "INR",
+                  "base": 194145.26,
+                  "fees": 0,
+                  "taxes": 64716.53,
+                  "perPassenger": {
+                    "adult": {
+                      "base": 97072.63,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 32357.18,
+                      "total": 129429.81
+                    },
+                    "child": {
+                      "base": 72804.2,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 24268.43,
+                      "total": 97072.63
+                    },
+                    "infant": {
+                      "base": 9707.15,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 3235.72,
+                      "total": 12942.87
+                    }
+                  }
+                },
+                "converted": true
+              },
+              "baggage": {
+                "hasCarryOnBag": false,
+                "hasCheckedBag": false,
+                "included": [
+                  {
+                    "bagType": "personal",
+                    "description": "Personal item (backpack/handbag)",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "size": "40x30x20cm",
+                    "weightKg": 5
+                  }
+                ],
+                "paid": [
+                  {
+                    "bagType": "cabin",
+                    "description": "Carry-on bag",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 3251.98,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 8
+                  },
+                  {
+                    "bagType": "checked",
+                    "description": "Checked bag 23kg",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 4877.97,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 23
+                  }
+                ]
+              },
+              "fare": {
+                "family": "Economy Light",
+                "mixedCabin": false,
+                "mixedFareFamily": false,
+                "seatsRemaining": 9
+              },
+              "seats": {
+                "extraRoom": {
+                  "description": "Not available",
+                  "status": "not-offered"
+                },
+                "seatReservation": {
+                  "description": "Seat selection available for purchase",
+                  "pricing": {
+                    "display": {
+                      "amount": 1625.99,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                }
+              },
+              "segmentAmenities": [
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "aircraftType": "Airbus A320neo",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "segmentFares": [
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "terms": {
+                "changeable": false,
+                "refundable": false,
+                "summary": [
+                  {
+                    "level": "warning",
+                    "message": "Non-refundable ticket"
+                  },
+                  {
+                    "level": "danger",
+                    "message": "Non-changeable ticket"
+                  }
+                ]
+              }
+            },
+            {
+              "offerId": "AwJ2MQAAAABq3ZAcxopMZiT8Dm5E__NHdC7VbsmVNE0XjrUB8rrbx8El5RxFmVxEH3G_UL8fzn5kapMiise_DnycyuTzRzfhtFZ8bQQQITS0Rf2GdAmZ1Z4t4HceASyeX5D6Gsg3l4GECuGZK1BomepI47yKtQv0rYyMWQT91rMDstousKWrT1FdONBe5S9mVA8F5EgwuMkiaTK4ARFkjXV_V5Bwi1PdfAMIVythlepLiuezYpP8MMYs0oeOlacZnJ8GpaNItnwMyhj3VOYYum98GnuBsVlvYEtP-1Lf",
+              "expiration": "2026-10-24T05:24:03.086Z",
+              "pricing": {
+                "display": {
+                  "total": 315684.69,
+                  "currency": "INR",
+                  "base": 236763.52,
+                  "fees": 0,
+                  "taxes": 78921.17,
+                  "perPassenger": {
+                    "adult": {
+                      "base": 118381.76,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 39460.59,
+                      "total": 157842.35
+                    },
+                    "child": {
+                      "base": 88786.59,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 29595.17,
+                      "total": 118381.76
+                    },
+                    "infant": {
+                      "base": 11838.28,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 3945.73,
+                      "total": 15784.01
+                    }
+                  }
+                },
+                "converted": true
+              },
+              "baggage": {
+                "hasCarryOnBag": true,
+                "hasCheckedBag": true,
+                "included": [
+                  {
+                    "bagType": "cabin",
+                    "description": "Carry-on bag",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "size": "55x40x23cm",
+                    "weightKg": 8
+                  },
+                  {
+                    "bagType": "checked",
+                    "description": "Checked bag 23kg",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 23
+                  }
+                ]
+              },
+              "fare": {
+                "family": "Economy Standard",
+                "mixedCabin": false,
+                "mixedFareFamily": false,
+                "seatsRemaining": 9
+              },
+              "seats": {
+                "extraRoom": {
+                  "description": "Extra legroom seats",
+                  "pricing": {
+                    "display": {
+                      "amount": 4877.97,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                },
+                "seatReservation": {
+                  "description": "Seat selection available for purchase",
+                  "pricing": {
+                    "display": {
+                      "amount": 1625.99,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                }
+              },
+              "segmentAmenities": [
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "aircraftType": "Airbus A320neo",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "segmentFares": [
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "eb211119"
+                },
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "terms": {
+                "changeable": true,
+                "refundable": false,
+                "summary": [
+                  {
+                    "level": "warning",
+                    "message": "Non-refundable ticket"
+                  },
+                  {
+                    "level": "info",
+                    "message": "Changes permitted with fee"
+                  },
+                  {
+                    "level": "info",
+                    "message": "Change fee applies \u2014 exact amount confirmed at change"
+                  }
+                ],
+                "hasChangeFee": true
+              }
+            }
+          ],
+          "isCheapest": false,
+          "journeyKey": "ab763854d1063c38",
+          "legDurations": [
+            {
+              "dayChange": 0,
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT11H53M",
+                "minutes": 713
+              },
+              "overnightFlight": false
+            },
+            {
+              "dayChange": 1,
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT14H54M",
+                "minutes": 894
+              },
+              "overnightFlight": true
+            }
+          ],
+          "parameters": {
+            "adults": 0,
+            "children": 0,
+            "infants": 0
+          },
+          "segments": [
+            {
+              "arrivalTime": "2027-01-07T15:38:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-07T08:15:00",
+              "originCode": "CCU",
+              "destinationCode": "ABB",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT11H53M",
+                "minutes": 713
+              },
+              "flight": {
+                "marketingNumber": "4464",
+                "operatingNumber": "4464"
+              },
+              "segmentKey": "eb211119",
+              "originName": "Netaji Subhash Chandra Bose International Airport",
+              "destinationName": "Asaba International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2027-01-30T00:42:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-29T17:05:00",
+              "originCode": "ABB",
+              "destinationCode": "JED",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT5H37M",
+                "minutes": 337
+              },
+              "flight": {
+                "marketingNumber": "643",
+                "operatingNumber": "643"
+              },
+              "segmentKey": "cdb1e624",
+              "originName": "Asaba International Airport",
+              "destinationName": "King Abdulaziz International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2027-01-30T12:29:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-30T02:55:00",
+              "originCode": "JED",
+              "destinationCode": "CCU",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT7H4M",
+                "minutes": 424
+              },
+              "flight": {
+                "marketingNumber": "3831",
+                "operatingNumber": "3831"
+              },
+              "segmentKey": "e7b29d88",
+              "originName": "King Abdulaziz International Airport",
+              "destinationName": "Netaji Subhash Chandra Bose International Airport",
+              "stopCount": 0
+            }
+          ],
+          "timestamp": "2026-10-24T05:14:03.086Z",
+          "totalDuration": {
+            "iso8601": "PT26H47M",
+            "minutes": 1607
+          }
+        },
+        {
+          "cheapestOffer": {
+            "offerId": "AwJ2MQAAAABq3ZAcO1tYvXipmvbSF3uSbR5xVPd4ZxEYDiG1Vj1IjbRztjwUnvlpT05jpPrD5wfBmG5ST_B8Es-T-hUorJ9vky6eQ9ZTK50jyh8YFJjneK8A9XipCInJbJB7RZVy3tc1XN1OFmMsDShni6ABjMZUCXC1JDcxwKgMqgu7AhO68jwfrqkgoq3Wq2PugX_-uk60H_VsEKdB-s1gD12AtpkA0XWELxM1-3G2xbKkq8Ux5U4utiXwcib8PmTR3b7VDpXuVjv8Fzm2mRHyi-ElMUcZjQPN6-Yn",
+            "expiration": "2026-10-24T05:24:03.086Z",
+            "pricing": {
+              "display": {
+                "total": 245236.01,
+                "currency": "INR",
+                "base": 183927.55,
+                "fees": 0,
+                "taxes": 61308.46,
+                "perPassenger": {
+                  "adult": {
+                    "base": 91963.77,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 30654.23,
+                    "total": 122618
+                  },
+                  "child": {
+                    "base": 68972.29,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 22991.49,
+                    "total": 91963.78
+                  },
+                  "infant": {
+                    "base": 9196.59,
+                    "currency": "INR",
+                    "fees": 0,
+                    "taxes": 3065.53,
+                    "total": 12262.12
+                  }
+                }
+              },
+              "converted": true
+            },
+            "baggage": {
+              "hasCarryOnBag": false,
+              "hasCheckedBag": false,
+              "included": [
+                {
+                  "bagType": "personal",
+                  "description": "Personal item (backpack/handbag)",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 0,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "size": "40x30x20cm",
+                  "weightKg": 5
+                }
+              ],
+              "paid": [
+                {
+                  "bagType": "cabin",
+                  "description": "Carry-on bag",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 3251.98,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "weightKg": 8
+                },
+                {
+                  "bagType": "checked",
+                  "description": "Checked bag 23kg",
+                  "passengerType": "ALL",
+                  "pieces": 1,
+                  "pricing": {
+                    "display": {
+                      "amount": 4877.97,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "weightKg": 23
+                }
+              ]
+            },
+            "fare": {
+              "family": "Economy Light",
+              "mixedCabin": false,
+              "mixedFareFamily": false,
+              "seatsRemaining": 9
+            },
+            "seats": {
+              "extraRoom": {
+                "description": "Not available",
+                "status": "not-offered"
+              },
+              "seatReservation": {
+                "description": "Seat selection available for purchase",
+                "pricing": {
+                  "display": {
+                    "amount": 1625.99,
+                    "currency": "INR"
+                  },
+                  "converted": true
+                },
+                "status": "chargeable"
+              }
+            },
+            "segmentAmenities": [
+              {
+                "aircraftType": "Airbus A320neo",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "4f6bf685"
+              },
+              {
+                "aircraftType": "Boeing 737 MAX 8",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "7b1b794b"
+              },
+              {
+                "aircraftType": "Boeing 737 MAX 8",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "cdb1e624"
+              },
+              {
+                "aircraftType": "Airbus A320neo",
+                "amenities": [
+                  {
+                    "available": true,
+                    "category": "wifi",
+                    "chargeable": true,
+                    "details": "Available for purchase",
+                    "name": "Wi-Fi"
+                  },
+                  {
+                    "available": true,
+                    "category": "power",
+                    "chargeable": false,
+                    "name": "USB Charging"
+                  },
+                  {
+                    "available": true,
+                    "category": "entertainment",
+                    "chargeable": false,
+                    "details": "Via personal device",
+                    "name": "Streaming Entertainment"
+                  },
+                  {
+                    "available": true,
+                    "category": "food",
+                    "chargeable": true,
+                    "name": "Snack Box"
+                  },
+                  {
+                    "available": true,
+                    "category": "seat_comfort",
+                    "chargeable": false,
+                    "details": "31 inches",
+                    "name": "Seat Pitch"
+                  }
+                ],
+                "segmentKey": "e7b29d88"
+              }
+            ],
+            "segmentFares": [
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "4f6bf685"
+              },
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "7b1b794b"
+              },
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "cdb1e624"
+              },
+              {
+                "bookingCode": "L",
+                "cabin": "Economy",
+                "fareBasisCode": "LOWCCU",
+                "fareFamily": "Economy Light",
+                "seatsRemaining": 9,
+                "segmentKey": "e7b29d88"
+              }
+            ],
+            "terms": {
+              "changeable": false,
+              "refundable": false,
+              "summary": [
+                {
+                  "level": "warning",
+                  "message": "Non-refundable ticket"
+                },
+                {
+                  "level": "danger",
+                  "message": "Non-changeable ticket"
+                }
+              ]
+            }
+          },
+          "connections": [
+            {
+              "arrivalAirportCode": "JED",
+              "arrivalAirportName": "King Abdulaziz International Airport",
+              "arrivalTime": "2027-01-07T14:04:00",
+              "changeAirport": false,
+              "departureAirportCode": "JED",
+              "departureAirportName": "King Abdulaziz International Airport",
+              "departureTime": "2027-01-07T16:25:00",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT2H21M",
+                "minutes": 141
+              },
+              "overnight": false
+            },
+            {
+              "arrivalAirportCode": "JED",
+              "arrivalAirportName": "King Abdulaziz International Airport",
+              "arrivalTime": "2027-01-30T00:42:00",
+              "changeAirport": false,
+              "departureAirportCode": "JED",
+              "departureAirportName": "King Abdulaziz International Airport",
+              "departureTime": "2027-01-30T02:55:00",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT2H13M",
+                "minutes": 133
+              },
+              "overnight": false
+            }
+          ],
+          "offers": [
+            {
+              "offerId": "AwJ2MQAAAABq3ZAcEFFzyJ0mWNfvZFB9VzQeJkDkNcJQQCgZcBJfox0S37rJ96ac6D3lCVGF_anM45858cbUoKqThzK_iYzZ3Id0rbYbo5qQVVR35WesYZLX-lYRLfeGm3eo7uTDqwuwBWm_Bu_0Rnjr9wRW8huA2Ra6rCrATu4XzeNzBC7FIfDEFiE7T11Rduo5fk3y4UPjovM1_e90NF_rL4ZUsui7OsqI04nevkj1NyFpXvRmCNH6zGM-FpY_hl9EVLbe3sUVtPLyuuqONw08hpZtxt37yi4ahE5s",
+              "expiration": "2026-10-24T05:24:03.086Z",
+              "pricing": {
+                "display": {
+                  "total": 245236.01,
+                  "currency": "INR",
+                  "base": 183927.55,
+                  "fees": 0,
+                  "taxes": 61308.46,
+                  "perPassenger": {
+                    "adult": {
+                      "base": 91963.77,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 30654.23,
+                      "total": 122618
+                    },
+                    "child": {
+                      "base": 68972.29,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 22991.49,
+                      "total": 91963.78
+                    },
+                    "infant": {
+                      "base": 9196.59,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 3065.53,
+                      "total": 12262.12
+                    }
+                  }
+                },
+                "converted": true
+              },
+              "baggage": {
+                "hasCarryOnBag": false,
+                "hasCheckedBag": false,
+                "included": [
+                  {
+                    "bagType": "personal",
+                    "description": "Personal item (backpack/handbag)",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "size": "40x30x20cm",
+                    "weightKg": 5
+                  }
+                ],
+                "paid": [
+                  {
+                    "bagType": "cabin",
+                    "description": "Carry-on bag",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 3251.98,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 8
+                  },
+                  {
+                    "bagType": "checked",
+                    "description": "Checked bag 23kg",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 4877.97,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 23
+                  }
+                ]
+              },
+              "fare": {
+                "family": "Economy Light",
+                "mixedCabin": false,
+                "mixedFareFamily": false,
+                "seatsRemaining": 9
+              },
+              "seats": {
+                "extraRoom": {
+                  "description": "Not available",
+                  "status": "not-offered"
+                },
+                "seatReservation": {
+                  "description": "Seat selection available for purchase",
+                  "pricing": {
+                    "display": {
+                      "amount": 1625.99,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                }
+              },
+              "segmentAmenities": [
+                {
+                  "aircraftType": "Airbus A320neo",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "4f6bf685"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "7b1b794b"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "aircraftType": "Airbus A320neo",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "segmentFares": [
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "4f6bf685"
+                },
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "7b1b794b"
+                },
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "bookingCode": "L",
+                  "cabin": "Economy",
+                  "fareBasisCode": "LOWCCU",
+                  "fareFamily": "Economy Light",
+                  "seatsRemaining": 9,
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "terms": {
+                "changeable": false,
+                "refundable": false,
+                "summary": [
+                  {
+                    "level": "warning",
+                    "message": "Non-refundable ticket"
+                  },
+                  {
+                    "level": "danger",
+                    "message": "Non-changeable ticket"
+                  }
+                ]
+              }
+            },
+            {
+              "offerId": "AwJ2MQAAAABq3ZAcz8yn7gmwhlOwRu3_fGtbeE1CjgYtA0dmGgW4BBx0O_dFQsj1XTK-Gvh3-DrRirQUkgw0YV_H_W_uXQqUOM01WgYe7XDiptmajhnmcfnRcnErvIvf8RBB3RznU9Vqyu6pTqvRfOfSvhi5lz4Z1QkT9DnsKweta0aOjg-kK8SIkCgpdAY8PxbECpxv22jg9hJepk0mvg21vE14EPWnMJk_FsYhF1mY48o_2tsx3i5xMO4HpmpXUj_Y9xyHPWeyg87D8NsoB6bP3F5K7b-G_3Z2PlHr",
+              "expiration": "2026-10-24T05:24:03.086Z",
+              "pricing": {
+                "display": {
+                  "total": 299069.25,
+                  "currency": "INR",
+                  "base": 224301.94,
+                  "fees": 0,
+                  "taxes": 74767.31,
+                  "perPassenger": {
+                    "adult": {
+                      "base": 112150.97,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 37383.66,
+                      "total": 149534.63
+                    },
+                    "child": {
+                      "base": 84113.5,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 28037.47,
+                      "total": 112150.97
+                    },
+                    "infant": {
+                      "base": 11214.99,
+                      "currency": "INR",
+                      "fees": 0,
+                      "taxes": 3738.69,
+                      "total": 14953.68
+                    }
+                  }
+                },
+                "converted": true
+              },
+              "baggage": {
+                "hasCarryOnBag": true,
+                "hasCheckedBag": true,
+                "included": [
+                  {
+                    "bagType": "cabin",
+                    "description": "Carry-on bag",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "size": "55x40x23cm",
+                    "weightKg": 8
+                  },
+                  {
+                    "bagType": "checked",
+                    "description": "Checked bag 23kg",
+                    "passengerType": "ALL",
+                    "pieces": 1,
+                    "pricing": {
+                      "display": {
+                        "amount": 0,
+                        "currency": "INR"
+                      },
+                      "converted": true
+                    },
+                    "weightKg": 23
+                  }
+                ]
+              },
+              "fare": {
+                "family": "Economy Standard",
+                "mixedCabin": false,
+                "mixedFareFamily": false,
+                "seatsRemaining": 9
+              },
+              "seats": {
+                "extraRoom": {
+                  "description": "Extra legroom seats",
+                  "pricing": {
+                    "display": {
+                      "amount": 4877.97,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                },
+                "seatReservation": {
+                  "description": "Seat selection available for purchase",
+                  "pricing": {
+                    "display": {
+                      "amount": 1625.99,
+                      "currency": "INR"
+                    },
+                    "converted": true
+                  },
+                  "status": "chargeable"
+                }
+              },
+              "segmentAmenities": [
+                {
+                  "aircraftType": "Airbus A320neo",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "4f6bf685"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "7b1b794b"
+                },
+                {
+                  "aircraftType": "Boeing 737 MAX 8",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "aircraftType": "Airbus A320neo",
+                  "amenities": [
+                    {
+                      "available": true,
+                      "category": "wifi",
+                      "chargeable": true,
+                      "details": "Available for purchase",
+                      "name": "Wi-Fi"
+                    },
+                    {
+                      "available": true,
+                      "category": "power",
+                      "chargeable": false,
+                      "name": "USB Charging"
+                    },
+                    {
+                      "available": true,
+                      "category": "entertainment",
+                      "chargeable": false,
+                      "details": "Via personal device",
+                      "name": "Streaming Entertainment"
+                    },
+                    {
+                      "available": true,
+                      "category": "food",
+                      "chargeable": true,
+                      "name": "Snack Box"
+                    },
+                    {
+                      "available": true,
+                      "category": "seat_comfort",
+                      "chargeable": false,
+                      "details": "31 inches",
+                      "name": "Seat Pitch"
+                    }
+                  ],
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "segmentFares": [
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "4f6bf685"
+                },
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "7b1b794b"
+                },
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "cdb1e624"
+                },
+                {
+                  "bookingCode": "Y",
+                  "cabin": "Economy",
+                  "fareBasisCode": "YOWCCU",
+                  "fareFamily": "Economy Standard",
+                  "seatsRemaining": 9,
+                  "segmentKey": "e7b29d88"
+                }
+              ],
+              "terms": {
+                "changeable": true,
+                "refundable": false,
+                "summary": [
+                  {
+                    "level": "warning",
+                    "message": "Non-refundable ticket"
+                  },
+                  {
+                    "level": "info",
+                    "message": "Changes permitted with fee"
+                  },
+                  {
+                    "level": "info",
+                    "message": "Change fee applies \u2014 exact amount confirmed at change"
+                  }
+                ],
+                "hasChangeFee": true
+              }
+            }
+          ],
+          "isCheapest": true,
+          "journeyKey": "be82d4c38c3bb34e",
+          "legDurations": [
+            {
+              "dayChange": 0,
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT15H2M",
+                "minutes": 902
+              },
+              "overnightFlight": false
+            },
+            {
+              "dayChange": 1,
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT14H54M",
+                "minutes": 894
+              },
+              "overnightFlight": true
+            }
+          ],
+          "parameters": {
+            "adults": 0,
+            "children": 0,
+            "infants": 0
+          },
+          "segments": [
+            {
+              "arrivalTime": "2027-01-07T14:04:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-07T09:30:00",
+              "originCode": "CCU",
+              "destinationCode": "JED",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT7H4M",
+                "minutes": 424
+              },
+              "flight": {
+                "marketingNumber": "6984",
+                "operatingNumber": "6984"
+              },
+              "segmentKey": "4f6bf685",
+              "originName": "Netaji Subhash Chandra Bose International Airport",
+              "destinationName": "King Abdulaziz International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2027-01-07T20:02:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-07T16:25:00",
+              "originCode": "JED",
+              "destinationCode": "ABB",
+              "direction": "OUTBOUND",
+              "duration": {
+                "iso8601": "PT5H37M",
+                "minutes": 337
+              },
+              "flight": {
+                "marketingNumber": "7090",
+                "operatingNumber": "7090"
+              },
+              "segmentKey": "7b1b794b",
+              "originName": "King Abdulaziz International Airport",
+              "destinationName": "Asaba International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2027-01-30T00:42:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-29T17:05:00",
+              "originCode": "ABB",
+              "destinationCode": "JED",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT5H37M",
+                "minutes": 337
+              },
+              "flight": {
+                "marketingNumber": "643",
+                "operatingNumber": "643"
+              },
+              "segmentKey": "cdb1e624",
+              "originName": "Asaba International Airport",
+              "destinationName": "King Abdulaziz International Airport",
+              "stopCount": 0
+            },
+            {
+              "arrivalTime": "2027-01-30T12:29:00",
+              "carrier": {
+                "marketingCode": "ND",
+                "marketingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "marketingName": "Nuit\u00e9e Air",
+                "operatingCode": "ND",
+                "operatingLogo": "https://assets.nuitee.flights/static/images/airlines/ND.png",
+                "operatingName": "Nuit\u00e9e Air"
+              },
+              "departureTime": "2027-01-30T02:55:00",
+              "originCode": "JED",
+              "destinationCode": "CCU",
+              "direction": "INBOUND",
+              "duration": {
+                "iso8601": "PT7H4M",
+                "minutes": 424
+              },
+              "flight": {
+                "marketingNumber": "3831",
+                "operatingNumber": "3831"
+              },
+              "segmentKey": "e7b29d88",
+              "originName": "King Abdulaziz International Airport",
+              "destinationName": "Netaji Subhash Chandra Bose International Airport",
+              "stopCount": 0
+            }
+          ],
+          "timestamp": "2026-10-24T05:14:03.086Z",
+          "totalDuration": {
+            "iso8601": "PT29H56M",
+            "minutes": 1796
+          }
+        }
+      ],
+      "sortMetadata": {
+        "best": {
+          "journeyKey": "44ca78b8e7538a74",
+          "offerId": "AwJ2MQAAAABq3ZAcWO1QRvoBEv9QO4yjto56LTbzBJvsl0A6eQMdRiduprtE9ecyDPwFv_WJNEWVwE9kC5GfRkTQv7nT4jwsKd2Yiij8SLTHzx9lwLgoYfwAJiWOvpDy2ns1N8qykgbe4umZD0h23OuxYGFDIPFGaRS0XuZ7CNSUW6KZUHixzWNouMKVFF8IMdDoSnmtCIU9rR9oZ8I1l6FToBKgqeuA1NflNWJ_xw2QD39de1VB1xrgYTYglfH9AmSuWkqWDk8dICEVqjgM2hp9hpcDVPdHvis0BpYq",
+          "price": 272485.42,
+          "currency": "INR"
+        },
+        "duration": {
+          "journeyKey": "44ca78b8e7538a74",
+          "offerId": "AwJ2MQAAAABq3ZAcWO1QRvoBEv9QO4yjto56LTbzBJvsl0A6eQMdRiduprtE9ecyDPwFv_WJNEWVwE9kC5GfRkTQv7nT4jwsKd2Yiij8SLTHzx9lwLgoYfwAJiWOvpDy2ns1N8qykgbe4umZD0h23OuxYGFDIPFGaRS0XuZ7CNSUW6KZUHixzWNouMKVFF8IMdDoSnmtCIU9rR9oZ8I1l6FToBKgqeuA1NflNWJ_xw2QD39de1VB1xrgYTYglfH9AmSuWkqWDk8dICEVqjgM2hp9hpcDVPdHvis0BpYq",
+          "price": 272485.42,
+          "currency": "INR"
+        },
+        "price": {
+          "journeyKey": "be82d4c38c3bb34e",
+          "offerId": "AwJ2MQAAAABq3ZAcO1tYvXipmvbSF3uSbR5xVPd4ZxEYDiG1Vj1IjbRztjwUnvlpT05jpPrD5wfBmG5ST_B8Es-T-hUorJ9vky6eQ9ZTK50jyh8YFJjneK8A9XipCInJbJB7RZVy3tc1XN1OFmMsDShni6ABjMZUCXC1JDcxwKgMqgu7AhO68jwfrqkgoq3Wq2PugX_-uk60H_VsEKdB-s1gD12AtpkA0XWELxM1-3G2xbKkq8Ux5U4utiXwcib8PmTR3b7VDpXuVjv8Fzm2mRHyi-ElMUcZjQPN6-Yn",
+          "price": 245236.01,
+          "currency": "INR"
+        },
+        "stops": {
+          "journeyKey": "44ca78b8e7538a74",
+          "offerId": "AwJ2MQAAAABq3ZAcWO1QRvoBEv9QO4yjto56LTbzBJvsl0A6eQMdRiduprtE9ecyDPwFv_WJNEWVwE9kC5GfRkTQv7nT4jwsKd2Yiij8SLTHzx9lwLgoYfwAJiWOvpDy2ns1N8qykgbe4umZD0h23OuxYGFDIPFGaRS0XuZ7CNSUW6KZUHixzWNouMKVFF8IMdDoSnmtCIU9rR9oZ8I1l6FToBKgqeuA1NflNWJ_xw2QD39de1VB1xrgYTYglfH9AmSuWkqWDk8dICEVqjgM2hp9hpcDVPdHvis0BpYq",
+          "price": 272485.42,
+          "currency": "INR"
+        }
+      }
+    }
+  ]
+}

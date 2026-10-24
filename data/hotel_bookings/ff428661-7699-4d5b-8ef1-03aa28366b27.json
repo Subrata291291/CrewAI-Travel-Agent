@@ -1,0 +1,23 @@
+{
+  "booking_id": "ff428661-7699-4d5b-8ef1-03aa28366b27",
+  "trip_id": "df50f9a4-aaa5-48e8-a74d-e84711999dfe",
+  "provider": "LiteAPI Hotels",
+  "hotel_name": "Barsha Resorts Pvt Ltd",
+  "prebook_id": "IcTZtOdCs",
+  "provider_booking_id": "L6KnwLTun",
+  "client_reference": "WF-SBX-4e5172bcd3b30318a441d0c1",
+  "status": "CONFIRMED_SANDBOX",
+  "is_sandbox": true,
+  "payment_method": "ACC_CREDIT_CARD",
+  "hotel_confirmation_code": "test",
+  "submitted_at": "2026-10-24T08:55:29.132041+00:00",
+  "remote_verification": {
+    "booking_status": "CONFIRMED",
+    "sandbox": 1,
+    "checked_at": "2026-10-24T08:55:29.132041+00:00",
+    "checkin": "2026-12-10",
+    "checkout": "2026-12-15",
+    "selling_price": "5472.41",
+    "currency": "INR"
+  }
+}
