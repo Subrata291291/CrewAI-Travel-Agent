@@ -985,7 +985,7 @@ def save_planning_draft(draft_id: str):
     if missing:
         raise HTTPException(422, {
             "code": "PLANNING_DRAFT_INCOMPLETE",
-            "missing": missing,
+            "missing": [missing],
             "message": "Add the missing trip details before saving this draft.",
         })
     try:
