@@ -111,3 +111,15 @@
 :root[data-theme=dark] .hotel-place-input-wrap input{background:transparent;color:#e8ecf4}
 :root[data-theme=dark] .hotel-place-dropdown button:hover,:root[data-theme=dark] .hotel-place-dropdown button.active{background:#242137}
 :root[data-theme=dark] .hotel-place-dropdown button small,:root[data-theme=dark] .hotel-place-help,:root[data-theme=dark] .hotel-place-selected{color:#a6afbf}
+:root[data-theme=dark] .message.assistant .message-content{background:rgba(35,43,59,.88);border:1px solid rgba(148,163,184,.2);color:#e8edf7;box-shadow:inset 0 1px 0 rgba(255,255,255,.035)}
+:root[data-theme=dark] .message.assistant .assistant-markdown h1,:root[data-theme=dark] .message.assistant .assistant-markdown h2,:root[data-theme=dark] .message.assistant .assistant-markdown h3,:root[data-theme=dark] .message.assistant .assistant-markdown h4{color:#f2f4fc}
+:root[data-theme=dark] .message.assistant .assistant-markdown a{color:#c6b9ff}
+:root[data-theme=dark] .message.assistant .assistant-markdown blockquote{color:#c1cad9}
+:root[data-theme=dark] .message.assistant .assistant-markdown :not(pre)>code{background:#302a47;color:#e5ddff}
+:root[data-theme=dark] .message.assistant .assistant-markdown th{background:#302a47;color:#e5ddff}
+:root[data-theme=dark] .message.assistant .assistant-markdown th,:root[data-theme=dark] .message.assistant .assistant-markdown td,:root[data-theme=dark] .message.assistant .markdown-table-wrap{border-color:#3c4659}
+:root[data-theme=dark] .message.assistant .chat-draft-label{margin:0 0 6px;padding:9px 12px;border:1px solid rgba(167,139,250,.28);border-radius:9px;background:rgba(77,61,125,.3);color:#d8ccff;font-size:11px;line-height:1.5}
+:root[data-theme=dark] .message.assistant .chat-trip-status{border-color:rgba(52,184,139,.28);background:rgba(22,136,105,.15);color:#a9f0d3}
+:root[data-theme=dark] .chat-planning-brief{background:rgba(25,31,43,.88);border-color:#394254}
+:root[data-theme=dark] .chat-planning-brief .planning-label{background:rgba(77,61,125,.3);color:#d8ccff}
+:root[data-theme=dark] .chat-planning-brief .message-content{background:rgba(35,43,59,.88);color:#e8edf7}
