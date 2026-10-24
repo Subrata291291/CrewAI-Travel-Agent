@@ -32,6 +32,10 @@ Open two PowerShell terminals from the project root.
 
 Set `CORS_ORIGINS` to comma-separated local origins when changing the frontend address. Set `VITE_API_URL` only when the backend is hosted at a different local address. Never put provider credentials in a `VITE_` variable.
 
+## Netlify and Render deployment
+
+The repository-root `netlify.toml` configures Netlify to build the frontend from `frontend/` and embeds the public Render API URL in the production bundle. `VITE_API_URL` is a frontend build-time setting, not a secret; do not put provider keys in it. Keep the deployed Netlify origin in Render's `CORS_ORIGINS` setting (for example, `https://crewai-travel-agent.netlify.app`). After changing the Netlify build configuration, trigger a new deploy so Netlify publishes a bundle with the configured API URL.
+
 ## API and capabilities
 
 ### Accounts and private trip data
