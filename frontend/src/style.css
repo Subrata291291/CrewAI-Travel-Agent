@@ -123,3 +123,206 @@
 :root[data-theme=dark] .chat-planning-brief{background:rgba(25,31,43,.88);border-color:#394254}
 :root[data-theme=dark] .chat-planning-brief .planning-label{background:rgba(77,61,125,.3);color:#d8ccff}
 :root[data-theme=dark] .chat-planning-brief .message-content{background:rgba(35,43,59,.88);color:#e8edf7}
+
+/* Semantic theme tokens */
+:root,:root[data-theme=light]{
+  color-scheme:light;
+  --color-page-bg:#f6f8fb;
+  --color-surface:#ffffff;
+  --color-surface-elevated:#ffffff;
+  --color-surface-muted:#f1f4f8;
+  --color-text-primary:#202a3c;
+  --color-text-secondary:#475368;
+  --color-text-muted:#637087;
+  --color-border:#d9e0ea;
+  --color-border-strong:#8793a4;
+  --color-primary:#5d45c7;
+  --color-primary-hover:#4d38ad;
+  --color-primary-text:#ffffff;
+  --color-link:#5943bd;
+  --color-success:#176c55;
+  --color-success-bg:#eef9f4;
+  --color-success-border:#b8d8ca;
+  --color-warning:#62420a;
+  --color-warning-bg:#fff8e8;
+  --color-warning-border:#d6b363;
+  --color-danger:#a43c3c;
+  --color-danger-bg:#fff5f5;
+  --color-danger-border:#dda0a0;
+  --color-info:#285b82;
+  --color-info-bg:#eff7ff;
+  --color-info-border:#a8c5df;
+  --color-input-bg:#ffffff;
+  --color-input-text:#202a3c;
+  --color-placeholder:#637087;
+  --color-focus-ring:#7158dd;
+  --color-disabled-bg:#e9edf2;
+  --color-disabled-text:#586478;
+  --color-overlay:rgba(15,23,42,.62);
+  --color-accent-soft:#f0edff;
+  --color-accent-text:#5140a5;
+  --color-shadow:rgba(32,42,60,.12);
+  --ink:var(--color-text-primary);
+  --muted:var(--color-text-muted);
+  --line:var(--color-border);
+  --purple:#7158dd;
+  --purple-dark:var(--color-primary);
+  --pale:var(--color-accent-soft);
+  --green:var(--color-success);
+  background:var(--color-page-bg);
+  color:var(--color-text-primary);
+}
+:root[data-theme=dark]{
+  color-scheme:dark;
+  --color-page-bg:#0e131d;
+  --color-surface:#171f2d;
+  --color-surface-elevated:#202b3b;
+  --color-surface-muted:#263347;
+  --color-text-primary:#f4f6fb;
+  --color-text-secondary:#d0d8e5;
+  --color-text-muted:#aab6c7;
+  --color-border:#3b4a60;
+  --color-border-strong:#697a92;
+  --color-primary:#8b78f6;
+  --color-primary-hover:#a192ff;
+  --color-primary-text:#101321;
+  --color-link:#c1b4ff;
+  --color-success:#a9f0d3;
+  --color-success-bg:#18352f;
+  --color-success-border:#3e7163;
+  --color-warning:#f2d99d;
+  --color-warning-bg:#30291b;
+  --color-warning-border:#8a713a;
+  --color-danger:#ffc1c5;
+  --color-danger-bg:#3a242a;
+  --color-danger-border:#8b4a55;
+  --color-info:#b7dcff;
+  --color-info-bg:#1d3042;
+  --color-info-border:#41627f;
+  --color-input-bg:#141b28;
+  --color-input-text:#f4f6fb;
+  --color-placeholder:#aab6c7;
+  --color-focus-ring:#b3a5ff;
+  --color-disabled-bg:#202938;
+  --color-disabled-text:#aab6c7;
+  --color-overlay:rgba(5,9,16,.78);
+  --color-accent-soft:#30294a;
+  --color-accent-text:#e0d8ff;
+  --color-shadow:rgba(0,0,0,.38);
+  --ink:var(--color-text-primary);
+  --muted:var(--color-text-muted);
+  --line:var(--color-border);
+  --purple:var(--color-primary);
+  --purple-dark:var(--color-primary-hover);
+  --pale:var(--color-accent-soft);
+  --green:var(--color-success);
+  background:var(--color-page-bg);
+  color:var(--color-text-primary);
+}
+html,body{background:var(--color-page-bg);color:var(--color-text-primary)}
+::selection{background:var(--color-accent-soft);color:var(--color-text-primary)}
+:where(button,a,input,select,textarea,[tabindex]):focus-visible{outline:3px solid var(--color-focus-ring);outline-offset:2px}
+:where(input,select,textarea){color-scheme:inherit}
+input::placeholder,textarea::placeholder{color:var(--color-placeholder);opacity:1}
+input[type=checkbox],input[type=radio]{accent-color:var(--color-primary)}
+.main,.content,.auth-screen,.auth-loading{background:var(--color-page-bg);color:var(--color-text-primary)}
+.sidebar,.topbar,.search-card,.trip-panel,.quick-panel,.chat-card,.booking-section,.trip-list,.account-card,.trip-picker,.flight-card,.flight-offer-card,.hotel-card,.prebook-card,.modal-card,.user-menu,.chat-weather-card,.hotel-service-panel,.hotel-checkout,.flight-checkout-area,.chat-planning-brief,.flight-leg,.prebook-summary,.hotel-place-dropdown,.airport-dropdown,[role=dialog]{background:var(--color-surface);color:var(--color-text-primary);border-color:var(--color-border)}
+.quick-panel{background:linear-gradient(145deg,var(--color-surface) 50%,var(--color-surface-muted))}
+.topbar,.sidebar{border-color:var(--color-border)}
+.welcome h1,.page-header h1,.section-heading h2,.section-title h2,.results-toolbar h2,.panel-head h3,.quick-panel h3,.trip-main b,.quick-link b,.account-identity h2,.account-details>div b,.account-summary h3,.account-trip-list h3,.auth-card h2,.crumb b,.hotel-info h3,.flight-brand b,.flight-leg-endpoints strong,.flight-total,.booking-heading h2,.empty-state h3,.chat-welcome h2,.modal-card h2,.modal-card h3{color:var(--color-text-primary)}
+.welcome p,.page-header p,.section-title p,.muted,.trip-main small,.quick-link small,.hotel-info p,.hotel-price small,.room-info,.booking-main small,.booking-heading small,.flight-brand small,.offer-expiry,.flight-step-status,.fare-note,.flight-leg-header>span,.flight-leg-endpoints small,.flight-segment,.flight-segment small,.flight-layovers,.flight-fare-panel .baggage-summary,.trip-picker label,.selected-trip-context,.chat-top small,.chat-footnote,.chat-welcome p,.chat-compose .muted,.account-identity p,.account-details>div span,.account-summary p,.account-trip small,.auth-subtitle,.auth-switch,.auth-security,.auth-loading{color:var(--color-text-secondary)}
+.eyebrow,.workspace-label,.field>span,.auth-field,.checkout-fields label,.flight-contact-fields label,.offer-kind,.hotel-place-autocomplete>label{color:var(--color-text-secondary)}
+.nav-item,.environment,.crumb,.quick-link,.user-menu-trigger,.user-menu button,.account-trip,.text-button,.auth-switch a,.airport-clear,.hotel-place-input-wrap button{color:var(--color-text-secondary)}
+a,.text-button{color:var(--color-link)}
+.nav-item:hover,.nav-item.selected,.text-button:hover,.user-menu button:hover,.user-menu button.logout-item:hover,.account-trip:hover{color:var(--color-link)}
+.nav-item:hover,.trip-row:hover,.account-trip:hover,.user-menu button:hover,.airport-option:hover,.airport-option.active,.hotel-place-dropdown button:hover,.hotel-place-dropdown button.active{background:var(--color-surface-muted)}
+.nav-item.selected{background:var(--color-accent-soft);color:var(--color-accent-text)}
+.trip-row,.account-trip,.user-menu-trigger,.round-button,.user-menu,.trip-list,.account-details>div,.account-identity,.account-trip-list,.card-footer,.profile,.flight-offer-heading,.flight-segment-list,.flight-fare-panel,.flight-passenger-form,.liteapi-payment-form,.flight-passenger,.flight-leg,.markdown-table-wrap,table,th,td{border-color:var(--color-border)}
+.trip-row,.account-trip,.user-menu-trigger,.round-button,.user-menu button,.flight-leg,.airport-option,.hotel-place-dropdown button{background:var(--color-surface);color:var(--color-text-primary)}
+.trip-row:hover .trip-main b,.trip-row:hover .row-arrow{color:var(--color-link)}
+.trip-status,.pill,.tags span{background:var(--color-surface-muted);color:var(--color-text-secondary);border:1px solid var(--color-border)}
+.trip-status.ready,.pill.success,.tags .success{background:var(--color-success-bg);color:var(--color-success);border-color:var(--color-success-border)}
+.primary{background:var(--color-primary);color:var(--color-primary-text)}
+.primary:hover{background:var(--color-primary-hover);color:var(--color-primary-text)}
+.secondary,.step,.trip-icon,.quick-link>div,.auth-card-mark,.airport-option strong{background:var(--color-accent-soft);color:var(--color-accent-text)}
+.secondary:hover,.round-button:hover{background:var(--color-surface-muted);color:var(--color-link)}
+.theme-toggle{background:var(--color-surface);color:var(--color-text-secondary);border-color:var(--color-border)}
+.theme-toggle:hover{background:var(--color-surface-muted);color:var(--color-link);border-color:var(--color-border-strong)}
+.trip-status:not(.ready){background:var(--color-surface-muted);color:var(--color-text-secondary);border-color:var(--color-border)}
+.primary:disabled,.secondary:disabled,button:disabled{background:var(--color-disabled-bg);color:var(--color-disabled-text);border-color:var(--color-border);box-shadow:none;opacity:1;cursor:not-allowed}
+.field-input,.field select,.field-input input,.auth-field>input,.auth-password,.trip-picker select,.chat-compose textarea,.checkout-fields input,.checkout-fields select,.guest-fields input,.flight-contact-fields input,.flight-contact-fields select,textarea,input,select{background-color:var(--color-input-bg);color:var(--color-input-text);border-color:var(--color-border-strong)}
+.field-input input,.auth-password input,.airport-input-wrap input,.hotel-place-input-wrap input{background:transparent;color:var(--color-input-text)}
+.field-input svg,.airport-input-wrap,.hotel-place-input-wrap{color:var(--color-text-secondary)}
+.auth-password button{background:transparent;color:var(--color-text-secondary)}
+.auth-field>input:focus,.auth-password:focus-within,.field-input:focus-within,.airport-input-wrap:focus-within,.hotel-place-input-wrap:focus-within,.chat-compose textarea:focus{border-color:var(--color-focus-ring);box-shadow:0 0 0 3px color-mix(in srgb,var(--color-focus-ring) 28%,transparent)}
+.airport-dropdown,.hotel-place-dropdown,.user-menu{box-shadow:0 14px 38px var(--color-shadow)}
+.airport-option,.hotel-place-dropdown button{border-color:var(--color-border)}
+.airport-option small,.airport-feedback,.airport-hint,.hotel-place-dropdown button small,.hotel-place-dropdown>div,.hotel-place-help,.hotel-place-selected{color:var(--color-text-secondary)}
+.airport-option strong{border:1px solid var(--color-border)}
+.airport-selected,.flight-verified-summary,.flight-checkout-area,.payment-return{background:var(--color-surface-muted);color:var(--color-text-secondary);border-color:var(--color-border)}
+.flight-verified-summary b,.flight-step-status{color:var(--color-text-primary)}
+.booking-steps{background:var(--color-surface);color:var(--color-text-secondary);border-color:var(--color-border)}
+.hotel-price b,.booking-price,.flight-total,.flight-fare-panel .flight-total{color:var(--color-text-primary)}
+.tags span{border-radius:999px}
+.alert.success,.chat-trip-status,.flight-booking-result.confirmed{background:var(--color-success-bg);color:var(--color-success);border-color:var(--color-success-border)}
+.sandbox-banner,.flight-booking-result{background:var(--color-warning-bg);color:var(--color-warning);border-color:var(--color-warning-border)}
+.alert.error,.auth-error,.airport-error{background:var(--color-danger-bg);color:var(--color-danger);border-color:var(--color-danger-border)}
+.alert.info{background:var(--color-info-bg);color:var(--color-info);border-color:var(--color-info-border)}
+.alert.warning{background:var(--color-warning-bg);color:var(--color-warning);border-color:var(--color-warning-border)}
+.chat-draft-label,.planning-label{background:var(--color-accent-soft);color:var(--color-accent-text)}
+.chat-weather-days>div{background:var(--color-surface-muted);color:var(--color-text-primary)}
+.chat-weather-days span,.chat-weather-card>small{color:var(--color-text-secondary)}
+.chat-weather-card>p{color:var(--color-warning)}
+.assistant-markdown h1,.assistant-markdown h2,.assistant-markdown h3,.assistant-markdown h4{color:var(--color-text-primary)}
+.assistant-markdown a{color:var(--color-link)}
+.assistant-markdown blockquote{color:var(--color-text-secondary)}
+.assistant-markdown :not(pre)>code{background:var(--color-accent-soft);color:var(--color-accent-text)}
+.assistant-markdown pre{background:var(--color-surface-muted);color:var(--color-text-primary)}
+.assistant-markdown th{background:var(--color-accent-soft);color:var(--color-accent-text)}
+.assistant-markdown th,.assistant-markdown td{border-color:var(--color-border)}
+.message.assistant .message-content{background:var(--color-surface-muted);color:var(--color-text-primary);border-color:var(--color-border)}
+.message.user .message-content{background:var(--color-primary);color:var(--color-primary-text)}
+.chat-planning-brief .message-content{background:var(--color-surface);color:var(--color-text-primary)}
+.chat-hotel-results article{background:var(--color-surface);border-color:var(--color-border);color:var(--color-text-primary)}
+.chat-hotel-results small{color:var(--color-text-secondary)}
+.account-summary,.weather,.chat-welcome,.empty-icon{background:var(--color-surface-muted);color:var(--color-text-primary)}
+.auth-form-panel{background:var(--color-page-bg)}
+.auth-card h2{color:var(--color-text-primary)}
+.auth-card>.eyebrow,.auth-switch a{color:var(--color-link)}
+.auth-security span{color:var(--color-text-primary)}
+.auth-screen .auth-brand-panel{color:#ffffff}
+.auth-brand-panel .auth-brand small,.auth-brand-copy .auth-kicker{color:#e8e2ff}
+.modal-backdrop{background:var(--color-overlay)}
+:root[data-theme=dark] .sidebar,:root[data-theme=dark] .topbar,:root[data-theme=dark] .search-card,:root[data-theme=dark] .trip-panel,:root[data-theme=dark] .quick-panel,:root[data-theme=dark] .chat-card,:root[data-theme=dark] .booking-section,:root[data-theme=dark] .trip-list,:root[data-theme=dark] .account-card,:root[data-theme=dark] .trip-picker,:root[data-theme=dark] .flight-card,:root[data-theme=dark] .flight-offer-card,:root[data-theme=dark] .hotel-card,:root[data-theme=dark] .prebook-card,:root[data-theme=dark] .modal-card,:root[data-theme=dark] .user-menu,:root[data-theme=dark] .chat-weather-card,:root[data-theme=dark] .hotel-service-panel,:root[data-theme=dark] .hotel-checkout,:root[data-theme=dark] .flight-checkout-area,:root[data-theme=dark] .chat-planning-brief,:root[data-theme=dark] .flight-leg,:root[data-theme=dark] .prebook-summary,:root[data-theme=dark] .hotel-place-dropdown,:root[data-theme=dark] .airport-dropdown,:root[data-theme=dark] [role=dialog]{background-color:var(--color-surface);color:var(--color-text-primary);border-color:var(--color-border)}
+:root[data-theme=dark] .quick-panel{background:linear-gradient(145deg,var(--color-surface) 50%,var(--color-surface-muted))}
+:root[data-theme=dark] .theme-toggle{background:var(--color-surface);color:var(--color-text-secondary);border-color:var(--color-border)}
+:root[data-theme=dark] .theme-toggle:hover{background:var(--color-surface-muted);color:var(--color-link)}
+:root[data-theme=dark] .trip-status:not(.ready),:root[data-theme=dark] .pill:not(.success){background:var(--color-surface-muted);color:var(--color-text-secondary);border-color:var(--color-border)}
+:root[data-theme=dark] .trip-status.ready,:root[data-theme=dark] .pill.success,:root[data-theme=dark] .tags .success,:root[data-theme=dark] .alert.success,:root[data-theme=dark] .chat-trip-status,:root[data-theme=dark] .flight-booking-result.confirmed{background:var(--color-success-bg);color:var(--color-success);border-color:var(--color-success-border)}
+:root[data-theme=dark] .alert.error,:root[data-theme=dark] .auth-error,:root[data-theme=dark] .airport-error{background:var(--color-danger-bg);color:var(--color-danger);border-color:var(--color-danger-border)}
+:root[data-theme=dark] .sandbox-banner,:root[data-theme=dark] .flight-booking-result{background:var(--color-warning-bg);color:var(--color-warning);border-color:var(--color-warning-border)}
+:root[data-theme=dark] .alert.info{background:var(--color-info-bg);color:var(--color-info);border-color:var(--color-info-border)}
+:root[data-theme=dark] .alert.warning{background:var(--color-warning-bg);color:var(--color-warning);border-color:var(--color-warning-border)}
+:root[data-theme=dark] body,:root[data-theme=dark] .main,:root[data-theme=dark] .content,:root[data-theme=dark] .auth-screen,:root[data-theme=dark] .auth-form-panel,:root[data-theme=dark] .auth-loading{background:var(--color-page-bg);color:var(--color-text-primary)}
+:root[data-theme=dark] :is(.field-input,.field select,.field-input input,.auth-field>input,.auth-password,.trip-picker select,.chat-compose textarea,.checkout-fields input,.checkout-fields select,.guest-fields input,.flight-contact-fields input,.flight-contact-fields select,input,select,textarea){background-color:var(--color-input-bg);color:var(--color-input-text);border-color:var(--color-border-strong)}
+:root[data-theme=dark] .field-input input::placeholder,:root[data-theme=dark] input::placeholder,:root[data-theme=dark] textarea::placeholder,:root[data-theme=dark] .airport-input-wrap input::placeholder,:root[data-theme=dark] .auth-field>input::placeholder,:root[data-theme=dark] .auth-password input::placeholder,:root[data-theme=dark] .chat-compose textarea::placeholder{color:var(--color-placeholder);opacity:1}
+:root[data-theme=dark] :is(.welcome p,.page-header p,.section-title p,.muted,.trip-main small,.quick-link small,.hotel-info p,.hotel-price small,.room-info,.booking-main small,.booking-heading small,.flight-brand small,.offer-expiry,.flight-step-status,.fare-note,.flight-leg-header>span,.flight-leg-endpoints small,.flight-segment,.flight-segment small,.flight-layovers,.baggage-summary,.selected-trip-context,.chat-top small,.chat-footnote,.chat-welcome p,.account-identity p,.account-details>div span,.account-summary p,.account-trip small,.auth-subtitle,.auth-switch,.auth-security,.auth-loading){color:var(--color-text-muted)}
+:root[data-theme=dark] :is(.eyebrow,.workspace-label,.field>span,.auth-field,.checkout-fields label,.flight-contact-fields label,.offer-kind,.hotel-place-autocomplete>label){color:var(--color-text-secondary)}
+:root[data-theme=dark] .auth-card h2,:root[data-theme=dark] .account-identity h2,:root[data-theme=dark] .account-summary h3,:root[data-theme=dark] .account-trip-list h3,:root[data-theme=dark] .account-details>div b{color:var(--color-text-primary)}
+:root[data-theme=dark] .auth-card>.eyebrow,:root[data-theme=dark] .auth-switch a,:root[data-theme=dark] a{color:var(--color-link)}
+:root[data-theme=dark] .auth-password button,:root[data-theme=dark] .airport-clear,:root[data-theme=dark] .hotel-place-input-wrap button{color:var(--color-text-secondary)}
+:root[data-theme=dark] .auth-security{border-color:var(--color-border)}
+:root[data-theme=dark] .auth-security span{color:var(--color-text-primary)}
+:root[data-theme=dark] .airport-dropdown,:root[data-theme=dark] .hotel-place-dropdown,:root[data-theme=dark] .user-menu{box-shadow:0 14px 38px var(--color-shadow)}
+:root[data-theme=dark] .airport-option,:root[data-theme=dark] .hotel-place-dropdown button{background:var(--color-surface);color:var(--color-text-primary);border-color:var(--color-border)}
+:root[data-theme=dark] .airport-option:hover,:root[data-theme=dark] .airport-option.active,:root[data-theme=dark] .hotel-place-dropdown button:hover,:root[data-theme=dark] .hotel-place-dropdown button.active{background:var(--color-surface-muted)}
+:root[data-theme=dark] .airport-option small,:root[data-theme=dark] .airport-feedback,:root[data-theme=dark] .airport-hint,:root[data-theme=dark] .hotel-place-dropdown button small,:root[data-theme=dark] .hotel-place-help,:root[data-theme=dark] .hotel-place-selected{color:var(--color-text-muted)}
+:root[data-theme=dark] .airport-option strong{background:var(--color-accent-soft);color:var(--color-accent-text);border-color:var(--color-border)}
+:root[data-theme=dark] .airport-selected,:root[data-theme=dark] .flight-verified-summary,:root[data-theme=dark] .flight-checkout-area,:root[data-theme=dark] .booking-steps{background:var(--color-surface-muted);color:var(--color-text-secondary);border-color:var(--color-border)}
+:root[data-theme=dark] .assistant-markdown a,:root[data-theme=dark] .message.assistant .assistant-markdown a{color:var(--color-link)}
+:root[data-theme=dark] .assistant-markdown blockquote,:root[data-theme=dark] .message.assistant .assistant-markdown blockquote{color:var(--color-text-secondary)}
+:root[data-theme=dark] .assistant-markdown th,:root[data-theme=dark] .message.assistant .assistant-markdown th{background:var(--color-accent-soft);color:var(--color-accent-text)}
+:root[data-theme=dark] .assistant-markdown :not(pre)>code,:root[data-theme=dark] .message.assistant .assistant-markdown :not(pre)>code{background:var(--color-accent-soft);color:var(--color-accent-text)}
+:root[data-theme=dark] .assistant-markdown pre,:root[data-theme=dark] .message.assistant .assistant-markdown pre{background:var(--color-surface-muted);color:var(--color-text-primary)}
+:root[data-theme=dark] .chat-draft-label,:root[data-theme=dark] .planning-label{background:var(--color-accent-soft);color:var(--color-accent-text)}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}

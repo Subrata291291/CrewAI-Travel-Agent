@@ -9,7 +9,7 @@ function newConversationId(){return globalThis.crypto?.randomUUID?.()||`wayfarer
 function activeDraftStorageKey(userId:string){return `wayfarer-active-draft:${userId}`}
 function selectedTripStorageKey(userId:string){return `wayfarer-selected-trip:${userId}`}
 function hotelSearchContextKey(trip:Trip){const r=trip.travel_request;return JSON.stringify([trip.trip_id,r.destination,r.departure_date,r.return_date,r.adults,r.children,r.rooms,r.currency,r.hotel_budget_per_night])}
-function readTheme(): 'light'|'dark'{try{return localStorage.getItem('wayfarer-theme')==='dark'?'dark':'light'}catch{return 'light'}}
+function readTheme(): 'light'|'dark'{let theme:'light'|'dark'='light';try{theme=localStorage.getItem('wayfarer-theme')==='dark'?'dark':'light'}catch{theme='light'}document.documentElement.dataset.theme=theme;return theme}
 const EMPTY_TRIP_FORM={origin:'',destination:'',departure_date:'',return_date:'',journey_type:'round_trip',adults:'2',children:'0',rooms:'1',hotel_budget_per_night:'',total_trip_budget:'',budget_currency:'INR',currency:'INR',hotel_preferences:'',flight_preferences:'',transport_preferences:''};
 type AuthUser = {user_id:string;full_name:string;email:string;created_at:string};
 type AuthResponse = {user:AuthUser;trip_count?:number};
